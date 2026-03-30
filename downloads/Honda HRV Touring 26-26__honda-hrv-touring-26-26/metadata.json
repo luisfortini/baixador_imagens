@@ -1,0 +1,37 @@
+{
+  "collectedAt": "2026-03-30T00:52:29.943Z",
+  "description": "Honda HRV Touring 26-26 - 26-26 AF CNPJ, Pronto Faturamento, disponivel nas cores Cinza Basalto, Prata e Azul",
+  "extractionMode": "playwright",
+  "folderName": "Honda HRV Touring 26-26__honda-hrv-touring-26-26",
+  "name": "Honda HRV Touring 26-26",
+  "pageTitle": "Honda HRV Touring 26-26 - R$ 199.990, - Sinal Verde Intermediações - atendendo lojistas de todo Brasil",
+  "price": "R$ 199.990,",
+  "savedFiles": [
+    "01.webp",
+    "02.webp",
+    "03.webp",
+    "04.webp",
+    "05.webp",
+    "06.webp",
+    "07.webp",
+    "08.webp",
+    "09.webp"
+  ],
+  "sourceImageUrls": [
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_9071-rioeo1bayfr5889402otnfa86px9rutuj6ww9bflmo.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_9075-rioeo1bayfr5889402otnfa86px9rutuj6ww9bflmo.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_9072-rioeo1bayfr5889402otnfa86px9rutuj6ww9bflmo.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_9079-1-rioenzfmkrokl0bub1vkifrazy6jcgmduxlxaridz4.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_9074-rioeo0dgrlpuwmah5ka72xirlc1wk5q4729es1gzsw.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_9076-rioeo0dgrlpuwmah5ka72xirlc1wk5q4729es1gzsw.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_9073-rioeo0dgrlpuwmah5ka72xirlc1wk5q4729es1gzsw.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_9077-rioeo0dgrlpuwmah5ka72xirlc1wk5q4729es1gzsw.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_9078-rioeo1bayfr5889402otnfa86px9rutuj6ww9bflmo.webp"
+  ],
+  "totalImages": 9,
+  "url": "https://svintermed.com.br/veiculos/honda-hrv-touring-26-26/",
+  "warnings": [
+    "Imagens fora da galeria principal foram ignoradas."
+  ],
+  "errors": []
+}

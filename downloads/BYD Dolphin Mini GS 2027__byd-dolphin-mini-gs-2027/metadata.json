@@ -1,0 +1,35 @@
+{
+  "collectedAt": "2026-03-30T00:52:59.529Z",
+  "description": "BYD Dolphin Mini GS 2027 - 2027 A Faturar PF/PJ",
+  "extractionMode": "playwright",
+  "folderName": "BYD Dolphin Mini GS 2027__byd-dolphin-mini-gs-2027",
+  "name": "BYD Dolphin Mini GS 2027",
+  "pageTitle": "BYD Dolphin Mini GS 2027 - R$ 116.590, - Sinal Verde Intermediações - atendendo lojistas de todo Brasil",
+  "price": "R$ 116.590,",
+  "savedFiles": [
+    "01.webp",
+    "02.webp",
+    "03.webp",
+    "04.webp",
+    "05.webp",
+    "06.webp",
+    "07.webp",
+    "08.webp"
+  ],
+  "sourceImageUrls": [
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_8898-ri8pnyax2npnytcxsymb1699fnlv8w3up4iaw9vm0w.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_8895-ri8pnyax2npnytcxsymb1699fnlv8w3up4iaw9vm0w.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_8894-ri8pnyax2npnytcxsymb1699fnlv8w3up4iaw9vm0w.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_8902-1-ri8pnxd2vtodn7eayg7ogohsu9qi1704czutezx074.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_8899-ri8pnxd2vtodn7eayg7ogohsu9qi1704czutezx074.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_8897-ri8pnxd2vtodn7eayg7ogohsu9qi1704czutezx074.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_8900-ri8pnxd2vtodn7eayg7ogohsu9qi1704czutezx074.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_8896-ri8pnyax2npnytcxsymb1699fnlv8w3up4iaw9vm0w.webp"
+  ],
+  "totalImages": 8,
+  "url": "https://svintermed.com.br/veiculos/byd-dolphin-mini-gs-2027/",
+  "warnings": [
+    "Imagens fora da galeria principal foram ignoradas."
+  ],
+  "errors": []
+}

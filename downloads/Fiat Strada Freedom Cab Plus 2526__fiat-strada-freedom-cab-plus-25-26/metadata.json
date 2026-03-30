@@ -1,0 +1,31 @@
+{
+  "collectedAt": "2026-03-30T00:52:06.974Z",
+  "description": "Fiat Strada Freedom Cab Plus 25/26 - 25/26 Válido para Refaturar CNPJ na cor Cinza com Sensor de Estacionamento",
+  "extractionMode": "playwright",
+  "folderName": "Fiat Strada Freedom Cab Plus 2526__fiat-strada-freedom-cab-plus-25-26",
+  "name": "Fiat Strada Freedom Cab Plus 25/26",
+  "pageTitle": "Fiat Strada Freedom Cab Plus 25/26 - R$ 91.690, - Sinal Verde Intermediações - atendendo lojistas de todo Brasil",
+  "price": "R$ 91.690,",
+  "savedFiles": [
+    "01.webp",
+    "02.webp",
+    "03.webp",
+    "04.webp",
+    "05.webp",
+    "06.webp"
+  ],
+  "sourceImageUrls": [
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_9267-rjkv3vn789zeeg6apeh2brdi26ljprd93vrh8yydds.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_9269-rjkv3vn789zeeg6apeh2brdi26ljprd93vrh8yydds.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_9268-rjkv3vn789zeeg6apeh2brdi26ljprd93vrh8yydds.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_9271-1-rjkv3upd1fy42u7nuw2fr9m1gsq6i29irr3zrozrk0.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_9266-rjkv3upd1fy42u7nuw2fr9m1gsq6i29irr3zrozrk0.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_9270-rjkv3upd1fy42u7nuw2fr9m1gsq6i29irr3zrozrk0.webp"
+  ],
+  "totalImages": 6,
+  "url": "https://svintermed.com.br/veiculos/fiat-strada-freedom-cab-plus-25-26/",
+  "warnings": [
+    "Imagens fora da galeria principal foram ignoradas."
+  ],
+  "errors": []
+}

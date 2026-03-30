@@ -1,0 +1,31 @@
+{
+  "collectedAt": "2026-03-30T00:56:24.034Z",
+  "description": "Fiat Toro Volcano Diesel - Oferta válida para Refaturamento CNPJ, Com Pach Tech 📌 na cor azul",
+  "extractionMode": "playwright",
+  "folderName": "Fiat Toro Volcano Diesel__fiat-toro-volcano-diesel",
+  "name": "Fiat Toro Volcano Diesel",
+  "pageTitle": "Fiat Toro Volcano Diesel - R$ 179.990, - Sinal Verde Intermediações - atendendo lojistas de todo Brasil",
+  "price": "R$ 179.990,",
+  "savedFiles": [
+    "01.webp",
+    "02.webp",
+    "03.webp",
+    "04.webp",
+    "05.webp",
+    "06.webp"
+  ],
+  "sourceImageUrls": [
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_7994-rhbsnr98st4cuvo9duv4fbpzrma5s434srdosqkpxc.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_7992-rhbsnr98st4cuvo9duv4fbpzrma5s434srdosqkpxc.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_7991-rhbsns72zn5n6hmw8d9qzthgd05izt6v4w16a0jbr4.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_8169-1-rhfbqmkq19rtz4f4cvblkdfjvfbwap04s9iuy5dbuo.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_7996-rhbsnqbelz32j9pmjcghutyj68eskezegmq7bgm43k.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_7995-rhbsnr98st4cuvo9duv4fbpzrma5s434srdosqkpxc.webp"
+  ],
+  "totalImages": 6,
+  "url": "https://svintermed.com.br/veiculos/fiat-toro-volcano-diesel/",
+  "warnings": [
+    "Imagens fora da galeria principal foram ignoradas."
+  ],
+  "errors": []
+}

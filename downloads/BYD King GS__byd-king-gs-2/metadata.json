@@ -1,0 +1,17 @@
+{
+  "collectedAt": "2026-03-30T00:54:39.830Z",
+  "description": "BYD King GS - Oferta para faturar CPF nas cores Preta e Branca",
+  "extractionMode": "playwright",
+  "folderName": "BYD King GS__byd-king-gs-2",
+  "name": "BYD King GS",
+  "pageTitle": "BYD King GS - R$ 164.590, - Sinal Verde Intermediações - atendendo lojistas de todo Brasil",
+  "price": "R$ 164.590,",
+  "savedFiles": [],
+  "sourceImageUrls": [],
+  "totalImages": 0,
+  "url": "https://svintermed.com.br/veiculos/byd-king-gs-2/",
+  "warnings": [
+    "Galeria principal ausente; imagens de veiculos relacionados foram ignoradas."
+  ],
+  "errors": []
+}

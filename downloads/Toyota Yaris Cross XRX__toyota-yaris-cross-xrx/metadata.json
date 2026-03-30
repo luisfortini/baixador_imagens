@@ -1,0 +1,31 @@
+{
+  "collectedAt": "2026-03-30T00:51:14.133Z",
+  "description": "Toyota Yaris Cross XRX - A Faturar CPF com IPVA TOTAL PG na cor Vermelha <<<",
+  "extractionMode": "playwright",
+  "folderName": "Toyota Yaris Cross XRX__toyota-yaris-cross-xrx",
+  "name": "Toyota Yaris Cross XRX",
+  "pageTitle": "Toyota Yaris Cross XRX - R$ 179.990, - Sinal Verde Intermediações - atendendo lojistas de todo Brasil",
+  "price": "R$ 179.990,",
+  "savedFiles": [
+    "01.webp",
+    "02.webp",
+    "03.webp",
+    "04.webp",
+    "05.webp",
+    "06.webp"
+  ],
+  "sourceImageUrls": [
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/7d42c1f9-6a66-400c-b2b0-735503e94831-rk9dyqknx6bkmtsr4pu8wgsqhwxiw9466fgnfe6xq8.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/5f13fb17-61c8-4690-b93d-75cf6659aa8a-rk9dyrii40cuyfrdz88vgyk73asw3y7wik44wo5jk0.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/994bd8c6-b8e5-4040-95cc-e2078ab89e0c-rk9dyrii40cuyfrdz88vgyk73asw3y7wik44wo5jk0.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_9712-1-rk9dyqknx6bkmtsr4pu8wgsqhwxiw9466fgnfe6xq8.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_9711-rk9dyqknx6bkmtsr4pu8wgsqhwxiw9466fgnfe6xq8.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/5c66c668-ca59-49d2-a1ff-251cc8a93cad-rk9dyqknx6bkmtsr4pu8wgsqhwxiw9466fgnfe6xq8.webp"
+  ],
+  "totalImages": 6,
+  "url": "https://svintermed.com.br/veiculos/toyota-yaris-cross-xrx/",
+  "warnings": [
+    "Imagens fora da galeria principal foram ignoradas."
+  ],
+  "errors": []
+}

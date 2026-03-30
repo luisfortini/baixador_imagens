@@ -1,0 +1,35 @@
+{
+  "collectedAt": "2026-03-30T00:58:34.884Z",
+  "description": "BYD King GL - Oferta válida para faturamento CNPJ, consulte condições!",
+  "extractionMode": "playwright",
+  "folderName": "BYD King GL__byd-king-gl",
+  "name": "BYD King GL",
+  "pageTitle": "BYD King GL - R$ 140.990, - Sinal Verde Intermediações - atendendo lojistas de todo Brasil",
+  "price": "R$ 140.990,",
+  "savedFiles": [
+    "01.webp",
+    "02.webp",
+    "03.webp",
+    "04.webp",
+    "05.webp",
+    "06.webp",
+    "07.webp",
+    "08.webp"
+  ],
+  "sourceImageUrls": [
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_1043-r9n0745jjplswnf4zdwrvqa5acnyth06afjitz8vuo.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_1042-r9n0745jjplswnf4zdwrvqa5acnyth06afjitz8vuo.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_1045-r9n0745jjplswnf4zdwrvqa5acnyth06afjitz8vuo.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_8276-1-rhgoy6y6uawvpj4dnn0dybop8zi9m3zx0p9mqengow.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_1044-r9n0745jjplswnf4zdwrvqa5acnyth06afjitz8vuo.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_1047-r9n0745jjplswnf4zdwrvqa5acnyth06afjitz8vuo.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_1041-1-r9n0745jjplswnf4zdwrvqa5acnyth06afjitz8vuo.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_1046-r9n0745jjplswnf4zdwrvqa5acnyth06afjitz8vuo.webp"
+  ],
+  "totalImages": 8,
+  "url": "https://svintermed.com.br/veiculos/byd-king-gl/",
+  "warnings": [
+    "Imagens fora da galeria principal foram ignoradas."
+  ],
+  "errors": []
+}

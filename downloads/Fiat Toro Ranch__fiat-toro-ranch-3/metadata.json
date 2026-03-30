@@ -1,0 +1,17 @@
+{
+  "collectedAt": "2026-03-30T00:53:09.940Z",
+  "description": "Fiat Toro Ranch - FR Liberado, no Chão SP",
+  "extractionMode": "playwright",
+  "folderName": "Fiat Toro Ranch__fiat-toro-ranch-3",
+  "name": "Fiat Toro Ranch",
+  "pageTitle": "Fiat Toro Ranch - R$ 189.590, - Sinal Verde Intermediações - atendendo lojistas de todo Brasil",
+  "price": "R$ 189.590,",
+  "savedFiles": [],
+  "sourceImageUrls": [],
+  "totalImages": 0,
+  "url": "https://svintermed.com.br/veiculos/fiat-toro-ranch-3/",
+  "warnings": [
+    "Galeria principal ausente; imagens de veiculos relacionados foram ignoradas."
+  ],
+  "errors": []
+}

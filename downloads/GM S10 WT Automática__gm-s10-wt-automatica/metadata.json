@@ -1,0 +1,35 @@
+{
+  "collectedAt": "2026-03-30T00:55:34.994Z",
+  "description": "GM S10 WT Automática - Oferta para Veículo 26/26 VENDA DIRETA CNPJ ou RURAL FAT ÁREA LIVRE, na cor branca",
+  "extractionMode": "playwright",
+  "folderName": "GM S10 WT Automática__gm-s10-wt-automatica",
+  "name": "GM S10 WT Automática",
+  "pageTitle": "GM S10 WT Automática - R$ 239.990, - Sinal Verde Intermediações - atendendo lojistas de todo Brasil",
+  "price": "R$ 239.990,",
+  "savedFiles": [
+    "01.webp",
+    "02.webp",
+    "03.webp",
+    "04.webp",
+    "05.webp",
+    "06.webp",
+    "07.webp",
+    "08.webp"
+  ],
+  "sourceImageUrls": [
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_8343-rhi0yc61xum34ew7i50lnqeaqrp8cvm2y83xfibayo.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_8341-rhi0yc61xum34ew7i50lnqeaqrp8cvm2y83xfibayo.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_8344-rhi0yc61xum34ew7i50lnqeaqrp8cvm2y83xfibayo.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_8347-1-rhi0yaadk6jih6yxt47ciqvdjzyhxhem9ysygye3b4.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_8346-rhi0yb87r0ksssxknmlz38mu5dtv56icm3gfy8cp4w.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_8340-rhi0yb87r0ksssxknmlz38mu5dtv56icm3gfy8cp4w.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_8345-rhi0yb87r0ksssxknmlz38mu5dtv56icm3gfy8cp4w.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_8342-rhi0yb87r0ksssxknmlz38mu5dtv56icm3gfy8cp4w.webp"
+  ],
+  "totalImages": 8,
+  "url": "https://svintermed.com.br/veiculos/gm-s10-wt-automatica/",
+  "warnings": [
+    "Imagens fora da galeria principal foram ignoradas."
+  ],
+  "errors": []
+}

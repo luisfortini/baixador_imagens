@@ -1,0 +1,17 @@
+{
+  "collectedAt": "2026-03-30T00:50:36.627Z",
+  "description": "Fiat Strada Endurance - 26/26 FR Liberado na cor Branca",
+  "extractionMode": "playwright",
+  "folderName": "Fiat Strada Endurance__fiat-strada-endurance-2",
+  "name": "Fiat Strada Endurance",
+  "pageTitle": "Fiat Strada Endurance - R$ 86.490, - Sinal Verde Intermediações - atendendo lojistas de todo Brasil",
+  "price": "R$ 86.490,",
+  "savedFiles": [],
+  "sourceImageUrls": [],
+  "totalImages": 0,
+  "url": "https://svintermed.com.br/veiculos/fiat-strada-endurance-2/",
+  "warnings": [
+    "Galeria principal ausente; imagens de veiculos relacionados foram ignoradas."
+  ],
+  "errors": []
+}

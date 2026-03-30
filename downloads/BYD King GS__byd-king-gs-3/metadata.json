@@ -1,0 +1,37 @@
+{
+  "collectedAt": "2026-03-30T00:53:44.416Z",
+  "description": "BYD King GS - A Faturar PF/PJ com Taxa Zero! ( 60% em 24x ) disponível em todas as cores",
+  "extractionMode": "playwright",
+  "folderName": "BYD King GS__byd-king-gs-3",
+  "name": "BYD King GS",
+  "pageTitle": "BYD King GS - R$ 168.490, - Sinal Verde Intermediações - atendendo lojistas de todo Brasil",
+  "price": "R$ 168.490,",
+  "savedFiles": [
+    "01.webp",
+    "02.webp",
+    "03.webp",
+    "04.webp",
+    "05.webp",
+    "06.webp",
+    "07.webp",
+    "08.webp",
+    "09.webp"
+  ],
+  "sourceImageUrls": [
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_8674-rhu7iqjn61qpnbd3c9fcn330w6ou8hgpzjoisup35s.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_8673-rhu7irhhcvrzyxbq6rtz7kuhhkk7g6kgboc0a4nozk.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_8668-rhu7irhhcvrzyxbq6rtz7kuhhkk7g6kgboc0a4nozk.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_8675-1-rhu7iplsz7pfbpeghr0q2lbkasth0scznf11bkqhc0.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_8671-rhu7iplsz7pfbpeghr0q2lbkasth0scznf11bkqhc0.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_8667-rhu7iplsz7pfbpeghr0q2lbkasth0scznf11bkqhc0.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_8670-rhu7iqjn61qpnbd3c9fcn330w6ou8hgpzjoisup35s.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_8669-rhu7iqjn61qpnbd3c9fcn330w6ou8hgpzjoisup35s.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_8672-rhu7iqjn61qpnbd3c9fcn330w6ou8hgpzjoisup35s.webp"
+  ],
+  "totalImages": 9,
+  "url": "https://svintermed.com.br/veiculos/byd-king-gs-3/",
+  "warnings": [
+    "Imagens fora da galeria principal foram ignoradas."
+  ],
+  "errors": []
+}

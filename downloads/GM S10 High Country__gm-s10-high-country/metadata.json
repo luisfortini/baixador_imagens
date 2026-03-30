@@ -1,0 +1,37 @@
+{
+  "collectedAt": "2026-03-30T00:58:04.016Z",
+  "description": "GM S10 High Country - Chão, A Faturar na Origem",
+  "extractionMode": "playwright",
+  "folderName": "GM S10 High Country__gm-s10-high-country",
+  "name": "GM S10 High Country",
+  "pageTitle": "GM S10 High Country - R$ 292.490, - Sinal Verde Intermediações - atendendo lojistas de todo Brasil",
+  "price": "R$ 292.490,",
+  "savedFiles": [
+    "01.webp",
+    "02.webp",
+    "03.webp",
+    "04.webp",
+    "05.webp",
+    "06.webp",
+    "07.webp",
+    "08.webp",
+    "09.webp"
+  ],
+  "sourceImageUrls": [
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_1757-r9n07617xdodjvceoeq10pt2h4ep8v7myouhsj63i8.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_1760-r9n07617xdodjvceoeq10pt2h4ep8v7myouhsj63i8.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_1763-r9n07617xdodjvceoeq10pt2h4ep8v7myouhsj63i8.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_1755-1-r9n0753dqjn389drtwbeg81lvqjc163wmk70b97hog.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_1758-r9n07617xdodjvceoeq10pt2h4ep8v7myouhsj63i8.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_1761-r9n07617xdodjvceoeq10pt2h4ep8v7myouhsj63i8.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_1756-r9n0753dqjn389drtwbeg81lvqjc163wmk70b97hog.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_1759-r9n07617xdodjvceoeq10pt2h4ep8v7myouhsj63i8.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_1762-r9n07617xdodjvceoeq10pt2h4ep8v7myouhsj63i8.webp"
+  ],
+  "totalImages": 9,
+  "url": "https://svintermed.com.br/veiculos/gm-s10-high-country/",
+  "warnings": [
+    "Imagens fora da galeria principal foram ignoradas."
+  ],
+  "errors": []
+}

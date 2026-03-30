@@ -1,0 +1,39 @@
+{
+  "collectedAt": "2026-03-30T00:57:17.068Z",
+  "description": "Toyota Hilux SRX 2026 - 25/26 A Faturar PF/PJ na cor Preta",
+  "extractionMode": "playwright",
+  "folderName": "Toyota Hilux SRX 2026__toyota-hilux-srx",
+  "name": "Toyota Hilux SRX 2026",
+  "pageTitle": "Toyota Hilux SRX 2026 - R$ 312.990, - Sinal Verde Intermediações - atendendo lojistas de todo Brasil",
+  "price": "R$ 312.990,",
+  "savedFiles": [
+    "01.webp",
+    "02.webp",
+    "03.webp",
+    "04.webp",
+    "05.webp",
+    "06.webp",
+    "07.webp",
+    "08.webp",
+    "09.webp",
+    "10.webp"
+  ],
+  "sourceImageUrls": [
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_8789-rhyiiy4u3emod7sntu6wmfsts4jhgtiiv0xfcev22o.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_8252-rhgm642t6bwtk6hr1vndz2uwb2sd29orlcpi8t1h6o.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_8251-rhgm650nd5y3vsgdwe20jkmcwgnq9yshxhczq3030g.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_8794-1-rhyiix6zwkle1lu0zbsa1y1d6qo494esiw9xv4wg8w.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_8254-rhgm642t6bwtk6hr1vndz2uwb2sd29orlcpi8t1h6o.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_8249-rhgm650nd5y3vsgdwe20jkmcwgnq9yshxhczq3030g.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_8253-rhgm642t6bwtk6hr1vndz2uwb2sd29orlcpi8t1h6o.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_8790-rhyiix6zwkle1lu0zbsa1y1d6qo494esiw9xv4wg8w.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_8248-rhgm650nd5y3vsgdwe20jkmcwgnq9yshxhczq3030g.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_8791-rhyiix6zwkle1lu0zbsa1y1d6qo494esiw9xv4wg8w.webp"
+  ],
+  "totalImages": 10,
+  "url": "https://svintermed.com.br/veiculos/toyota-hilux-srx/",
+  "warnings": [
+    "Imagens fora da galeria principal foram ignoradas."
+  ],
+  "errors": []
+}

@@ -1,0 +1,29 @@
+{
+  "collectedAt": "2026-03-30T00:55:13.364Z",
+  "description": "Jeep Compass Longitude 26/26 - 26/26 Oferta válida para refaturar em CNPJ Com itens de série nas cores Branca, Azul Preto e Cinza",
+  "extractionMode": "playwright",
+  "folderName": "Jeep Compass Longitude 2626__jeep-compass-longitude",
+  "name": "Jeep Compass Longitude 26/26",
+  "pageTitle": "Jeep Compass Longitude 26/26 - R$ 167.290, - Sinal Verde Intermediações - atendendo lojistas de todo Brasil",
+  "price": "R$ 167.290,",
+  "savedFiles": [
+    "01.webp",
+    "02.webp",
+    "03.webp",
+    "04.webp",
+    "05.webp"
+  ],
+  "sourceImageUrls": [
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_8476-rhljxktyscapeuwuo2zxo72sa0my5j4e3rklvghmww.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_8475-rhljxlrsz6bzqgvhilek8ou8veibd884fw83cqg8qo.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_8474-rhljxlrsz6bzqgvhilek8ou8veibd884fw83cqg8qo.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_8478-1-rhljxktyscapeuwuo2zxo72sa0my5j4e3rklvghmww.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_8477-rhljxktyscapeuwuo2zxo72sa0my5j4e3rklvghmww.webp"
+  ],
+  "totalImages": 5,
+  "url": "https://svintermed.com.br/veiculos/jeep-compass-longitude/",
+  "warnings": [
+    "Imagens fora da galeria principal foram ignoradas."
+  ],
+  "errors": []
+}

@@ -1,0 +1,17 @@
+{
+  "collectedAt": "2026-03-30T00:52:17.181Z",
+  "description": "Toyota Yaris Cross XRE - 26/26 A Faturar CPF nas cores; Cinza, Prata, Branca e Preta com IPVA PAGO 2026",
+  "extractionMode": "playwright",
+  "folderName": "Toyota Yaris Cross XRE__toyota-yaris-cross-xre",
+  "name": "Toyota Yaris Cross XRE",
+  "pageTitle": "Toyota Yaris Cross XRE - R$ 163.690, - Sinal Verde Intermediações - atendendo lojistas de todo Brasil",
+  "price": "R$ 163.690,",
+  "savedFiles": [],
+  "sourceImageUrls": [],
+  "totalImages": 0,
+  "url": "https://svintermed.com.br/veiculos/toyota-yaris-cross-xre/",
+  "warnings": [
+    "Galeria principal ausente; imagens de veiculos relacionados foram ignoradas."
+  ],
+  "errors": []
+}

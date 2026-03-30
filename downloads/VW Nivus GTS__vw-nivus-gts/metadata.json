@@ -1,0 +1,35 @@
+{
+  "collectedAt": "2026-03-30T00:56:35.001Z",
+  "description": "VW Nivus GTS - A Faturar PF/PJ válido para cor branca com rodas 18",
+  "extractionMode": "playwright",
+  "folderName": "VW Nivus GTS__vw-nivus-gts",
+  "name": "VW Nivus GTS",
+  "pageTitle": "VW Nivus GTS - R$ 165.890, - Sinal Verde Intermediações - atendendo lojistas de todo Brasil",
+  "price": "R$ 165.890,",
+  "savedFiles": [
+    "01.webp",
+    "02.webp",
+    "03.webp",
+    "04.webp",
+    "05.webp",
+    "06.webp",
+    "07.webp",
+    "08.webp"
+  ],
+  "sourceImageUrls": [
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_7984-rhbrc7l53i17kyqk0szhstnm0ymrfabx9fehvv2mo0.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_7987-rhbrc7l53i17kyqk0szhstnm0ymrfabx9fehvv2mo0.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_8175-1-rhfc3iwztffhahon1g1as499brr7x67j83sq0u8ugw.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_7985-rhbrc6nawnzx9crx6akv8bw5fkre7l86xar0el40u8.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_7983-rhbrc6nawnzx9crx6akv8bw5fkre7l86xar0el40u8.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_7986-rhbrc6nawnzx9crx6akv8bw5fkre7l86xar0el40u8.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_7989-rhbrc7l53i17kyqk0szhstnm0ymrfabx9fehvv2mo0.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_7988-rhbrc7l53i17kyqk0szhstnm0ymrfabx9fehvv2mo0.webp"
+  ],
+  "totalImages": 8,
+  "url": "https://svintermed.com.br/veiculos/vw-nivus-gts/",
+  "warnings": [
+    "Imagens fora da galeria principal foram ignoradas."
+  ],
+  "errors": []
+}

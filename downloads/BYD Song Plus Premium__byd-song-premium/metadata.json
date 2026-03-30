@@ -1,0 +1,39 @@
+{
+  "collectedAt": "2026-03-30T00:58:24.543Z",
+  "description": "BYD Song Plus Premium - 25/26 A Faturar PF/PJ com Taxa Zero! Nas cores Branca e Cinza Time",
+  "extractionMode": "playwright",
+  "folderName": "BYD Song Plus Premium__byd-song-premium",
+  "name": "BYD Song Plus Premium",
+  "pageTitle": "BYD Song Plus Premium - R$ 277.690, - Sinal Verde Intermediações - atendendo lojistas de todo Brasil",
+  "price": "R$ 277.690,",
+  "savedFiles": [
+    "01.webp",
+    "02.webp",
+    "03.webp",
+    "04.webp",
+    "05.webp",
+    "06.webp",
+    "07.webp",
+    "08.webp",
+    "09.webp",
+    "10.webp"
+  ],
+  "sourceImageUrls": [
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_8043-rhc08ub8d0ybwh03ree4bww0sma52f7qoel35ro474.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_8048-rhc08ub8d0ybwh03ree4bww0sma52f7qoel35ro474.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_8042-1-rhc08v92juzm82yqlwsqwenhe05ia4bh0j8kn1mq0w.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_1065-r9n0745jjplswnf4zdwrvqa5acnyth06afjitz8vuo.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_1063-r9n0745jjplswnf4zdwrvqa5acnyth06afjitz8vuo.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_1062-r9n0745jjplswnf4zdwrvqa5acnyth06afjitz8vuo.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_8046-rhc08tde66x1kv1gwvzhrf4k78eruq40c9xlohpidc.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_8044-rhc08tde66x1kv1gwvzhrf4k78eruq40c9xlohpidc.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_8047-rhc08tde66x1kv1gwvzhrf4k78eruq40c9xlohpidc.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_8045-rhc08ub8d0ybwh03ree4bww0sma52f7qoel35ro474.webp"
+  ],
+  "totalImages": 10,
+  "url": "https://svintermed.com.br/veiculos/byd-song-premium/",
+  "warnings": [
+    "Imagens fora da galeria principal foram ignoradas."
+  ],
+  "errors": []
+}

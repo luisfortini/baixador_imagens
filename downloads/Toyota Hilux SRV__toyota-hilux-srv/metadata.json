@@ -1,0 +1,37 @@
+{
+  "collectedAt": "2026-03-30T00:57:10.512Z",
+  "description": "Toyota Hilux SRV - A Faturar com IPVA ISENTO 2026, economia de R$ 11.600,00 Disponível nas Cores: Prata, Preta, Cinza e Branca",
+  "extractionMode": "playwright",
+  "folderName": "Toyota Hilux SRV__toyota-hilux-srv",
+  "name": "Toyota Hilux SRV",
+  "pageTitle": "Toyota Hilux SRV - R$ 287.990, - Sinal Verde Intermediações - atendendo lojistas de todo Brasil",
+  "price": "R$ 287.990,",
+  "savedFiles": [
+    "01.webp",
+    "02.webp",
+    "03.webp",
+    "04.webp",
+    "05.webp",
+    "06.webp",
+    "07.webp",
+    "08.webp",
+    "09.webp"
+  ],
+  "sourceImageUrls": [
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_7574-rgamxlhzlq8awq367q770dawfdq0lkj3bzznv95qgw.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_7573-rgamxkk5ew70l44jd7skfvjftzundvfczvc6dz74n4.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_7577-rgamxkk5ew70l44jd7skfvjftzundvfczvc6dz74n4.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_8234-1-rhg3qnnta3ousm7763h91i09u8vm19tadjtlrsr51c.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_7575-rgamxkk5ew70l44jd7skfvjftzundvfczvc6dz74n4.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_7580-rgamxjmb825q9i5wipdxvdrz8lza66bmnqoowp8itc.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_7578-rgamxjmb825q9i5wipdxvdrz8lza66bmnqoowp8itc.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_7576-rgamxjmb825q9i5wipdxvdrz8lza66bmnqoowp8itc.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_7579-rgamxjmb825q9i5wipdxvdrz8lza66bmnqoowp8itc.webp"
+  ],
+  "totalImages": 9,
+  "url": "https://svintermed.com.br/veiculos/toyota-hilux-srv/",
+  "warnings": [
+    "Imagens fora da galeria principal foram ignoradas."
+  ],
+  "errors": []
+}

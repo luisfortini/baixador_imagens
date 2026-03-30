@@ -1,0 +1,33 @@
+{
+  "collectedAt": "2026-03-30T00:52:16.020Z",
+  "description": "Fiat Toro Freedom - 25/26 Oferta válida para Refaturar CNPJ nas cores cinza e preta",
+  "extractionMode": "playwright",
+  "folderName": "Fiat Toro Freedom__fiat-toro-freedom-2",
+  "name": "Fiat Toro Freedom",
+  "pageTitle": "Fiat Toro Freedom - R$ 148.990, - Sinal Verde Intermediações - atendendo lojistas de todo Brasil",
+  "price": "R$ 148.990,",
+  "savedFiles": [
+    "01.webp",
+    "02.webp",
+    "03.webp",
+    "04.webp",
+    "05.webp",
+    "06.webp",
+    "07.webp"
+  ],
+  "sourceImageUrls": [
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_9247-rjhju8ncscbcy4xajgb6p8tsbleb71x44cd76x6bsw.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_9249-rjhju8ncscbcy4xajgb6p8tsbleb71x44cd76x6bsw.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_9246-rjhju9l6z6cn9qvxdypt9ql8wz9oer0ugh0oo74xmo.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_9252-1-rjhju7pilia2miynoxwk4r2bq7ixzctds7pppn7pz4.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_9250-rjhju8ncscbcy4xajgb6p8tsbleb71x44cd76x6bsw.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_9251-rjhju8ncscbcy4xajgb6p8tsbleb71x44cd76x6bsw.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_9248-rjhju8ncscbcy4xajgb6p8tsbleb71x44cd76x6bsw.webp"
+  ],
+  "totalImages": 7,
+  "url": "https://svintermed.com.br/veiculos/fiat-toro-freedom-2/",
+  "warnings": [
+    "Imagens fora da galeria principal foram ignoradas."
+  ],
+  "errors": []
+}

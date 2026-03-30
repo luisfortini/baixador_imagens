@@ -1,0 +1,33 @@
+{
+  "collectedAt": "2026-03-30T00:53:13.207Z",
+  "description": "Toyota Corolla XEI 26/26 - Oferta válida para faturar PF/PJ",
+  "extractionMode": "playwright",
+  "folderName": "Toyota Corolla XEI 2626__toyota-corolla-xei-26-26",
+  "name": "Toyota Corolla XEI 26/26",
+  "pageTitle": "Toyota Corolla XEI 26/26 - R$ 167.790, - Sinal Verde Intermediações - atendendo lojistas de todo Brasil",
+  "price": "R$ 167.790,",
+  "savedFiles": [
+    "01.webp",
+    "02.webp",
+    "03.webp",
+    "04.webp",
+    "05.webp",
+    "06.webp",
+    "07.webp"
+  ],
+  "sourceImageUrls": [
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_8826-ri13k212zlb1bp12e0bt7swu8z7o8u8pnkltpr3u4g.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_8827-ri13k212zlb1bp12e0bt7swu8z7o8u8pnkltpr3u4g.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_8825-ri13k212zlb1bp12e0bt7swu8z7o8u8pnkltpr3u4g.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_8829-1-ri13k138sr9r032fjhx6nb5dnlcb154zbfyc8h58ao.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_8828-ri13k138sr9r032fjhx6nb5dnlcb154zbfyc8h58ao.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_8824-ri13k138sr9r032fjhx6nb5dnlcb154zbfyc8h58ao.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_8823-ri13k138sr9r032fjhx6nb5dnlcb154zbfyc8h58ao.webp"
+  ],
+  "totalImages": 7,
+  "url": "https://svintermed.com.br/veiculos/toyota-corolla-xei-26-26/",
+  "warnings": [
+    "Imagens fora da galeria principal foram ignoradas."
+  ],
+  "errors": []
+}

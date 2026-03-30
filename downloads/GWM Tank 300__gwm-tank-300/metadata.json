@@ -1,0 +1,17 @@
+{
+  "collectedAt": "2026-03-30T00:51:45.390Z",
+  "description": "GWM Tank 300 - A Faturar CPF com Ipva Isento até 2028 nas cores Branco, Cinza, Vermelho e Laranja",
+  "extractionMode": "playwright",
+  "folderName": "GWM Tank 300__gwm-tank-300",
+  "name": "GWM Tank 300",
+  "pageTitle": "GWM Tank 300 - R$ 288.990, - Sinal Verde Intermediações - atendendo lojistas de todo Brasil",
+  "price": "R$ 288.990,",
+  "savedFiles": [],
+  "sourceImageUrls": [],
+  "totalImages": 0,
+  "url": "https://svintermed.com.br/veiculos/gwm-tank-300/",
+  "warnings": [
+    "Galeria principal ausente; imagens de veiculos relacionados foram ignoradas."
+  ],
+  "errors": []
+}

@@ -1,0 +1,27 @@
+{
+  "collectedAt": "2026-03-30T00:55:58.693Z",
+  "description": "GM Montana LTZ - Oferta para Veículo 26/26 VENDA DIRETA CNPJ ou RURAL FAT ÁREA LIVRE, na cor branca",
+  "extractionMode": "playwright",
+  "folderName": "GM Montana LTZ__gm-montana-ltz-2",
+  "name": "GM Montana LTZ",
+  "pageTitle": "GM Montana LTZ - R$ 130.990, - Sinal Verde Intermediações - atendendo lojistas de todo Brasil",
+  "price": "R$ 130.990,",
+  "savedFiles": [
+    "01.webp",
+    "02.webp",
+    "03.webp",
+    "04.webp"
+  ],
+  "sourceImageUrls": [
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_8142-rhf9qbtmd0suyvfrj49na486zhoj8szduf3d2ykgg0.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_8141-rhf9qbtmd0suyvfrj49na486zhoj8szduf3d2ykgg0.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_8140-rhf9qbtmd0suyvfrj49na486zhoj8szduf3d2ykgg0.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_8143-1-rhf9qavs66rkn9h4olv0pmgqe3t613vniafvlolum8.webp"
+  ],
+  "totalImages": 4,
+  "url": "https://svintermed.com.br/veiculos/gm-montana-ltz-2/",
+  "warnings": [
+    "Imagens fora da galeria principal foram ignoradas."
+  ],
+  "errors": []
+}

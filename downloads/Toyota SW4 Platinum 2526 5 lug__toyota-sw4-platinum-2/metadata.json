@@ -1,0 +1,31 @@
+{
+  "collectedAt": "2026-03-30T00:54:02.088Z",
+  "description": "Toyota SW4 Platinum 25/26 5 lug - 25/26 5 Lugares A Faturar PF/PJ",
+  "extractionMode": "playwright",
+  "folderName": "Toyota SW4 Platinum 2526 5 lug__toyota-sw4-platinum-2",
+  "name": "Toyota SW4 Platinum 25/26 5 lug",
+  "pageTitle": "Toyota SW4 Platinum 25/26 5 lug - R$ 376.990, - Sinal Verde Intermediações - atendendo lojistas de todo Brasil",
+  "price": "R$ 376.990,",
+  "savedFiles": [
+    "01.webp",
+    "02.webp",
+    "03.webp",
+    "04.webp",
+    "05.webp",
+    "06.webp"
+  ],
+  "sourceImageUrls": [
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_8694-rhu8uynjt1rbb3baqlva2eze2uzs5fwya8mc6x6xxc.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_8697-rhu8uxppm7q0zhcnw3gnhx7xhh4exqt7y3yupn8c3k.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_8691-rhu8uynjt1rbb3baqlva2eze2uzs5fwya8mc6x6xxc.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_8774-1-rhy4kfn0dyq5i1q45mh4m8vgydd8e4kiftah0zy0jk.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_8699-rhu8uxppm7q0zhcnw3gnhx7xhh4exqt7y3yupn8c3k.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_8693-rhu8uynjt1rbb3baqlva2eze2uzs5fwya8mc6x6xxc.webp"
+  ],
+  "totalImages": 6,
+  "url": "https://svintermed.com.br/veiculos/toyota-sw4-platinum-2/",
+  "warnings": [
+    "Imagens fora da galeria principal foram ignoradas."
+  ],
+  "errors": []
+}

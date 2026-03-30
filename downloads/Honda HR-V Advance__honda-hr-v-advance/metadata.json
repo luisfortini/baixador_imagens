@@ -1,0 +1,33 @@
+{
+  "collectedAt": "2026-03-30T00:53:42.229Z",
+  "description": "Honda HR-V Advance - Válido para faturar CNPJ nas cores Basalto, Prata e Azul",
+  "extractionMode": "playwright",
+  "folderName": "Honda HR-V Advance__honda-hr-v-advance",
+  "name": "Honda HR-V Advance",
+  "pageTitle": "Honda HR-V Advance - R$ 189.990, - Sinal Verde Intermediações - atendendo lojistas de todo Brasil",
+  "price": "R$ 189.990,",
+  "savedFiles": [
+    "01.webp",
+    "02.webp",
+    "03.webp",
+    "04.webp",
+    "05.webp",
+    "06.webp",
+    "07.webp"
+  ],
+  "sourceImageUrls": [
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_8663-rhu63hegi9kukrt9mlup6ip6stbbimzmlv2dqoowg0.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_8662-rhu63icap3m4wdrwh49br0gne76oqc3cxzpv7yni9s.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_8660-rhu63icap3m4wdrwh49br0gne76oqc3cxzpv7yni9s.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_8665-1-rhu63ggmbfjk95ums3g2m0xq7ffyaxvw9qew9eqam8.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_8661-rhu63hegi9kukrt9mlup6ip6stbbimzmlv2dqoowg0.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_8664-rhu63hegi9kukrt9mlup6ip6stbbimzmlv2dqoowg0.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_8659-rhu63hegi9kukrt9mlup6ip6stbbimzmlv2dqoowg0.webp"
+  ],
+  "totalImages": 7,
+  "url": "https://svintermed.com.br/veiculos/honda-hr-v-advance/",
+  "warnings": [
+    "Imagens fora da galeria principal foram ignoradas."
+  ],
+  "errors": []
+}

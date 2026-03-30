@@ -1,0 +1,27 @@
+{
+  "collectedAt": "2026-03-30T00:52:47.929Z",
+  "description": "BMW 320i MSport - FR Liberado! Chão, Interno Mocha, Cinza Brooklin Doc e Primeira do IPVA PG 📌",
+  "extractionMode": "playwright",
+  "folderName": "BMW 320i MSport__bmw-320i-msport",
+  "name": "BMW 320i MSport",
+  "pageTitle": "BMW 320i MSport - R$ 358.690, - Sinal Verde Intermediações - atendendo lojistas de todo Brasil",
+  "price": "R$ 358.690,",
+  "savedFiles": [
+    "01.webp",
+    "02.webp",
+    "03.webp",
+    "04.webp"
+  ],
+  "sourceImageUrls": [
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_8994-rifj5e2au7hyrehkdhqmdks0dj01ud4eqdpy0gir7k.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_8993-rifj5e2au7hyrehkdhqmdks0dj01ud4eqdpy0gir7k.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/50d3aea2-a0fe-4e7a-94b6-cadbb7e13a2e-1-rifj5e2au7hyrehkdhqmdks0dj01ud4eqdpy0gir7k.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_8996-1-rifj5d4gndgofsixizbzt30js54omo0oe92gj6k5ds.webp"
+  ],
+  "totalImages": 4,
+  "url": "https://svintermed.com.br/veiculos/bmw-320i-msport/",
+  "warnings": [
+    "Imagens fora da galeria principal foram ignoradas."
+  ],
+  "errors": []
+}

@@ -1,0 +1,31 @@
+{
+  "collectedAt": "2026-03-30T00:57:20.709Z",
+  "description": "Fiat Mobi Like - Oferta válida para refaturamento em CPF na cor: branca",
+  "extractionMode": "playwright",
+  "folderName": "Fiat Mobi Like__fiat-mobi-like",
+  "name": "Fiat Mobi Like",
+  "pageTitle": "Fiat Mobi Like - R$ 69.690, - Sinal Verde Intermediações - atendendo lojistas de todo Brasil",
+  "price": "R$ 69.690,",
+  "savedFiles": [
+    "01.webp",
+    "02.webp",
+    "03.webp",
+    "04.webp",
+    "05.webp",
+    "06.webp"
+  ],
+  "sourceImageUrls": [
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_7432-rg684o9unu6zkk8k1212dijl5xphu1qqbuweivp4jk.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_7431-rg684o9unu6zkk8k1212dijl5xphu1qqbuweivp4jk.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_7430-1-rg684o9unu6zkk8k1212dijl5xphu1qqbuweivp4jk.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_7435-rg684nc0h05p8y9x6jmft0s4kju4mcmzzq8x1lqips.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_7434-rg684nc0h05p8y9x6jmft0s4kju4mcmzzq8x1lqips.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_7433-rg684nc0h05p8y9x6jmft0s4kju4mcmzzq8x1lqips.webp"
+  ],
+  "totalImages": 6,
+  "url": "https://svintermed.com.br/veiculos/fiat-mobi-like/",
+  "warnings": [
+    "Imagens fora da galeria principal foram ignoradas."
+  ],
+  "errors": []
+}

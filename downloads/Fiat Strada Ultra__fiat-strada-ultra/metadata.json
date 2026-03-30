@@ -1,0 +1,37 @@
+{
+  "collectedAt": "2026-03-30T00:58:06.261Z",
+  "description": "Fiat Strada Ultra - Oferta válida para faturamento na física ou jurídica, temos todas as cores consultar valor",
+  "extractionMode": "playwright",
+  "folderName": "Fiat Strada Ultra__fiat-strada-ultra",
+  "name": "Fiat Strada Ultra",
+  "pageTitle": "Fiat Strada Ultra - R$ 133.290, - Sinal Verde Intermediações - atendendo lojistas de todo Brasil",
+  "price": "R$ 133.290,",
+  "savedFiles": [
+    "01.webp",
+    "02.webp",
+    "03.webp",
+    "04.webp",
+    "05.webp",
+    "06.webp",
+    "07.webp",
+    "08.webp",
+    "09.webp"
+  ],
+  "sourceImageUrls": [
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/8cf4d695-4f6f-40f4-a91f-f1ae73ae65c9-r9n0737pcvkil1gi4vi5b8iooysllrwfyaw1cpaa0w.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/63430ba9-13fa-4e42-9024-91d729b2623a-r9n0737pcvkil1gi4vi5b8iooysllrwfyaw1cpaa0w.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_1752-r9n0753dqjn389drtwbeg81lvqjc163wmk70b97hog.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_1751-1-r9n0753dqjn389drtwbeg81lvqjc163wmk70b97hog.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_1753-r9n0753dqjn389drtwbeg81lvqjc163wmk70b97hog.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/b58b3db6-c053-4291-8be3-9e4ba716ecdb-r9n0737pcvkil1gi4vi5b8iooysllrwfyaw1cpaa0w.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/df1b7540-7c9d-4c2a-9cf3-7f5860d51c9e-r9n0737pcvkil1gi4vi5b8iooysllrwfyaw1cpaa0w.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/7aaa6c27-50c7-4e94-a71e-6994494225c0-r9n0737pcvkil1gi4vi5b8iooysllrwfyaw1cpaa0w.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/f0333a0a-feda-49b7-a70e-2c2c542ff9d4-r9n0737pcvkil1gi4vi5b8iooysllrwfyaw1cpaa0w.webp"
+  ],
+  "totalImages": 9,
+  "url": "https://svintermed.com.br/veiculos/fiat-strada-ultra/",
+  "warnings": [
+    "Imagens fora da galeria principal foram ignoradas."
+  ],
+  "errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "collectedAt": "2026-03-30T00:58:01.405Z",
+  "description": "Ford Ranger Limited Plus - Oferta válida para faturar CPF na origem nas cores Prata, Branca, Cinza e Preta",
+  "extractionMode": "playwright",
+  "folderName": "Ford Ranger Limited Plus__ford-ranger-limited-plus",
+  "name": "Ford Ranger Limited Plus",
+  "pageTitle": "Ford Ranger Limited Plus - R$ 328.990, - Sinal Verde Intermediações - atendendo lojistas de todo Brasil",
+  "price": "R$ 328.990,",
+  "savedFiles": [
+    "01.webp",
+    "02.webp",
+    "03.webp",
+    "04.webp",
+    "05.webp",
+    "06.webp",
+    "07.webp",
+    "08.webp",
+    "09.webp",
+    "10.webp"
+  ],
+  "sourceImageUrls": [
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_1775-r9n07617xdodjvceoeq10pt2h4ep8v7myouhsj63i8.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_1776-r9n07617xdodjvceoeq10pt2h4ep8v7myouhsj63i8.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_8202-rhff3cyfv71p811rd22htwmyp494z4aypu421mcwn4.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_8203-1-rhff3c0lod0ewf34ijnv9evi3qdrrf78dpgkkceatc.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_1772-r9n07617xdodjvceoeq10pt2h4ep8v7myouhsj63i8.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_8200-rhff3cyfv71p811rd22htwmyp494z4aypu421mcwn4.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_1771-r9n07617xdodjvceoeq10pt2h4ep8v7myouhsj63i8.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_1773-r9n07617xdodjvceoeq10pt2h4ep8v7myouhsj63i8.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_8199-rhff3cyfv71p811rd22htwmyp494z4aypu421mcwn4.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_1774-r9n07617xdodjvceoeq10pt2h4ep8v7myouhsj63i8.webp"
+  ],
+  "totalImages": 10,
+  "url": "https://svintermed.com.br/veiculos/ford-ranger-limited-plus/",
+  "warnings": [
+    "Imagens fora da galeria principal foram ignoradas."
+  ],
+  "errors": []
+}

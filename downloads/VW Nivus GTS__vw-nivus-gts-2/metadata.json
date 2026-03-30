@@ -1,0 +1,39 @@
+{
+  "collectedAt": "2026-03-30T00:56:30.932Z",
+  "description": "VW Nivus GTS - A Faturar PF/PJ nas cores: Cinza Moonstone e Azul Titan com rodas 18",
+  "extractionMode": "playwright",
+  "folderName": "VW Nivus GTS__vw-nivus-gts-2",
+  "name": "VW Nivus GTS",
+  "pageTitle": "VW Nivus GTS - R$ 166.990, - Sinal Verde Intermediações - atendendo lojistas de todo Brasil",
+  "price": "R$ 166.990,",
+  "savedFiles": [
+    "01.webp",
+    "02.webp",
+    "03.webp",
+    "04.webp",
+    "05.webp",
+    "06.webp",
+    "07.webp",
+    "08.webp",
+    "09.webp",
+    "10.webp"
+  ],
+  "sourceImageUrls": [
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_7975-rhbr2pfvzt0u6wjjip3al7ztsph5lglmmdxr755xkw.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_7974-rhbr2pfvzt0u6wjjip3al7ztsph5lglmmdxr755xkw.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_8173-1-rhfbzga679uqzblmtonhz59cnntyke1eny0z5oa9fk.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_7981-rhbr2mmdfawz82nmz5vevqpg0jv1ydaflzzarba43k.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_7977-rhbr2nk7m4y9jom9toa1g8gwlxqf62e5y4ms8l8pxc.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_7979-rhbr2nk7m4y9jom9toa1g8gwlxqf62e5y4ms8l8pxc.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_7976-rhbr2nk7m4y9jom9toa1g8gwlxqf62e5y4ms8l8pxc.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_7980-rhbr2oi1syzjvakwo6oo0q8d7blsdrhwa9a9pv7br4.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_7978-rhbr2oi1syzjvakwo6oo0q8d7blsdrhwa9a9pv7br4.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_7973-rhbr2oi1syzjvakwo6oo0q8d7blsdrhwa9a9pv7br4.webp"
+  ],
+  "totalImages": 10,
+  "url": "https://svintermed.com.br/veiculos/vw-nivus-gts-2/",
+  "warnings": [
+    "Imagens fora da galeria principal foram ignoradas."
+  ],
+  "errors": []
+}

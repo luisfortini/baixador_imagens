@@ -1,0 +1,35 @@
+{
+  "collectedAt": "2026-03-30T00:52:06.285Z",
+  "description": "Fiat Strada Freedom Cab Plus 26/26 - 26/26 Válido para Refaturar CNPJ na cor Branca com Sensor de Estacionamento e Roda de Liga",
+  "extractionMode": "playwright",
+  "folderName": "Fiat Strada Freedom Cab Plus 2626__fiat-strada-freedom-cab-plus-26-26",
+  "name": "Fiat Strada Freedom Cab Plus 26/26",
+  "pageTitle": "Fiat Strada Freedom Cab Plus 26/26 - R$ 92.290, - Sinal Verde Intermediações - atendendo lojistas de todo Brasil",
+  "price": "R$ 92.290,",
+  "savedFiles": [
+    "01.webp",
+    "02.webp",
+    "03.webp",
+    "04.webp",
+    "05.webp",
+    "06.webp",
+    "07.webp",
+    "08.webp"
+  ],
+  "sourceImageUrls": [
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_9261-rjkva8ztjupd3ax5i5m185hz0773vwnrbexychib7k.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_9260-rjkva8ztjupd3ax5i5m185hz0773vwnrbexychib7k.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_9262-rjkva8ztjupd3ax5i5m185hz0773vwnrbexychib7k.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_9272-1-rjkva81zd0o2royinn7ennqietbqo7k0zaagv7jpds.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_9270-1-rjkva81zd0o2royinn7ennqietbqo7k0zaagv7jpds.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_9264-rjkva81zd0o2royinn7ennqietbqo7k0zaagv7jpds.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_9263-rjkva81zd0o2royinn7ennqietbqo7k0zaagv7jpds.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_9259-rjkva8ztjupd3ax5i5m185hz0773vwnrbexychib7k.webp"
+  ],
+  "totalImages": 8,
+  "url": "https://svintermed.com.br/veiculos/fiat-strada-freedom-cab-plus-26-26/",
+  "warnings": [
+    "Imagens fora da galeria principal foram ignoradas."
+  ],
+  "errors": []
+}

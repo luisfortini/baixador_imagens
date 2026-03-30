@@ -1,0 +1,31 @@
+{
+  "collectedAt": "2026-03-30T00:57:42.438Z",
+  "description": "Fiat Strada Ranch - Oferta válida para faturar PF/PJ na cor: branca",
+  "extractionMode": "playwright",
+  "folderName": "Fiat Strada Ranch__fiat-strada-ranch-2",
+  "name": "Fiat Strada Ranch",
+  "pageTitle": "Fiat Strada Ranch - R$ 133.490, - Sinal Verde Intermediações - atendendo lojistas de todo Brasil",
+  "price": "R$ 133.490,",
+  "savedFiles": [
+    "01.webp",
+    "02.webp",
+    "03.webp",
+    "04.webp",
+    "05.webp",
+    "06.webp"
+  ],
+  "sourceImageUrls": [
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_7292-rg2rnayf93jbbxoe2yjlrdfoaxt5zl0iv4wzxc9pog.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_7291-rg2rnbw9fxklnjn0xgy8bv74wboj7a4979khem8bi8.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_7290-rg2rnbw9fxklnjn0xgy8bv74wboj7a4979khem8bi8.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_7287-1-rg2riixyiezubam8ze6vl2ublfczuz1n7hj53pcrb4.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_7219-2-rg2riixyiezubam8ze6vl2ublfczuz1n7hj53pcrb4.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_7289-1-rg2rnayf93jbbxoe2yjlrdfoaxt5zl0iv4wzxc9pog.webp"
+  ],
+  "totalImages": 6,
+  "url": "https://svintermed.com.br/veiculos/fiat-strada-ranch-2/",
+  "warnings": [
+    "Imagens fora da galeria principal foram ignoradas."
+  ],
+  "errors": []
+}

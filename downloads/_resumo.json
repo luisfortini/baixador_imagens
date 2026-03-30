@@ -1,0 +1,2600 @@
+{
+  "finishedAt": "2026-03-30T00:58:47.374Z",
+  "startedAt": "2026-03-30T00:48:38.062Z",
+  "source": {
+    "archiveUrl": "https://svintermed.com.br/veiculos/",
+    "baseUrl": "https://svintermed.com.br/"
+  },
+  "totals": {
+    "downloaded": 1002,
+    "failed": 0,
+    "imageFailures": 0,
+    "images": 1002,
+    "partial": 35,
+    "processed": 156,
+    "reused": 0,
+    "succeeded": 121,
+    "discovered": 156,
+    "listingPages": 16
+  },
+  "listingPages": [
+    {
+      "page": "https://svintermed.com.br/veiculos/",
+      "discoveredInPage": 10,
+      "totalDiscovered": 10
+    },
+    {
+      "page": "https://svintermed.com.br/veiculos/page/2/",
+      "discoveredInPage": 10,
+      "totalDiscovered": 20
+    },
+    {
+      "page": "https://svintermed.com.br/veiculos/page/3/",
+      "discoveredInPage": 10,
+      "totalDiscovered": 30
+    },
+    {
+      "page": "https://svintermed.com.br/veiculos/page/4/",
+      "discoveredInPage": 10,
+      "totalDiscovered": 40
+    },
+    {
+      "page": "https://svintermed.com.br/veiculos/page/5/",
+      "discoveredInPage": 10,
+      "totalDiscovered": 50
+    },
+    {
+      "page": "https://svintermed.com.br/veiculos/page/6/",
+      "discoveredInPage": 10,
+      "totalDiscovered": 60
+    },
+    {
+      "page": "https://svintermed.com.br/veiculos/page/7/",
+      "discoveredInPage": 10,
+      "totalDiscovered": 70
+    },
+    {
+      "page": "https://svintermed.com.br/veiculos/page/8/",
+      "discoveredInPage": 10,
+      "totalDiscovered": 80
+    },
+    {
+      "page": "https://svintermed.com.br/veiculos/page/9/",
+      "discoveredInPage": 10,
+      "totalDiscovered": 90
+    },
+    {
+      "page": "https://svintermed.com.br/veiculos/page/10/",
+      "discoveredInPage": 10,
+      "totalDiscovered": 100
+    },
+    {
+      "page": "https://svintermed.com.br/veiculos/page/11/",
+      "discoveredInPage": 10,
+      "totalDiscovered": 110
+    },
+    {
+      "page": "https://svintermed.com.br/veiculos/page/12/",
+      "discoveredInPage": 10,
+      "totalDiscovered": 120
+    },
+    {
+      "page": "https://svintermed.com.br/veiculos/page/13/",
+      "discoveredInPage": 10,
+      "totalDiscovered": 130
+    },
+    {
+      "page": "https://svintermed.com.br/veiculos/page/14/",
+      "discoveredInPage": 10,
+      "totalDiscovered": 140
+    },
+    {
+      "page": "https://svintermed.com.br/veiculos/page/15/",
+      "discoveredInPage": 10,
+      "totalDiscovered": 150
+    },
+    {
+      "page": "https://svintermed.com.br/veiculos/page/16/",
+      "discoveredInPage": 6,
+      "totalDiscovered": 156
+    }
+  ],
+  "vehicles": [
+    {
+      "download": {
+        "downloadedCount": 0,
+        "failedCount": 0,
+        "reusedCount": 0
+      },
+      "folder": "BYD Song Plus 2027__byd-song-plus-2027-3",
+      "metadataPath": "BYD Song Plus 2027__byd-song-plus-2027-3\\metadata.json",
+      "name": "BYD Song Plus 2027",
+      "status": "partial",
+      "totalImages": 0,
+      "url": "https://svintermed.com.br/veiculos/byd-song-plus-2027-3/",
+      "warnings": [
+        "Galeria principal ausente; imagens de veiculos relacionados foram ignoradas."
+      ]
+    },
+    {
+      "download": {
+        "downloadedCount": 0,
+        "failedCount": 0,
+        "reusedCount": 0
+      },
+      "folder": "RAM Rampage Laramie 2626__ram-rampage-laramie-26-26-2",
+      "metadataPath": "RAM Rampage Laramie 2626__ram-rampage-laramie-26-26-2\\metadata.json",
+      "name": "RAM Rampage Laramie 26/26",
+      "status": "partial",
+      "totalImages": 0,
+      "url": "https://svintermed.com.br/veiculos/ram-rampage-laramie-26-26-2/",
+      "warnings": [
+        "Galeria principal ausente; imagens de veiculos relacionados foram ignoradas."
+      ]
+    },
+    {
+      "download": {
+        "downloadedCount": 0,
+        "failedCount": 0,
+        "reusedCount": 0
+      },
+      "folder": "FIAT Toro Ranch 2626__fiat-toro-ranch-26-26-2",
+      "metadataPath": "FIAT Toro Ranch 2626__fiat-toro-ranch-26-26-2\\metadata.json",
+      "name": "FIAT Toro Ranch 26/26",
+      "status": "partial",
+      "totalImages": 0,
+      "url": "https://svintermed.com.br/veiculos/fiat-toro-ranch-26-26-2/",
+      "warnings": [
+        "Galeria principal ausente; imagens de veiculos relacionados foram ignoradas."
+      ]
+    },
+    {
+      "download": {
+        "downloadedCount": 0,
+        "failedCount": 0,
+        "reusedCount": 0
+      },
+      "folder": "BYD Song Plus 2027__byd-song-plus-2027-2",
+      "metadataPath": "BYD Song Plus 2027__byd-song-plus-2027-2\\metadata.json",
+      "name": "BYD Song Plus 2027",
+      "status": "partial",
+      "totalImages": 0,
+      "url": "https://svintermed.com.br/veiculos/byd-song-plus-2027-2/",
+      "warnings": [
+        "Galeria principal ausente; imagens de veiculos relacionados foram ignoradas."
+      ]
+    },
+    {
+      "download": {
+        "downloadedCount": 13,
+        "failedCount": 0,
+        "reusedCount": 0
+      },
+      "folder": "Jetour T2 Premium__jetour-t2-premium",
+      "metadataPath": "Jetour T2 Premium__jetour-t2-premium\\metadata.json",
+      "name": "Jetour T2 Premium",
+      "status": "success",
+      "totalImages": 13,
+      "url": "https://svintermed.com.br/veiculos/jetour-t2-premium/",
+      "warnings": [
+        "Imagens fora da galeria principal foram ignoradas."
+      ]
+    },
+    {
+      "download": {
+        "downloadedCount": 0,
+        "failedCount": 0,
+        "reusedCount": 0
+      },
+      "folder": "Jeep Compass Sport__jeep-compass-sport-2",
+      "metadataPath": "Jeep Compass Sport__jeep-compass-sport-2\\metadata.json",
+      "name": "Jeep Compass Sport",
+      "status": "partial",
+      "totalImages": 0,
+      "url": "https://svintermed.com.br/veiculos/jeep-compass-sport-2/",
+      "warnings": [
+        "Galeria principal ausente; imagens de veiculos relacionados foram ignoradas."
+      ]
+    },
+    {
+      "download": {
+        "downloadedCount": 0,
+        "failedCount": 0,
+        "reusedCount": 0
+      },
+      "folder": "RAM Rampage RT 2027__ram-rampage-rt-2027",
+      "metadataPath": "RAM Rampage RT 2027__ram-rampage-rt-2027\\metadata.json",
+      "name": "RAM Rampage RT 2027",
+      "status": "partial",
+      "totalImages": 0,
+      "url": "https://svintermed.com.br/veiculos/ram-rampage-rt-2027/",
+      "warnings": [
+        "Galeria principal ausente; imagens de veiculos relacionados foram ignoradas."
+      ]
+    },
+    {
+      "download": {
+        "downloadedCount": 0,
+        "failedCount": 0,
+        "reusedCount": 0
+      },
+      "folder": "RAM Rampage Laramie 2027__ram-rampage-laramie-2027-2",
+      "metadataPath": "RAM Rampage Laramie 2027__ram-rampage-laramie-2027-2\\metadata.json",
+      "name": "RAM Rampage Laramie 2027",
+      "status": "partial",
+      "totalImages": 0,
+      "url": "https://svintermed.com.br/veiculos/ram-rampage-laramie-2027-2/",
+      "warnings": [
+        "Galeria principal ausente; imagens de veiculos relacionados foram ignoradas."
+      ]
+    },
+    {
+      "download": {
+        "downloadedCount": 0,
+        "failedCount": 0,
+        "reusedCount": 0
+      },
+      "folder": "RAM Rampage Laramie 2027__ram-rampage-laramie-2027",
+      "metadataPath": "RAM Rampage Laramie 2027__ram-rampage-laramie-2027\\metadata.json",
+      "name": "RAM Rampage Laramie 2027",
+      "status": "partial",
+      "totalImages": 0,
+      "url": "https://svintermed.com.br/veiculos/ram-rampage-laramie-2027/",
+      "warnings": [
+        "Galeria principal ausente; imagens de veiculos relacionados foram ignoradas."
+      ]
+    },
+    {
+      "download": {
+        "downloadedCount": 0,
+        "failedCount": 0,
+        "reusedCount": 0
+      },
+      "folder": "RAM Rampage Rebel 2027__ram-rampage-rebel",
+      "metadataPath": "RAM Rampage Rebel 2027__ram-rampage-rebel\\metadata.json",
+      "name": "RAM Rampage Rebel 2027",
+      "status": "partial",
+      "totalImages": 0,
+      "url": "https://svintermed.com.br/veiculos/ram-rampage-rebel/",
+      "warnings": [
+        "Galeria principal ausente; imagens de veiculos relacionados foram ignoradas."
+      ]
+    },
+    {
+      "download": {
+        "downloadedCount": 0,
+        "failedCount": 0,
+        "reusedCount": 0
+      },
+      "folder": "RAM Rampage Big Horn 2027__ram-rampage-big-horn-2027",
+      "metadataPath": "RAM Rampage Big Horn 2027__ram-rampage-big-horn-2027\\metadata.json",
+      "name": "RAM Rampage Big Horn 2027",
+      "status": "partial",
+      "totalImages": 0,
+      "url": "https://svintermed.com.br/veiculos/ram-rampage-big-horn-2027/",
+      "warnings": [
+        "Galeria principal ausente; imagens de veiculos relacionados foram ignoradas."
+      ]
+    },
+    {
+      "download": {
+        "downloadedCount": 0,
+        "failedCount": 0,
+        "reusedCount": 0
+      },
+      "folder": "GWM H6 Hev2__gwm-h6-hev2",
+      "metadataPath": "GWM H6 Hev2__gwm-h6-hev2\\metadata.json",
+      "name": "GWM H6 Hev2",
+      "status": "partial",
+      "totalImages": 0,
+      "url": "https://svintermed.com.br/veiculos/gwm-h6-hev2/",
+      "warnings": [
+        "Galeria principal ausente; imagens de veiculos relacionados foram ignoradas."
+      ]
+    },
+    {
+      "download": {
+        "downloadedCount": 0,
+        "failedCount": 0,
+        "reusedCount": 0
+      },
+      "folder": "Toyota Corolla Altis Premium__toyota-corolla-altis-premium-2",
+      "metadataPath": "Toyota Corolla Altis Premium__toyota-corolla-altis-premium-2\\metadata.json",
+      "name": "Toyota Corolla Altis Premium",
+      "status": "partial",
+      "totalImages": 0,
+      "url": "https://svintermed.com.br/veiculos/toyota-corolla-altis-premium-2/",
+      "warnings": [
+        "Galeria principal ausente; imagens de veiculos relacionados foram ignoradas."
+      ]
+    },
+    {
+      "download": {
+        "downloadedCount": 0,
+        "failedCount": 0,
+        "reusedCount": 0
+      },
+      "folder": "Toyota Corolla Altis Premium__toyota-corolla-altis-premium",
+      "metadataPath": "Toyota Corolla Altis Premium__toyota-corolla-altis-premium\\metadata.json",
+      "name": "Toyota Corolla Altis Premium",
+      "status": "partial",
+      "totalImages": 0,
+      "url": "https://svintermed.com.br/veiculos/toyota-corolla-altis-premium/",
+      "warnings": [
+        "Galeria principal ausente; imagens de veiculos relacionados foram ignoradas."
+      ]
+    },
+    {
+      "download": {
+        "downloadedCount": 11,
+        "failedCount": 0,
+        "reusedCount": 0
+      },
+      "folder": "GWM Poer Exclusive__gwm-poer-exclusive",
+      "metadataPath": "GWM Poer Exclusive__gwm-poer-exclusive\\metadata.json",
+      "name": "GWM Poer Exclusive",
+      "status": "success",
+      "totalImages": 11,
+      "url": "https://svintermed.com.br/veiculos/gwm-poer-exclusive/",
+      "warnings": [
+        "Imagens fora da galeria principal foram ignoradas."
+      ]
+    },
+    {
+      "download": {
+        "downloadedCount": 0,
+        "failedCount": 0,
+        "reusedCount": 0
+      },
+      "folder": "Jeep Compass Longitude 2626__jeep-compass-longitude-26-26-2",
+      "metadataPath": "Jeep Compass Longitude 2626__jeep-compass-longitude-26-26-2\\metadata.json",
+      "name": "Jeep Compass Longitude 26/26",
+      "status": "partial",
+      "totalImages": 0,
+      "url": "https://svintermed.com.br/veiculos/jeep-compass-longitude-26-26-2/",
+      "warnings": [
+        "Galeria principal ausente; imagens de veiculos relacionados foram ignoradas."
+      ]
+    },
+    {
+      "download": {
+        "downloadedCount": 10,
+        "failedCount": 0,
+        "reusedCount": 0
+      },
+      "folder": "Fiat Toro Ranch__fiat-toro-ranch-2",
+      "metadataPath": "Fiat Toro Ranch__fiat-toro-ranch-2\\metadata.json",
+      "name": "Fiat Toro Ranch",
+      "status": "success",
+      "totalImages": 10,
+      "url": "https://svintermed.com.br/veiculos/fiat-toro-ranch-2/",
+      "warnings": [
+        "Imagens fora da galeria principal foram ignoradas."
+      ]
+    },
+    {
+      "download": {
+        "downloadedCount": 0,
+        "failedCount": 0,
+        "reusedCount": 0
+      },
+      "folder": "Jeep Compass Longitude 2626__jeep-compass-longitude-26-26",
+      "metadataPath": "Jeep Compass Longitude 2626__jeep-compass-longitude-26-26\\metadata.json",
+      "name": "Jeep Compass Longitude 26/26",
+      "status": "partial",
+      "totalImages": 0,
+      "url": "https://svintermed.com.br/veiculos/jeep-compass-longitude-26-26/",
+      "warnings": [
+        "Galeria principal ausente; imagens de veiculos relacionados foram ignoradas."
+      ]
+    },
+    {
+      "download": {
+        "downloadedCount": 0,
+        "failedCount": 0,
+        "reusedCount": 0
+      },
+      "folder": "Fiat Strada Endurance__fiat-strada-endurance-2",
+      "metadataPath": "Fiat Strada Endurance__fiat-strada-endurance-2\\metadata.json",
+      "name": "Fiat Strada Endurance",
+      "status": "partial",
+      "totalImages": 0,
+      "url": "https://svintermed.com.br/veiculos/fiat-strada-endurance-2/",
+      "warnings": [
+        "Galeria principal ausente; imagens de veiculos relacionados foram ignoradas."
+      ]
+    },
+    {
+      "download": {
+        "downloadedCount": 0,
+        "failedCount": 0,
+        "reusedCount": 0
+      },
+      "folder": "Fiat Fastback T200__fiat-fastback-t200-2",
+      "metadataPath": "Fiat Fastback T200__fiat-fastback-t200-2\\metadata.json",
+      "name": "Fiat Fastback T200",
+      "status": "partial",
+      "totalImages": 0,
+      "url": "https://svintermed.com.br/veiculos/fiat-fastback-t200-2/",
+      "warnings": [
+        "Galeria principal ausente; imagens de veiculos relacionados foram ignoradas."
+      ]
+    },
+    {
+      "download": {
+        "downloadedCount": 5,
+        "failedCount": 0,
+        "reusedCount": 0
+      },
+      "folder": "BYD Song Plus 1.5T 2027__byd-song-plus-1-5t-2027-2",
+      "metadataPath": "BYD Song Plus 1.5T 2027__byd-song-plus-1-5t-2027-2\\metadata.json",
+      "name": "BYD Song Plus 1.5T 2027",
+      "status": "success",
+      "totalImages": 5,
+      "url": "https://svintermed.com.br/veiculos/byd-song-plus-1-5t-2027-2/",
+      "warnings": [
+        "Imagens fora da galeria principal foram ignoradas."
+      ]
+    },
+    {
+      "download": {
+        "downloadedCount": 10,
+        "failedCount": 0,
+        "reusedCount": 0
+      },
+      "folder": "Omoda 5 Prestige__omoda-5-prestige",
+      "metadataPath": "Omoda 5 Prestige__omoda-5-prestige\\metadata.json",
+      "name": "Omoda 5 Prestige",
+      "status": "success",
+      "totalImages": 10,
+      "url": "https://svintermed.com.br/veiculos/omoda-5-prestige/",
+      "warnings": [
+        "Imagens fora da galeria principal foram ignoradas."
+      ]
+    },
+    {
+      "download": {
+        "downloadedCount": 16,
+        "failedCount": 0,
+        "reusedCount": 0
+      },
+      "folder": "DENZA B5__denza-b5",
+      "metadataPath": "DENZA B5__denza-b5\\metadata.json",
+      "name": "DENZA B5",
+      "status": "success",
+      "totalImages": 16,
+      "url": "https://svintermed.com.br/veiculos/denza-b5/",
+      "warnings": [
+        "Imagens fora da galeria principal foram ignoradas."
+      ]
+    },
+    {
+      "download": {
+        "downloadedCount": 7,
+        "failedCount": 0,
+        "reusedCount": 0
+      },
+      "folder": "RAM Rampage RT__ram-rampage-rt",
+      "metadataPath": "RAM Rampage RT__ram-rampage-rt\\metadata.json",
+      "name": "RAM Rampage RT",
+      "status": "success",
+      "totalImages": 7,
+      "url": "https://svintermed.com.br/veiculos/ram-rampage-rt/",
+      "warnings": [
+        "Imagens fora da galeria principal foram ignoradas."
+      ]
+    },
+    {
+      "download": {
+        "downloadedCount": 7,
+        "failedCount": 0,
+        "reusedCount": 0
+      },
+      "folder": "BYD Song Plus Premium__byd-song-plus-premium",
+      "metadataPath": "BYD Song Plus Premium__byd-song-plus-premium\\metadata.json",
+      "name": "BYD Song Plus Premium",
+      "status": "success",
+      "totalImages": 7,
+      "url": "https://svintermed.com.br/veiculos/byd-song-plus-premium/",
+      "warnings": [
+        "Imagens fora da galeria principal foram ignoradas."
+      ]
+    },
+    {
+      "download": {
+        "downloadedCount": 0,
+        "failedCount": 0,
+        "reusedCount": 0
+      },
+      "folder": "RAM Rampage Laramie 2626__ram-rampage-laramie-26-26",
+      "metadataPath": "RAM Rampage Laramie 2626__ram-rampage-laramie-26-26\\metadata.json",
+      "name": "RAM Rampage Laramie 26/26",
+      "status": "partial",
+      "totalImages": 0,
+      "url": "https://svintermed.com.br/veiculos/ram-rampage-laramie-26-26/",
+      "warnings": [
+        "Galeria principal ausente; imagens de veiculos relacionados foram ignoradas."
+      ]
+    },
+    {
+      "download": {
+        "downloadedCount": 19,
+        "failedCount": 0,
+        "reusedCount": 0
+      },
+      "folder": "GWM Haval H9__gwm-haval-h9",
+      "metadataPath": "GWM Haval H9__gwm-haval-h9\\metadata.json",
+      "name": "GWM Haval H9",
+      "status": "success",
+      "totalImages": 19,
+      "url": "https://svintermed.com.br/veiculos/gwm-haval-h9/",
+      "warnings": [
+        "Imagens fora da galeria principal foram ignoradas."
+      ]
+    },
+    {
+      "download": {
+        "downloadedCount": 6,
+        "failedCount": 0,
+        "reusedCount": 0
+      },
+      "folder": "GWM H6 Phev35__gwm-h6-phev35",
+      "metadataPath": "GWM H6 Phev35__gwm-h6-phev35\\metadata.json",
+      "name": "GWM H6 Phev35",
+      "status": "success",
+      "totalImages": 6,
+      "url": "https://svintermed.com.br/veiculos/gwm-h6-phev35/",
+      "warnings": [
+        "Imagens fora da galeria principal foram ignoradas."
+      ]
+    },
+    {
+      "download": {
+        "downloadedCount": 6,
+        "failedCount": 0,
+        "reusedCount": 0
+      },
+      "folder": "Toyota Yaris Cross XRX__toyota-yaris-cross-xrx",
+      "metadataPath": "Toyota Yaris Cross XRX__toyota-yaris-cross-xrx\\metadata.json",
+      "name": "Toyota Yaris Cross XRX",
+      "status": "success",
+      "totalImages": 6,
+      "url": "https://svintermed.com.br/veiculos/toyota-yaris-cross-xrx/",
+      "warnings": [
+        "Imagens fora da galeria principal foram ignoradas."
+      ]
+    },
+    {
+      "download": {
+        "downloadedCount": 7,
+        "failedCount": 0,
+        "reusedCount": 0
+      },
+      "folder": "Toyota Yaris Cross XRX Hibrido__toyota-yaris-cross-xrx-hibrido",
+      "metadataPath": "Toyota Yaris Cross XRX Hibrido__toyota-yaris-cross-xrx-hibrido\\metadata.json",
+      "name": "Toyota Yaris Cross XRX Hibrido",
+      "status": "success",
+      "totalImages": 7,
+      "url": "https://svintermed.com.br/veiculos/toyota-yaris-cross-xrx-hibrido/",
+      "warnings": [
+        "Imagens fora da galeria principal foram ignoradas."
+      ]
+    },
+    {
+      "download": {
+        "downloadedCount": 5,
+        "failedCount": 0,
+        "reusedCount": 0
+      },
+      "folder": "Leapmotor__leapmotor",
+      "metadataPath": "Leapmotor__leapmotor\\metadata.json",
+      "name": "Leapmotor",
+      "status": "success",
+      "totalImages": 5,
+      "url": "https://svintermed.com.br/veiculos/leapmotor/",
+      "warnings": [
+        "Imagens fora da galeria principal foram ignoradas."
+      ]
+    },
+    {
+      "download": {
+        "downloadedCount": 9,
+        "failedCount": 0,
+        "reusedCount": 0
+      },
+      "folder": "BYD Song Plus 2526__byd-song-plus-26-26",
+      "metadataPath": "BYD Song Plus 2526__byd-song-plus-26-26\\metadata.json",
+      "name": "BYD Song Plus 25/26",
+      "status": "success",
+      "totalImages": 9,
+      "url": "https://svintermed.com.br/veiculos/byd-song-plus-26-26/",
+      "warnings": [
+        "Imagens fora da galeria principal foram ignoradas."
+      ]
+    },
+    {
+      "download": {
+        "downloadedCount": 0,
+        "failedCount": 0,
+        "reusedCount": 0
+      },
+      "folder": "GWM Haval H6 Phev19__gwm-haval-h6-phev19-2",
+      "metadataPath": "GWM Haval H6 Phev19__gwm-haval-h6-phev19-2\\metadata.json",
+      "name": "GWM Haval H6 Phev19",
+      "status": "partial",
+      "totalImages": 0,
+      "url": "https://svintermed.com.br/veiculos/gwm-haval-h6-phev19-2/",
+      "warnings": [
+        "Galeria principal ausente; imagens de veiculos relacionados foram ignoradas."
+      ]
+    },
+    {
+      "download": {
+        "downloadedCount": 5,
+        "failedCount": 0,
+        "reusedCount": 0
+      },
+      "folder": "GWM Haval H6 Hev2__gwm-haval-h6-hev2",
+      "metadataPath": "GWM Haval H6 Hev2__gwm-haval-h6-hev2\\metadata.json",
+      "name": "GWM Haval H6 Hev2",
+      "status": "success",
+      "totalImages": 5,
+      "url": "https://svintermed.com.br/veiculos/gwm-haval-h6-hev2/",
+      "warnings": [
+        "Imagens fora da galeria principal foram ignoradas."
+      ]
+    },
+    {
+      "download": {
+        "downloadedCount": 13,
+        "failedCount": 0,
+        "reusedCount": 0
+      },
+      "folder": "GWM Haval H9 exclusive__gwm-haval-h9-exclusive-2",
+      "metadataPath": "GWM Haval H9 exclusive__gwm-haval-h9-exclusive-2\\metadata.json",
+      "name": "GWM Haval H9 exclusive",
+      "status": "success",
+      "totalImages": 13,
+      "url": "https://svintermed.com.br/veiculos/gwm-haval-h9-exclusive-2/",
+      "warnings": [
+        "Imagens fora da galeria principal foram ignoradas."
+      ]
+    },
+    {
+      "download": {
+        "downloadedCount": 0,
+        "failedCount": 0,
+        "reusedCount": 0
+      },
+      "folder": "Fiat Toro Volcano Diesel__fiat-toro-volcano-diesel-3",
+      "metadataPath": "Fiat Toro Volcano Diesel__fiat-toro-volcano-diesel-3\\metadata.json",
+      "name": "Fiat Toro Volcano Diesel",
+      "status": "partial",
+      "totalImages": 0,
+      "url": "https://svintermed.com.br/veiculos/fiat-toro-volcano-diesel-3/",
+      "warnings": [
+        "Galeria principal ausente; imagens de veiculos relacionados foram ignoradas."
+      ]
+    },
+    {
+      "download": {
+        "downloadedCount": 10,
+        "failedCount": 0,
+        "reusedCount": 0
+      },
+      "folder": "BYD Song Plus 2027__byd-song-plus-2027",
+      "metadataPath": "BYD Song Plus 2027__byd-song-plus-2027\\metadata.json",
+      "name": "BYD Song Plus 2027",
+      "status": "success",
+      "totalImages": 10,
+      "url": "https://svintermed.com.br/veiculos/byd-song-plus-2027/",
+      "warnings": [
+        "Imagens fora da galeria principal foram ignoradas."
+      ]
+    },
+    {
+      "download": {
+        "downloadedCount": 0,
+        "failedCount": 0,
+        "reusedCount": 0
+      },
+      "folder": "GWM Tank 300__gwm-tank-300",
+      "metadataPath": "GWM Tank 300__gwm-tank-300\\metadata.json",
+      "name": "GWM Tank 300",
+      "status": "partial",
+      "totalImages": 0,
+      "url": "https://svintermed.com.br/veiculos/gwm-tank-300/",
+      "warnings": [
+        "Galeria principal ausente; imagens de veiculos relacionados foram ignoradas."
+      ]
+    },
+    {
+      "download": {
+        "downloadedCount": 9,
+        "failedCount": 0,
+        "reusedCount": 0
+      },
+      "folder": "Fiat Toro Volcano 2526__fiat-toro-volcano-25-26",
+      "metadataPath": "Fiat Toro Volcano 2526__fiat-toro-volcano-25-26\\metadata.json",
+      "name": "Fiat Toro Volcano 25/26",
+      "status": "success",
+      "totalImages": 9,
+      "url": "https://svintermed.com.br/veiculos/fiat-toro-volcano-25-26/",
+      "warnings": [
+        "Imagens fora da galeria principal foram ignoradas."
+      ]
+    },
+    {
+      "download": {
+        "downloadedCount": 6,
+        "failedCount": 0,
+        "reusedCount": 0
+      },
+      "folder": "RAM Rampage Laramie 2526__ram-rampage-laramie-25-26",
+      "metadataPath": "RAM Rampage Laramie 2526__ram-rampage-laramie-25-26\\metadata.json",
+      "name": "RAM Rampage Laramie 25/26",
+      "status": "success",
+      "totalImages": 6,
+      "url": "https://svintermed.com.br/veiculos/ram-rampage-laramie-25-26/",
+      "warnings": [
+        "Imagens fora da galeria principal foram ignoradas."
+      ]
+    },
+    {
+      "download": {
+        "downloadedCount": 0,
+        "failedCount": 0,
+        "reusedCount": 0
+      },
+      "folder": "GWM Haval H6 PHEV 19__gwm-haval-h6-phev-19",
+      "metadataPath": "GWM Haval H6 PHEV 19__gwm-haval-h6-phev-19\\metadata.json",
+      "name": "GWM Haval H6 PHEV 19",
+      "status": "partial",
+      "totalImages": 0,
+      "url": "https://svintermed.com.br/veiculos/gwm-haval-h6-phev-19/",
+      "warnings": [
+        "Galeria principal ausente; imagens de veiculos relacionados foram ignoradas."
+      ]
+    },
+    {
+      "download": {
+        "downloadedCount": 0,
+        "failedCount": 0,
+        "reusedCount": 0
+      },
+      "folder": "Chevrolet Silverado 2525__chevrolet-silverado-25-25",
+      "metadataPath": "Chevrolet Silverado 2525__chevrolet-silverado-25-25\\metadata.json",
+      "name": "Chevrolet Silverado 25/25",
+      "status": "partial",
+      "totalImages": 0,
+      "url": "https://svintermed.com.br/veiculos/chevrolet-silverado-25-25/",
+      "warnings": [
+        "Galeria principal ausente; imagens de veiculos relacionados foram ignoradas."
+      ]
+    },
+    {
+      "download": {
+        "downloadedCount": 8,
+        "failedCount": 0,
+        "reusedCount": 0
+      },
+      "folder": "Fiat Strada Freedom Cab Plus 2626__fiat-strada-freedom-cab-plus-26-26",
+      "metadataPath": "Fiat Strada Freedom Cab Plus 2626__fiat-strada-freedom-cab-plus-26-26\\metadata.json",
+      "name": "Fiat Strada Freedom Cab Plus 26/26",
+      "status": "success",
+      "totalImages": 8,
+      "url": "https://svintermed.com.br/veiculos/fiat-strada-freedom-cab-plus-26-26/",
+      "warnings": [
+        "Imagens fora da galeria principal foram ignoradas."
+      ]
+    },
+    {
+      "download": {
+        "downloadedCount": 6,
+        "failedCount": 0,
+        "reusedCount": 0
+      },
+      "folder": "Fiat Strada Freedom Cab Plus 2526__fiat-strada-freedom-cab-plus-25-26",
+      "metadataPath": "Fiat Strada Freedom Cab Plus 2526__fiat-strada-freedom-cab-plus-25-26\\metadata.json",
+      "name": "Fiat Strada Freedom Cab Plus 25/26",
+      "status": "success",
+      "totalImages": 6,
+      "url": "https://svintermed.com.br/veiculos/fiat-strada-freedom-cab-plus-25-26/",
+      "warnings": [
+        "Imagens fora da galeria principal foram ignoradas."
+      ]
+    },
+    {
+      "download": {
+        "downloadedCount": 11,
+        "failedCount": 0,
+        "reusedCount": 0
+      },
+      "folder": "RAM Rampage RT 2626__ram-rampage-26-26",
+      "metadataPath": "RAM Rampage RT 2626__ram-rampage-26-26\\metadata.json",
+      "name": "RAM Rampage RT 26/26",
+      "status": "success",
+      "totalImages": 11,
+      "url": "https://svintermed.com.br/veiculos/ram-rampage-26-26/",
+      "warnings": [
+        "Imagens fora da galeria principal foram ignoradas."
+      ]
+    },
+    {
+      "download": {
+        "downloadedCount": 7,
+        "failedCount": 0,
+        "reusedCount": 0
+      },
+      "folder": "Fiat Toro Freedom__fiat-toro-freedom-2",
+      "metadataPath": "Fiat Toro Freedom__fiat-toro-freedom-2\\metadata.json",
+      "name": "Fiat Toro Freedom",
+      "status": "success",
+      "totalImages": 7,
+      "url": "https://svintermed.com.br/veiculos/fiat-toro-freedom-2/",
+      "warnings": [
+        "Imagens fora da galeria principal foram ignoradas."
+      ]
+    },
+    {
+      "download": {
+        "downloadedCount": 0,
+        "failedCount": 0,
+        "reusedCount": 0
+      },
+      "folder": "Toyota Yaris Cross XRE__toyota-yaris-cross-xre",
+      "metadataPath": "Toyota Yaris Cross XRE__toyota-yaris-cross-xre\\metadata.json",
+      "name": "Toyota Yaris Cross XRE",
+      "status": "partial",
+      "totalImages": 0,
+      "url": "https://svintermed.com.br/veiculos/toyota-yaris-cross-xre/",
+      "warnings": [
+        "Galeria principal ausente; imagens de veiculos relacionados foram ignoradas."
+      ]
+    },
+    {
+      "download": {
+        "downloadedCount": 10,
+        "failedCount": 0,
+        "reusedCount": 0
+      },
+      "folder": "Chery Tiggo 8 Pro 2627__chery-tiggo-8-pro-25-26",
+      "metadataPath": "Chery Tiggo 8 Pro 2627__chery-tiggo-8-pro-25-26\\metadata.json",
+      "name": "Chery Tiggo 8 Pro 26/27",
+      "status": "success",
+      "totalImages": 10,
+      "url": "https://svintermed.com.br/veiculos/chery-tiggo-8-pro-25-26/",
+      "warnings": [
+        "Imagens fora da galeria principal foram ignoradas."
+      ]
+    },
+    {
+      "download": {
+        "downloadedCount": 6,
+        "failedCount": 0,
+        "reusedCount": 0
+      },
+      "folder": "Jeep Renegade Altitude__jeep-renegade-altitude",
+      "metadataPath": "Jeep Renegade Altitude__jeep-renegade-altitude\\metadata.json",
+      "name": "Jeep Renegade Altitude",
+      "status": "success",
+      "totalImages": 6,
+      "url": "https://svintermed.com.br/veiculos/jeep-renegade-altitude/",
+      "warnings": [
+        "Imagens fora da galeria principal foram ignoradas."
+      ]
+    },
+    {
+      "download": {
+        "downloadedCount": 10,
+        "failedCount": 0,
+        "reusedCount": 0
+      },
+      "folder": "Honda HRV EX 26-26__honda-hrv-ex-26-26",
+      "metadataPath": "Honda HRV EX 26-26__honda-hrv-ex-26-26\\metadata.json",
+      "name": "Honda HRV EX 26-26",
+      "status": "success",
+      "totalImages": 10,
+      "url": "https://svintermed.com.br/veiculos/honda-hrv-ex-26-26/",
+      "warnings": [
+        "Imagens fora da galeria principal foram ignoradas."
+      ]
+    },
+    {
+      "download": {
+        "downloadedCount": 9,
+        "failedCount": 0,
+        "reusedCount": 0
+      },
+      "folder": "Honda HRV Touring 26-26__honda-hrv-touring-26-26",
+      "metadataPath": "Honda HRV Touring 26-26__honda-hrv-touring-26-26\\metadata.json",
+      "name": "Honda HRV Touring 26-26",
+      "status": "success",
+      "totalImages": 9,
+      "url": "https://svintermed.com.br/veiculos/honda-hrv-touring-26-26/",
+      "warnings": [
+        "Imagens fora da galeria principal foram ignoradas."
+      ]
+    },
+    {
+      "download": {
+        "downloadedCount": 0,
+        "failedCount": 0,
+        "reusedCount": 0
+      },
+      "folder": "Fiat Strada Endurance__fiat-strada-endurance",
+      "metadataPath": "Fiat Strada Endurance__fiat-strada-endurance\\metadata.json",
+      "name": "Fiat Strada Endurance",
+      "status": "partial",
+      "totalImages": 0,
+      "url": "https://svintermed.com.br/veiculos/fiat-strada-endurance/",
+      "warnings": [
+        "Galeria principal ausente; imagens de veiculos relacionados foram ignoradas."
+      ]
+    },
+    {
+      "download": {
+        "downloadedCount": 8,
+        "failedCount": 0,
+        "reusedCount": 0
+      },
+      "folder": "Honda WRV EX__honda-wrv-ex",
+      "metadataPath": "Honda WRV EX__honda-wrv-ex\\metadata.json",
+      "name": "Honda WRV EX",
+      "status": "success",
+      "totalImages": 8,
+      "url": "https://svintermed.com.br/veiculos/honda-wrv-ex/",
+      "warnings": [
+        "Imagens fora da galeria principal foram ignoradas."
+      ]
+    },
+    {
+      "download": {
+        "downloadedCount": 7,
+        "failedCount": 0,
+        "reusedCount": 0
+      },
+      "folder": "Honda WRV EXL__honda-wrv-exl",
+      "metadataPath": "Honda WRV EXL__honda-wrv-exl\\metadata.json",
+      "name": "Honda WRV EXL",
+      "status": "success",
+      "totalImages": 7,
+      "url": "https://svintermed.com.br/veiculos/honda-wrv-exl/",
+      "warnings": [
+        "Imagens fora da galeria principal foram ignoradas."
+      ]
+    },
+    {
+      "download": {
+        "downloadedCount": 4,
+        "failedCount": 0,
+        "reusedCount": 0
+      },
+      "folder": "BMW 320i MSport__bmw-320i-msport",
+      "metadataPath": "BMW 320i MSport__bmw-320i-msport\\metadata.json",
+      "name": "BMW 320i MSport",
+      "status": "success",
+      "totalImages": 4,
+      "url": "https://svintermed.com.br/veiculos/bmw-320i-msport/",
+      "warnings": [
+        "Imagens fora da galeria principal foram ignoradas."
+      ]
+    },
+    {
+      "download": {
+        "downloadedCount": 10,
+        "failedCount": 0,
+        "reusedCount": 0
+      },
+      "folder": "Toyota Corolla Altis Premium 2626__toyota-corolla-altis-premium-26-26",
+      "metadataPath": "Toyota Corolla Altis Premium 2626__toyota-corolla-altis-premium-26-26\\metadata.json",
+      "name": "Toyota Corolla Altis Premium 26/26",
+      "status": "success",
+      "totalImages": 10,
+      "url": "https://svintermed.com.br/veiculos/toyota-corolla-altis-premium-26-26/",
+      "warnings": [
+        "Imagens fora da galeria principal foram ignoradas."
+      ]
+    },
+    {
+      "download": {
+        "downloadedCount": 15,
+        "failedCount": 0,
+        "reusedCount": 0
+      },
+      "folder": "FIAT Toro Ranch 2626__fiat-toro-ranch-26-26",
+      "metadataPath": "FIAT Toro Ranch 2626__fiat-toro-ranch-26-26\\metadata.json",
+      "name": "FIAT Toro Ranch 26/26",
+      "status": "success",
+      "totalImages": 15,
+      "url": "https://svintermed.com.br/veiculos/fiat-toro-ranch-26-26/",
+      "warnings": [
+        "Imagens fora da galeria principal foram ignoradas."
+      ]
+    },
+    {
+      "download": {
+        "downloadedCount": 8,
+        "failedCount": 0,
+        "reusedCount": 0
+      },
+      "folder": "BYD Dolphin Mini GS 2027__byd-dolphin-mini-gs-2027",
+      "metadataPath": "BYD Dolphin Mini GS 2027__byd-dolphin-mini-gs-2027\\metadata.json",
+      "name": "BYD Dolphin Mini GS 2027",
+      "status": "success",
+      "totalImages": 8,
+      "url": "https://svintermed.com.br/veiculos/byd-dolphin-mini-gs-2027/",
+      "warnings": [
+        "Imagens fora da galeria principal foram ignoradas."
+      ]
+    },
+    {
+      "download": {
+        "downloadedCount": 7,
+        "failedCount": 0,
+        "reusedCount": 0
+      },
+      "folder": "FIAT Titano Ranch__fiat-titano-ranch-2",
+      "metadataPath": "FIAT Titano Ranch__fiat-titano-ranch-2\\metadata.json",
+      "name": "FIAT Titano Ranch",
+      "status": "success",
+      "totalImages": 7,
+      "url": "https://svintermed.com.br/veiculos/fiat-titano-ranch-2/",
+      "warnings": [
+        "Imagens fora da galeria principal foram ignoradas."
+      ]
+    },
+    {
+      "download": {
+        "downloadedCount": 7,
+        "failedCount": 0,
+        "reusedCount": 0
+      },
+      "folder": "Jeep Compass Sport__jeep-compass-sport",
+      "metadataPath": "Jeep Compass Sport__jeep-compass-sport\\metadata.json",
+      "name": "Jeep Compass Sport",
+      "status": "success",
+      "totalImages": 7,
+      "url": "https://svintermed.com.br/veiculos/jeep-compass-sport/",
+      "warnings": [
+        "Imagens fora da galeria principal foram ignoradas."
+      ]
+    },
+    {
+      "download": {
+        "downloadedCount": 0,
+        "failedCount": 0,
+        "reusedCount": 0
+      },
+      "folder": "Fiat Toro Ranch__fiat-toro-ranch-3",
+      "metadataPath": "Fiat Toro Ranch__fiat-toro-ranch-3\\metadata.json",
+      "name": "Fiat Toro Ranch",
+      "status": "partial",
+      "totalImages": 0,
+      "url": "https://svintermed.com.br/veiculos/fiat-toro-ranch-3/",
+      "warnings": [
+        "Galeria principal ausente; imagens de veiculos relacionados foram ignoradas."
+      ]
+    },
+    {
+      "download": {
+        "downloadedCount": 5,
+        "failedCount": 0,
+        "reusedCount": 0
+      },
+      "folder": "RAM DAKOTA Laramie__ram-dakota-laramie",
+      "metadataPath": "RAM DAKOTA Laramie__ram-dakota-laramie\\metadata.json",
+      "name": "RAM DAKOTA Laramie",
+      "status": "success",
+      "totalImages": 5,
+      "url": "https://svintermed.com.br/veiculos/ram-dakota-laramie/",
+      "warnings": [
+        "Imagens fora da galeria principal foram ignoradas."
+      ]
+    },
+    {
+      "download": {
+        "downloadedCount": 7,
+        "failedCount": 0,
+        "reusedCount": 0
+      },
+      "folder": "Toyota Corolla XEI 2626__toyota-corolla-xei-26-26",
+      "metadataPath": "Toyota Corolla XEI 2626__toyota-corolla-xei-26-26\\metadata.json",
+      "name": "Toyota Corolla XEI 26/26",
+      "status": "success",
+      "totalImages": 7,
+      "url": "https://svintermed.com.br/veiculos/toyota-corolla-xei-26-26/",
+      "warnings": [
+        "Imagens fora da galeria principal foram ignoradas."
+      ]
+    },
+    {
+      "download": {
+        "downloadedCount": 8,
+        "failedCount": 0,
+        "reusedCount": 0
+      },
+      "folder": "Hyundai Creta Limited__hyundai-creta-limited",
+      "metadataPath": "Hyundai Creta Limited__hyundai-creta-limited\\metadata.json",
+      "name": "Hyundai Creta Limited",
+      "status": "success",
+      "totalImages": 8,
+      "url": "https://svintermed.com.br/veiculos/hyundai-creta-limited/",
+      "warnings": [
+        "Imagens fora da galeria principal foram ignoradas."
+      ]
+    },
+    {
+      "download": {
+        "downloadedCount": 10,
+        "failedCount": 0,
+        "reusedCount": 0
+      },
+      "folder": "Fiat Toro Volcano Flex 2626__fiat-toro-volcano-flex-26-26",
+      "metadataPath": "Fiat Toro Volcano Flex 2626__fiat-toro-volcano-flex-26-26\\metadata.json",
+      "name": "Fiat Toro Volcano Flex 26/26",
+      "status": "success",
+      "totalImages": 10,
+      "url": "https://svintermed.com.br/veiculos/fiat-toro-volcano-flex-26-26/",
+      "warnings": [
+        "Imagens fora da galeria principal foram ignoradas."
+      ]
+    },
+    {
+      "download": {
+        "downloadedCount": 5,
+        "failedCount": 0,
+        "reusedCount": 0
+      },
+      "folder": "Fiat Toro Endurance 2526__fiat-toro-endurance",
+      "metadataPath": "Fiat Toro Endurance 2526__fiat-toro-endurance\\metadata.json",
+      "name": "Fiat Toro Endurance 25/26",
+      "status": "success",
+      "totalImages": 5,
+      "url": "https://svintermed.com.br/veiculos/fiat-toro-endurance/",
+      "warnings": [
+        "Imagens fora da galeria principal foram ignoradas."
+      ]
+    },
+    {
+      "download": {
+        "downloadedCount": 0,
+        "failedCount": 0,
+        "reusedCount": 0
+      },
+      "folder": "Fiat Toro Volcano Diesel__fiat-toro-volcano-diesel-2",
+      "metadataPath": "Fiat Toro Volcano Diesel__fiat-toro-volcano-diesel-2\\metadata.json",
+      "name": "Fiat Toro Volcano Diesel",
+      "status": "partial",
+      "totalImages": 0,
+      "url": "https://svintermed.com.br/veiculos/fiat-toro-volcano-diesel-2/",
+      "warnings": [
+        "Galeria principal ausente; imagens de veiculos relacionados foram ignoradas."
+      ]
+    },
+    {
+      "download": {
+        "downloadedCount": 7,
+        "failedCount": 0,
+        "reusedCount": 0
+      },
+      "folder": "Fiat Toro Ultra__fiat-toro-ultra",
+      "metadataPath": "Fiat Toro Ultra__fiat-toro-ultra\\metadata.json",
+      "name": "Fiat Toro Ultra",
+      "status": "success",
+      "totalImages": 7,
+      "url": "https://svintermed.com.br/veiculos/fiat-toro-ultra/",
+      "warnings": [
+        "Imagens fora da galeria principal foram ignoradas."
+      ]
+    },
+    {
+      "download": {
+        "downloadedCount": 6,
+        "failedCount": 0,
+        "reusedCount": 0
+      },
+      "folder": "GWM Haval H6 Phev19__gwm-haval-h6-phev19",
+      "metadataPath": "GWM Haval H6 Phev19__gwm-haval-h6-phev19\\metadata.json",
+      "name": "GWM Haval H6 Phev19",
+      "status": "success",
+      "totalImages": 6,
+      "url": "https://svintermed.com.br/veiculos/gwm-haval-h6-phev19/",
+      "warnings": [
+        "Imagens fora da galeria principal foram ignoradas."
+      ]
+    },
+    {
+      "download": {
+        "downloadedCount": 10,
+        "failedCount": 0,
+        "reusedCount": 0
+      },
+      "folder": "GWM Haval H9 Exclusive__gwm-haval-h9-exclusive",
+      "metadataPath": "GWM Haval H9 Exclusive__gwm-haval-h9-exclusive\\metadata.json",
+      "name": "GWM Haval H9 Exclusive",
+      "status": "success",
+      "totalImages": 10,
+      "url": "https://svintermed.com.br/veiculos/gwm-haval-h9-exclusive/",
+      "warnings": [
+        "Imagens fora da galeria principal foram ignoradas."
+      ]
+    },
+    {
+      "download": {
+        "downloadedCount": 7,
+        "failedCount": 0,
+        "reusedCount": 0
+      },
+      "folder": "Honda HR-V Advance__honda-hr-v-advance",
+      "metadataPath": "Honda HR-V Advance__honda-hr-v-advance\\metadata.json",
+      "name": "Honda HR-V Advance",
+      "status": "success",
+      "totalImages": 7,
+      "url": "https://svintermed.com.br/veiculos/honda-hr-v-advance/",
+      "warnings": [
+        "Imagens fora da galeria principal foram ignoradas."
+      ]
+    },
+    {
+      "download": {
+        "downloadedCount": 9,
+        "failedCount": 0,
+        "reusedCount": 0
+      },
+      "folder": "BYD King GS__byd-king-gs-3",
+      "metadataPath": "BYD King GS__byd-king-gs-3\\metadata.json",
+      "name": "BYD King GS",
+      "status": "success",
+      "totalImages": 9,
+      "url": "https://svintermed.com.br/veiculos/byd-king-gs-3/",
+      "warnings": [
+        "Imagens fora da galeria principal foram ignoradas."
+      ]
+    },
+    {
+      "download": {
+        "downloadedCount": 1,
+        "failedCount": 0,
+        "reusedCount": 0
+      },
+      "folder": "Fiat Titano Volcano__fiat-titano-volcano",
+      "metadataPath": "Fiat Titano Volcano__fiat-titano-volcano\\metadata.json",
+      "name": "Fiat Titano Volcano",
+      "status": "success",
+      "totalImages": 1,
+      "url": "https://svintermed.com.br/veiculos/fiat-titano-volcano/",
+      "warnings": [
+        "Imagens fora da galeria principal foram ignoradas."
+      ]
+    },
+    {
+      "download": {
+        "downloadedCount": 9,
+        "failedCount": 0,
+        "reusedCount": 0
+      },
+      "folder": "Fiat Titano Ranch__fiat-titano-ranch",
+      "metadataPath": "Fiat Titano Ranch__fiat-titano-ranch\\metadata.json",
+      "name": "Fiat Titano Ranch",
+      "status": "success",
+      "totalImages": 9,
+      "url": "https://svintermed.com.br/veiculos/fiat-titano-ranch/",
+      "warnings": [
+        "Imagens fora da galeria principal foram ignoradas."
+      ]
+    },
+    {
+      "download": {
+        "downloadedCount": 6,
+        "failedCount": 0,
+        "reusedCount": 0
+      },
+      "folder": "VW Tera High__vw-tera-high-2",
+      "metadataPath": "VW Tera High__vw-tera-high-2\\metadata.json",
+      "name": "VW Tera High",
+      "status": "success",
+      "totalImages": 6,
+      "url": "https://svintermed.com.br/veiculos/vw-tera-high-2/",
+      "warnings": [
+        "Imagens fora da galeria principal foram ignoradas."
+      ]
+    },
+    {
+      "download": {
+        "downloadedCount": 5,
+        "failedCount": 0,
+        "reusedCount": 0
+      },
+      "folder": "VW Tera High__vw-tera-high",
+      "metadataPath": "VW Tera High__vw-tera-high\\metadata.json",
+      "name": "VW Tera High",
+      "status": "success",
+      "totalImages": 5,
+      "url": "https://svintermed.com.br/veiculos/vw-tera-high/",
+      "warnings": [
+        "Imagens fora da galeria principal foram ignoradas."
+      ]
+    },
+    {
+      "download": {
+        "downloadedCount": 6,
+        "failedCount": 0,
+        "reusedCount": 0
+      },
+      "folder": "Toyota SW4 Platinum 2526 5 lug__toyota-sw4-platinum-2",
+      "metadataPath": "Toyota SW4 Platinum 2526 5 lug__toyota-sw4-platinum-2\\metadata.json",
+      "name": "Toyota SW4 Platinum 25/26 5 lug",
+      "status": "success",
+      "totalImages": 6,
+      "url": "https://svintermed.com.br/veiculos/toyota-sw4-platinum-2/",
+      "warnings": [
+        "Imagens fora da galeria principal foram ignoradas."
+      ]
+    },
+    {
+      "download": {
+        "downloadedCount": 4,
+        "failedCount": 0,
+        "reusedCount": 0
+      },
+      "folder": "GM Spin Premier__gm-spin-premier",
+      "metadataPath": "GM Spin Premier__gm-spin-premier\\metadata.json",
+      "name": "GM Spin Premier",
+      "status": "success",
+      "totalImages": 4,
+      "url": "https://svintermed.com.br/veiculos/gm-spin-premier/",
+      "warnings": [
+        "Imagens fora da galeria principal foram ignoradas."
+      ]
+    },
+    {
+      "download": {
+        "downloadedCount": 5,
+        "failedCount": 0,
+        "reusedCount": 0
+      },
+      "folder": "Fiat Scudo Cargo__fiat-scudo-cargo",
+      "metadataPath": "Fiat Scudo Cargo__fiat-scudo-cargo\\metadata.json",
+      "name": "Fiat Scudo Cargo",
+      "status": "success",
+      "totalImages": 5,
+      "url": "https://svintermed.com.br/veiculos/fiat-scudo-cargo/",
+      "warnings": [
+        "Imagens fora da galeria principal foram ignoradas."
+      ]
+    },
+    {
+      "download": {
+        "downloadedCount": 7,
+        "failedCount": 0,
+        "reusedCount": 0
+      },
+      "folder": "GM Tracker LTZ__gm-tracker-ltz",
+      "metadataPath": "GM Tracker LTZ__gm-tracker-ltz\\metadata.json",
+      "name": "GM Tracker LTZ",
+      "status": "success",
+      "totalImages": 7,
+      "url": "https://svintermed.com.br/veiculos/gm-tracker-ltz/",
+      "warnings": [
+        "Imagens fora da galeria principal foram ignoradas."
+      ]
+    },
+    {
+      "download": {
+        "downloadedCount": 5,
+        "failedCount": 0,
+        "reusedCount": 0
+      },
+      "folder": "BYD Dolphin Mini GS__byd-dolphin-mini-gs-2",
+      "metadataPath": "BYD Dolphin Mini GS__byd-dolphin-mini-gs-2\\metadata.json",
+      "name": "BYD Dolphin Mini GS",
+      "status": "success",
+      "totalImages": 5,
+      "url": "https://svintermed.com.br/veiculos/byd-dolphin-mini-gs-2/",
+      "warnings": [
+        "Imagens fora da galeria principal foram ignoradas."
+      ]
+    },
+    {
+      "download": {
+        "downloadedCount": 5,
+        "failedCount": 0,
+        "reusedCount": 0
+      },
+      "folder": "Fiat Toro Ranch__fiat-toro-ranch",
+      "metadataPath": "Fiat Toro Ranch__fiat-toro-ranch\\metadata.json",
+      "name": "Fiat Toro Ranch",
+      "status": "success",
+      "totalImages": 5,
+      "url": "https://svintermed.com.br/veiculos/fiat-toro-ranch/",
+      "warnings": [
+        "Imagens fora da galeria principal foram ignoradas."
+      ]
+    },
+    {
+      "download": {
+        "downloadedCount": 5,
+        "failedCount": 0,
+        "reusedCount": 0
+      },
+      "folder": "Honda HR-V EXL__honda-hr-v-exl-2",
+      "metadataPath": "Honda HR-V EXL__honda-hr-v-exl-2\\metadata.json",
+      "name": "Honda HR-V EXL",
+      "status": "success",
+      "totalImages": 5,
+      "url": "https://svintermed.com.br/veiculos/honda-hr-v-exl-2/",
+      "warnings": [
+        "Imagens fora da galeria principal foram ignoradas."
+      ]
+    },
+    {
+      "download": {
+        "downloadedCount": 0,
+        "failedCount": 0,
+        "reusedCount": 0
+      },
+      "folder": "Chery Tiggo 7 Sport__chery-tiggo-7-sport",
+      "metadataPath": "Chery Tiggo 7 Sport__chery-tiggo-7-sport\\metadata.json",
+      "name": "Chery Tiggo 7 Sport",
+      "status": "partial",
+      "totalImages": 0,
+      "url": "https://svintermed.com.br/veiculos/chery-tiggo-7-sport/",
+      "warnings": [
+        "Galeria principal ausente; imagens de veiculos relacionados foram ignoradas."
+      ]
+    },
+    {
+      "download": {
+        "downloadedCount": 7,
+        "failedCount": 0,
+        "reusedCount": 0
+      },
+      "folder": "Chery Tiggo 8 Pro__chery-tiggo-8-pro",
+      "metadataPath": "Chery Tiggo 8 Pro__chery-tiggo-8-pro\\metadata.json",
+      "name": "Chery Tiggo 8 Pro",
+      "status": "success",
+      "totalImages": 7,
+      "url": "https://svintermed.com.br/veiculos/chery-tiggo-8-pro/",
+      "warnings": [
+        "Imagens fora da galeria principal foram ignoradas."
+      ]
+    },
+    {
+      "download": {
+        "downloadedCount": 14,
+        "failedCount": 0,
+        "reusedCount": 0
+      },
+      "folder": "BMW 320 MSport__bmw-320-msport",
+      "metadataPath": "BMW 320 MSport__bmw-320-msport\\metadata.json",
+      "name": "BMW 320 MSport",
+      "status": "success",
+      "totalImages": 14,
+      "url": "https://svintermed.com.br/veiculos/bmw-320-msport/",
+      "warnings": [
+        "Imagens fora da galeria principal foram ignoradas."
+      ]
+    },
+    {
+      "download": {
+        "downloadedCount": 5,
+        "failedCount": 0,
+        "reusedCount": 0
+      },
+      "folder": "BYD Song Pro GS__byd-song-pro-gs-2",
+      "metadataPath": "BYD Song Pro GS__byd-song-pro-gs-2\\metadata.json",
+      "name": "BYD Song Pro GS",
+      "status": "success",
+      "totalImages": 5,
+      "url": "https://svintermed.com.br/veiculos/byd-song-pro-gs-2/",
+      "warnings": [
+        "Imagens fora da galeria principal foram ignoradas."
+      ]
+    },
+    {
+      "download": {
+        "downloadedCount": 0,
+        "failedCount": 0,
+        "reusedCount": 0
+      },
+      "folder": "BYD King GS__byd-king-gs-2",
+      "metadataPath": "BYD King GS__byd-king-gs-2\\metadata.json",
+      "name": "BYD King GS",
+      "status": "partial",
+      "totalImages": 0,
+      "url": "https://svintermed.com.br/veiculos/byd-king-gs-2/",
+      "warnings": [
+        "Galeria principal ausente; imagens de veiculos relacionados foram ignoradas."
+      ]
+    },
+    {
+      "download": {
+        "downloadedCount": 6,
+        "failedCount": 0,
+        "reusedCount": 0
+      },
+      "folder": "Ford Ranger Raptor__ford-ranger-raptor-3",
+      "metadataPath": "Ford Ranger Raptor__ford-ranger-raptor-3\\metadata.json",
+      "name": "Ford Ranger Raptor",
+      "status": "success",
+      "totalImages": 6,
+      "url": "https://svintermed.com.br/veiculos/ford-ranger-raptor-3/",
+      "warnings": [
+        "Imagens fora da galeria principal foram ignoradas."
+      ]
+    },
+    {
+      "download": {
+        "downloadedCount": 3,
+        "failedCount": 0,
+        "reusedCount": 0
+      },
+      "folder": "GM S10 Z71__gm-s10-z71",
+      "metadataPath": "GM S10 Z71__gm-s10-z71\\metadata.json",
+      "name": "GM S10 Z71",
+      "status": "success",
+      "totalImages": 3,
+      "url": "https://svintermed.com.br/veiculos/gm-s10-z71/",
+      "warnings": [
+        "Imagens fora da galeria principal foram ignoradas."
+      ]
+    },
+    {
+      "download": {
+        "downloadedCount": 0,
+        "failedCount": 0,
+        "reusedCount": 0
+      },
+      "folder": "Toyota SW4 Diamond 2526__toyota-sw4-diamond",
+      "metadataPath": "Toyota SW4 Diamond 2526__toyota-sw4-diamond\\metadata.json",
+      "name": "Toyota SW4 Diamond 25/26",
+      "status": "partial",
+      "totalImages": 0,
+      "url": "https://svintermed.com.br/veiculos/toyota-sw4-diamond/",
+      "warnings": [
+        "Galeria principal ausente; imagens de veiculos relacionados foram ignoradas."
+      ]
+    },
+    {
+      "download": {
+        "downloadedCount": 11,
+        "failedCount": 0,
+        "reusedCount": 0
+      },
+      "folder": "GM Montana RS__gm-montana-rs",
+      "metadataPath": "GM Montana RS__gm-montana-rs\\metadata.json",
+      "name": "GM Montana RS",
+      "status": "success",
+      "totalImages": 11,
+      "url": "https://svintermed.com.br/veiculos/gm-montana-rs/",
+      "warnings": [
+        "Imagens fora da galeria principal foram ignoradas."
+      ]
+    },
+    {
+      "download": {
+        "downloadedCount": 12,
+        "failedCount": 0,
+        "reusedCount": 0
+      },
+      "folder": "GM Tracker LT__gm-tracker-lt",
+      "metadataPath": "GM Tracker LT__gm-tracker-lt\\metadata.json",
+      "name": "GM Tracker LT",
+      "status": "success",
+      "totalImages": 12,
+      "url": "https://svintermed.com.br/veiculos/gm-tracker-lt/",
+      "warnings": [
+        "Imagens fora da galeria principal foram ignoradas."
+      ]
+    },
+    {
+      "download": {
+        "downloadedCount": 11,
+        "failedCount": 0,
+        "reusedCount": 0
+      },
+      "folder": "GM Onix RS__gm-onix-rs",
+      "metadataPath": "GM Onix RS__gm-onix-rs\\metadata.json",
+      "name": "GM Onix RS",
+      "status": "success",
+      "totalImages": 11,
+      "url": "https://svintermed.com.br/veiculos/gm-onix-rs/",
+      "warnings": [
+        "Imagens fora da galeria principal foram ignoradas."
+      ]
+    },
+    {
+      "download": {
+        "downloadedCount": 8,
+        "failedCount": 0,
+        "reusedCount": 0
+      },
+      "folder": "GM Silverado__gm-silverado",
+      "metadataPath": "GM Silverado__gm-silverado\\metadata.json",
+      "name": "GM Silverado",
+      "status": "success",
+      "totalImages": 8,
+      "url": "https://svintermed.com.br/veiculos/gm-silverado/",
+      "warnings": [
+        "Imagens fora da galeria principal foram ignoradas."
+      ]
+    },
+    {
+      "download": {
+        "downloadedCount": 0,
+        "failedCount": 0,
+        "reusedCount": 0
+      },
+      "folder": "Fiat Toro Freedom__fiat-toro-freedom",
+      "metadataPath": "Fiat Toro Freedom__fiat-toro-freedom\\metadata.json",
+      "name": "Fiat Toro Freedom",
+      "status": "partial",
+      "totalImages": 0,
+      "url": "https://svintermed.com.br/veiculos/fiat-toro-freedom/",
+      "warnings": [
+        "Galeria principal ausente; imagens de veiculos relacionados foram ignoradas."
+      ]
+    },
+    {
+      "download": {
+        "downloadedCount": 5,
+        "failedCount": 0,
+        "reusedCount": 0
+      },
+      "folder": "Jeep Compass Longitude 2626__jeep-compass-longitude",
+      "metadataPath": "Jeep Compass Longitude 2626__jeep-compass-longitude\\metadata.json",
+      "name": "Jeep Compass Longitude 26/26",
+      "status": "success",
+      "totalImages": 5,
+      "url": "https://svintermed.com.br/veiculos/jeep-compass-longitude/",
+      "warnings": [
+        "Imagens fora da galeria principal foram ignoradas."
+      ]
+    },
+    {
+      "download": {
+        "downloadedCount": 7,
+        "failedCount": 0,
+        "reusedCount": 0
+      },
+      "folder": "Honda HRV EXL 26-26__honda-hr-v-exl",
+      "metadataPath": "Honda HRV EXL 26-26__honda-hr-v-exl\\metadata.json",
+      "name": "Honda HRV EXL 26-26",
+      "status": "success",
+      "totalImages": 7,
+      "url": "https://svintermed.com.br/veiculos/honda-hr-v-exl/",
+      "warnings": [
+        "Imagens fora da galeria principal foram ignoradas."
+      ]
+    },
+    {
+      "download": {
+        "downloadedCount": 8,
+        "failedCount": 0,
+        "reusedCount": 0
+      },
+      "folder": "Chery Tiggo 5x Sport__chery-tiggo-5x-sport",
+      "metadataPath": "Chery Tiggo 5x Sport__chery-tiggo-5x-sport\\metadata.json",
+      "name": "Chery Tiggo 5x Sport",
+      "status": "success",
+      "totalImages": 8,
+      "url": "https://svintermed.com.br/veiculos/chery-tiggo-5x-sport/",
+      "warnings": [
+        "Imagens fora da galeria principal foram ignoradas."
+      ]
+    },
+    {
+      "download": {
+        "downloadedCount": 11,
+        "failedCount": 0,
+        "reusedCount": 0
+      },
+      "folder": "Jeep Compass S__jeep-compass-s-2",
+      "metadataPath": "Jeep Compass S__jeep-compass-s-2\\metadata.json",
+      "name": "Jeep Compass S",
+      "status": "success",
+      "totalImages": 11,
+      "url": "https://svintermed.com.br/veiculos/jeep-compass-s-2/",
+      "warnings": [
+        "Imagens fora da galeria principal foram ignoradas."
+      ]
+    },
+    {
+      "download": {
+        "downloadedCount": 8,
+        "failedCount": 0,
+        "reusedCount": 0
+      },
+      "folder": "Jeep Compass S__jeep-compass-s",
+      "metadataPath": "Jeep Compass S__jeep-compass-s\\metadata.json",
+      "name": "Jeep Compass S",
+      "status": "success",
+      "totalImages": 8,
+      "url": "https://svintermed.com.br/veiculos/jeep-compass-s/",
+      "warnings": [
+        "Imagens fora da galeria principal foram ignoradas."
+      ]
+    },
+    {
+      "download": {
+        "downloadedCount": 7,
+        "failedCount": 0,
+        "reusedCount": 0
+      },
+      "folder": "GM Tracker Premier__gm-tracker-premier",
+      "metadataPath": "GM Tracker Premier__gm-tracker-premier\\metadata.json",
+      "name": "GM Tracker Premier",
+      "status": "success",
+      "totalImages": 7,
+      "url": "https://svintermed.com.br/veiculos/gm-tracker-premier/",
+      "warnings": [
+        "Imagens fora da galeria principal foram ignoradas."
+      ]
+    },
+    {
+      "download": {
+        "downloadedCount": 8,
+        "failedCount": 0,
+        "reusedCount": 0
+      },
+      "folder": "GM S10 WT Automática__gm-s10-wt-automatica",
+      "metadataPath": "GM S10 WT Automática__gm-s10-wt-automatica\\metadata.json",
+      "name": "GM S10 WT Automática",
+      "status": "success",
+      "totalImages": 8,
+      "url": "https://svintermed.com.br/veiculos/gm-s10-wt-automatica/",
+      "warnings": [
+        "Imagens fora da galeria principal foram ignoradas."
+      ]
+    },
+    {
+      "download": {
+        "downloadedCount": 7,
+        "failedCount": 0,
+        "reusedCount": 0
+      },
+      "folder": "BYD Dolphin GS 2027__byd-dolphin-gs",
+      "metadataPath": "BYD Dolphin GS 2027__byd-dolphin-gs\\metadata.json",
+      "name": "BYD Dolphin GS 2027",
+      "status": "success",
+      "totalImages": 7,
+      "url": "https://svintermed.com.br/veiculos/byd-dolphin-gs/",
+      "warnings": [
+        "Imagens fora da galeria principal foram ignoradas."
+      ]
+    },
+    {
+      "download": {
+        "downloadedCount": 14,
+        "failedCount": 0,
+        "reusedCount": 0
+      },
+      "folder": "BYD King GS__byd-king-gs",
+      "metadataPath": "BYD King GS__byd-king-gs\\metadata.json",
+      "name": "BYD King GS",
+      "status": "success",
+      "totalImages": 14,
+      "url": "https://svintermed.com.br/veiculos/byd-king-gs/",
+      "warnings": [
+        "Imagens fora da galeria principal foram ignoradas."
+      ]
+    },
+    {
+      "download": {
+        "downloadedCount": 9,
+        "failedCount": 0,
+        "reusedCount": 0
+      },
+      "folder": "Fiat Fastback Abarth__fiat-fastback-abarth-3",
+      "metadataPath": "Fiat Fastback Abarth__fiat-fastback-abarth-3\\metadata.json",
+      "name": "Fiat Fastback Abarth",
+      "status": "success",
+      "totalImages": 9,
+      "url": "https://svintermed.com.br/veiculos/fiat-fastback-abarth-3/",
+      "warnings": [
+        "Imagens fora da galeria principal foram ignoradas."
+      ]
+    },
+    {
+      "download": {
+        "downloadedCount": 6,
+        "failedCount": 0,
+        "reusedCount": 0
+      },
+      "folder": "GM Spark__gm-spark",
+      "metadataPath": "GM Spark__gm-spark\\metadata.json",
+      "name": "GM Spark",
+      "status": "success",
+      "totalImages": 6,
+      "url": "https://svintermed.com.br/veiculos/gm-spark/",
+      "warnings": [
+        "Imagens fora da galeria principal foram ignoradas."
+      ]
+    },
+    {
+      "download": {
+        "downloadedCount": 9,
+        "failedCount": 0,
+        "reusedCount": 0
+      },
+      "folder": "GM S10 LTZ__gm-s10-ltz-4",
+      "metadataPath": "GM S10 LTZ__gm-s10-ltz-4\\metadata.json",
+      "name": "GM S10 LTZ",
+      "status": "success",
+      "totalImages": 9,
+      "url": "https://svintermed.com.br/veiculos/gm-s10-ltz-4/",
+      "warnings": [
+        "Imagens fora da galeria principal foram ignoradas."
+      ]
+    },
+    {
+      "download": {
+        "downloadedCount": 9,
+        "failedCount": 0,
+        "reusedCount": 0
+      },
+      "folder": "GM Montana Premier__gm-montana-premier-2",
+      "metadataPath": "GM Montana Premier__gm-montana-premier-2\\metadata.json",
+      "name": "GM Montana Premier",
+      "status": "success",
+      "totalImages": 9,
+      "url": "https://svintermed.com.br/veiculos/gm-montana-premier-2/",
+      "warnings": [
+        "Imagens fora da galeria principal foram ignoradas."
+      ]
+    },
+    {
+      "download": {
+        "downloadedCount": 4,
+        "failedCount": 0,
+        "reusedCount": 0
+      },
+      "folder": "GM Montana LTZ__gm-montana-ltz-2",
+      "metadataPath": "GM Montana LTZ__gm-montana-ltz-2\\metadata.json",
+      "name": "GM Montana LTZ",
+      "status": "success",
+      "totalImages": 4,
+      "url": "https://svintermed.com.br/veiculos/gm-montana-ltz-2/",
+      "warnings": [
+        "Imagens fora da galeria principal foram ignoradas."
+      ]
+    },
+    {
+      "download": {
+        "downloadedCount": 15,
+        "failedCount": 0,
+        "reusedCount": 0
+      },
+      "folder": "RAM Rampage RT__ram-rampage-rt-4",
+      "metadataPath": "RAM Rampage RT__ram-rampage-rt-4\\metadata.json",
+      "name": "RAM Rampage RT",
+      "status": "success",
+      "totalImages": 15,
+      "url": "https://svintermed.com.br/veiculos/ram-rampage-rt-4/",
+      "warnings": [
+        "Imagens fora da galeria principal foram ignoradas."
+      ]
+    },
+    {
+      "download": {
+        "downloadedCount": 0,
+        "failedCount": 0,
+        "reusedCount": 0
+      },
+      "folder": "Fiat Mobi Like__fiat-mobi-like-3",
+      "metadataPath": "Fiat Mobi Like__fiat-mobi-like-3\\metadata.json",
+      "name": "Fiat Mobi Like",
+      "status": "partial",
+      "totalImages": 0,
+      "url": "https://svintermed.com.br/veiculos/fiat-mobi-like-3/",
+      "warnings": [
+        "Galeria principal ausente; imagens de veiculos relacionados foram ignoradas."
+      ]
+    },
+    {
+      "download": {
+        "downloadedCount": 11,
+        "failedCount": 0,
+        "reusedCount": 0
+      },
+      "folder": "Ford Ranger Raptor__ford-ranger-raptor-2",
+      "metadataPath": "Ford Ranger Raptor__ford-ranger-raptor-2\\metadata.json",
+      "name": "Ford Ranger Raptor",
+      "status": "success",
+      "totalImages": 11,
+      "url": "https://svintermed.com.br/veiculos/ford-ranger-raptor-2/",
+      "warnings": [
+        "Imagens fora da galeria principal foram ignoradas."
+      ]
+    },
+    {
+      "download": {
+        "downloadedCount": 1,
+        "failedCount": 0,
+        "reusedCount": 0
+      },
+      "folder": "Fiat Mobi Like__fiat-mobi-like-2",
+      "metadataPath": "Fiat Mobi Like__fiat-mobi-like-2\\metadata.json",
+      "name": "Fiat Mobi Like",
+      "status": "success",
+      "totalImages": 1,
+      "url": "https://svintermed.com.br/veiculos/fiat-mobi-like-2/",
+      "warnings": [
+        "Imagens fora da galeria principal foram ignoradas."
+      ]
+    },
+    {
+      "download": {
+        "downloadedCount": 6,
+        "failedCount": 0,
+        "reusedCount": 0
+      },
+      "folder": "FIAT Fastback T200__fiat-fastback-t200",
+      "metadataPath": "FIAT Fastback T200__fiat-fastback-t200\\metadata.json",
+      "name": "FIAT Fastback T200",
+      "status": "success",
+      "totalImages": 6,
+      "url": "https://svintermed.com.br/veiculos/fiat-fastback-t200/",
+      "warnings": [
+        "Imagens fora da galeria principal foram ignoradas."
+      ]
+    },
+    {
+      "download": {
+        "downloadedCount": 6,
+        "failedCount": 0,
+        "reusedCount": 0
+      },
+      "folder": "JEEP Commander Longitude__jeep-commander-longitude",
+      "metadataPath": "JEEP Commander Longitude__jeep-commander-longitude\\metadata.json",
+      "name": "JEEP Commander Longitude",
+      "status": "success",
+      "totalImages": 6,
+      "url": "https://svintermed.com.br/veiculos/jeep-commander-longitude/",
+      "warnings": [
+        "Imagens fora da galeria principal foram ignoradas."
+      ]
+    },
+    {
+      "download": {
+        "downloadedCount": 6,
+        "failedCount": 0,
+        "reusedCount": 0
+      },
+      "folder": "Fiat Toro Volcano Diesel__fiat-toro-volcano-diesel",
+      "metadataPath": "Fiat Toro Volcano Diesel__fiat-toro-volcano-diesel\\metadata.json",
+      "name": "Fiat Toro Volcano Diesel",
+      "status": "success",
+      "totalImages": 6,
+      "url": "https://svintermed.com.br/veiculos/fiat-toro-volcano-diesel/",
+      "warnings": [
+        "Imagens fora da galeria principal foram ignoradas."
+      ]
+    },
+    {
+      "download": {
+        "downloadedCount": 10,
+        "failedCount": 0,
+        "reusedCount": 0
+      },
+      "folder": "Omoda 5 SHS-H Luxury__omoda-5-shs-h-luxury",
+      "metadataPath": "Omoda 5 SHS-H Luxury__omoda-5-shs-h-luxury\\metadata.json",
+      "name": "Omoda 5 SHS-H Luxury",
+      "status": "success",
+      "totalImages": 10,
+      "url": "https://svintermed.com.br/veiculos/omoda-5-shs-h-luxury/",
+      "warnings": [
+        "Imagens fora da galeria principal foram ignoradas."
+      ]
+    },
+    {
+      "download": {
+        "downloadedCount": 10,
+        "failedCount": 0,
+        "reusedCount": 0
+      },
+      "folder": "VW Nivus GTS__vw-nivus-gts-2",
+      "metadataPath": "VW Nivus GTS__vw-nivus-gts-2\\metadata.json",
+      "name": "VW Nivus GTS",
+      "status": "success",
+      "totalImages": 10,
+      "url": "https://svintermed.com.br/veiculos/vw-nivus-gts-2/",
+      "warnings": [
+        "Imagens fora da galeria principal foram ignoradas."
+      ]
+    },
+    {
+      "download": {
+        "downloadedCount": 8,
+        "failedCount": 0,
+        "reusedCount": 0
+      },
+      "folder": "VW Nivus GTS__vw-nivus-gts",
+      "metadataPath": "VW Nivus GTS__vw-nivus-gts\\metadata.json",
+      "name": "VW Nivus GTS",
+      "status": "success",
+      "totalImages": 8,
+      "url": "https://svintermed.com.br/veiculos/vw-nivus-gts/",
+      "warnings": [
+        "Imagens fora da galeria principal foram ignoradas."
+      ]
+    },
+    {
+      "download": {
+        "downloadedCount": 8,
+        "failedCount": 0,
+        "reusedCount": 0
+      },
+      "folder": "Jeep Compass Blackhawk__jeep-compass-blackhawk",
+      "metadataPath": "Jeep Compass Blackhawk__jeep-compass-blackhawk\\metadata.json",
+      "name": "Jeep Compass Blackhawk",
+      "status": "success",
+      "totalImages": 8,
+      "url": "https://svintermed.com.br/veiculos/jeep-compass-blackhawk/",
+      "warnings": [
+        "Imagens fora da galeria principal foram ignoradas."
+      ]
+    },
+    {
+      "download": {
+        "downloadedCount": 10,
+        "failedCount": 0,
+        "reusedCount": 0
+      },
+      "folder": "Toyota SW4 Diamond__toyota-sw4-diamond-2",
+      "metadataPath": "Toyota SW4 Diamond__toyota-sw4-diamond-2\\metadata.json",
+      "name": "Toyota SW4 Diamond",
+      "status": "success",
+      "totalImages": 10,
+      "url": "https://svintermed.com.br/veiculos/toyota-sw4-diamond-2/",
+      "warnings": [
+        "Imagens fora da galeria principal foram ignoradas."
+      ]
+    },
+    {
+      "download": {
+        "downloadedCount": 7,
+        "failedCount": 0,
+        "reusedCount": 0
+      },
+      "folder": "VW Saveiro Extreme__vw-saveiro-extreme",
+      "metadataPath": "VW Saveiro Extreme__vw-saveiro-extreme\\metadata.json",
+      "name": "VW Saveiro Extreme",
+      "status": "success",
+      "totalImages": 7,
+      "url": "https://svintermed.com.br/veiculos/vw-saveiro-extreme/",
+      "warnings": [
+        "Imagens fora da galeria principal foram ignoradas."
+      ]
+    },
+    {
+      "download": {
+        "downloadedCount": 0,
+        "failedCount": 0,
+        "reusedCount": 0
+      },
+      "folder": "VW Jetta GLI__vw-jetta-gli",
+      "metadataPath": "VW Jetta GLI__vw-jetta-gli\\metadata.json",
+      "name": "VW Jetta GLI",
+      "status": "partial",
+      "totalImages": 0,
+      "url": "https://svintermed.com.br/veiculos/vw-jetta-gli/",
+      "warnings": [
+        "Galeria principal ausente; imagens de veiculos relacionados foram ignoradas."
+      ]
+    },
+    {
+      "download": {
+        "downloadedCount": 8,
+        "failedCount": 0,
+        "reusedCount": 0
+      },
+      "folder": "VW Polo Highline 2626__vw-polo-highline-2",
+      "metadataPath": "VW Polo Highline 2626__vw-polo-highline-2\\metadata.json",
+      "name": "VW Polo Highline 26/26",
+      "status": "success",
+      "totalImages": 8,
+      "url": "https://svintermed.com.br/veiculos/vw-polo-highline-2/",
+      "warnings": [
+        "Imagens fora da galeria principal foram ignoradas."
+      ]
+    },
+    {
+      "download": {
+        "downloadedCount": 10,
+        "failedCount": 0,
+        "reusedCount": 0
+      },
+      "folder": "Toyota SW4 Platinum 2526 7 LUG__toyota-sw4-platinum",
+      "metadataPath": "Toyota SW4 Platinum 2526 7 LUG__toyota-sw4-platinum\\metadata.json",
+      "name": "Toyota SW4 Platinum 25/26 7 LUG",
+      "status": "success",
+      "totalImages": 10,
+      "url": "https://svintermed.com.br/veiculos/toyota-sw4-platinum/",
+      "warnings": [
+        "Imagens fora da galeria principal foram ignoradas."
+      ]
+    },
+    {
+      "download": {
+        "downloadedCount": 10,
+        "failedCount": 0,
+        "reusedCount": 0
+      },
+      "folder": "Chevrolet Captiva EV__chevrolet-captiva-ev",
+      "metadataPath": "Chevrolet Captiva EV__chevrolet-captiva-ev\\metadata.json",
+      "name": "Chevrolet Captiva EV",
+      "status": "success",
+      "totalImages": 10,
+      "url": "https://svintermed.com.br/veiculos/chevrolet-captiva-ev/",
+      "warnings": [
+        "Imagens fora da galeria principal foram ignoradas."
+      ]
+    },
+    {
+      "download": {
+        "downloadedCount": 0,
+        "failedCount": 0,
+        "reusedCount": 0
+      },
+      "folder": "Jeep Commander Overland Diesel__jeep-commander-overland-diesel",
+      "metadataPath": "Jeep Commander Overland Diesel__jeep-commander-overland-diesel\\metadata.json",
+      "name": "Jeep Commander Overland Diesel",
+      "status": "partial",
+      "totalImages": 0,
+      "url": "https://svintermed.com.br/veiculos/jeep-commander-overland-diesel/",
+      "warnings": [
+        "Galeria principal ausente; imagens de veiculos relacionados foram ignoradas."
+      ]
+    },
+    {
+      "download": {
+        "downloadedCount": 10,
+        "failedCount": 0,
+        "reusedCount": 0
+      },
+      "folder": "BYD Dolphin Mini GS__byd-dolphin-mini-gs",
+      "metadataPath": "BYD Dolphin Mini GS__byd-dolphin-mini-gs\\metadata.json",
+      "name": "BYD Dolphin Mini GS",
+      "status": "success",
+      "totalImages": 10,
+      "url": "https://svintermed.com.br/veiculos/byd-dolphin-mini-gs/",
+      "warnings": [
+        "Imagens fora da galeria principal foram ignoradas."
+      ]
+    },
+    {
+      "download": {
+        "downloadedCount": 9,
+        "failedCount": 0,
+        "reusedCount": 0
+      },
+      "folder": "Toyota Hilux SRV__toyota-hilux-srv",
+      "metadataPath": "Toyota Hilux SRV__toyota-hilux-srv\\metadata.json",
+      "name": "Toyota Hilux SRV",
+      "status": "success",
+      "totalImages": 9,
+      "url": "https://svintermed.com.br/veiculos/toyota-hilux-srv/",
+      "warnings": [
+        "Imagens fora da galeria principal foram ignoradas."
+      ]
+    },
+    {
+      "download": {
+        "downloadedCount": 8,
+        "failedCount": 0,
+        "reusedCount": 0
+      },
+      "folder": "Fiat Toro Volcano__fiat-toro-volcano",
+      "metadataPath": "Fiat Toro Volcano__fiat-toro-volcano\\metadata.json",
+      "name": "Fiat Toro Volcano",
+      "status": "success",
+      "totalImages": 8,
+      "url": "https://svintermed.com.br/veiculos/fiat-toro-volcano/",
+      "warnings": [
+        "Imagens fora da galeria principal foram ignoradas."
+      ]
+    },
+    {
+      "download": {
+        "downloadedCount": 10,
+        "failedCount": 0,
+        "reusedCount": 0
+      },
+      "folder": "Toyota Hilux SRX 2026__toyota-hilux-srx",
+      "metadataPath": "Toyota Hilux SRX 2026__toyota-hilux-srx\\metadata.json",
+      "name": "Toyota Hilux SRX 2026",
+      "status": "success",
+      "totalImages": 10,
+      "url": "https://svintermed.com.br/veiculos/toyota-hilux-srx/",
+      "warnings": [
+        "Imagens fora da galeria principal foram ignoradas."
+      ]
+    },
+    {
+      "download": {
+        "downloadedCount": 6,
+        "failedCount": 0,
+        "reusedCount": 0
+      },
+      "folder": "Fiat Mobi Like__fiat-mobi-like",
+      "metadataPath": "Fiat Mobi Like__fiat-mobi-like\\metadata.json",
+      "name": "Fiat Mobi Like",
+      "status": "success",
+      "totalImages": 6,
+      "url": "https://svintermed.com.br/veiculos/fiat-mobi-like/",
+      "warnings": [
+        "Imagens fora da galeria principal foram ignoradas."
+      ]
+    },
+    {
+      "download": {
+        "downloadedCount": 10,
+        "failedCount": 0,
+        "reusedCount": 0
+      },
+      "folder": "Fiat Pulse Audace Hybrid__fiat-pulse-audace-hybrid-3",
+      "metadataPath": "Fiat Pulse Audace Hybrid__fiat-pulse-audace-hybrid-3\\metadata.json",
+      "name": "Fiat Pulse Audace Hybrid",
+      "status": "success",
+      "totalImages": 10,
+      "url": "https://svintermed.com.br/veiculos/fiat-pulse-audace-hybrid-3/",
+      "warnings": [
+        "Imagens fora da galeria principal foram ignoradas."
+      ]
+    },
+    {
+      "download": {
+        "downloadedCount": 7,
+        "failedCount": 0,
+        "reusedCount": 0
+      },
+      "folder": "Fiat Pulse Audace Hybrid__fiat-pulse-audace-hybrid-2",
+      "metadataPath": "Fiat Pulse Audace Hybrid__fiat-pulse-audace-hybrid-2\\metadata.json",
+      "name": "Fiat Pulse Audace Hybrid",
+      "status": "success",
+      "totalImages": 7,
+      "url": "https://svintermed.com.br/veiculos/fiat-pulse-audace-hybrid-2/",
+      "warnings": [
+        "Imagens fora da galeria principal foram ignoradas."
+      ]
+    },
+    {
+      "download": {
+        "downloadedCount": 10,
+        "failedCount": 0,
+        "reusedCount": 0
+      },
+      "folder": "Fiat Fastback Abarth__fiat-fastback-abarth-2",
+      "metadataPath": "Fiat Fastback Abarth__fiat-fastback-abarth-2\\metadata.json",
+      "name": "Fiat Fastback Abarth",
+      "status": "success",
+      "totalImages": 10,
+      "url": "https://svintermed.com.br/veiculos/fiat-fastback-abarth-2/",
+      "warnings": [
+        "Imagens fora da galeria principal foram ignoradas."
+      ]
+    },
+    {
+      "download": {
+        "downloadedCount": 5,
+        "failedCount": 0,
+        "reusedCount": 0
+      },
+      "folder": "Fiat Fastback Abarth__fiat-fastback-abarth",
+      "metadataPath": "Fiat Fastback Abarth__fiat-fastback-abarth\\metadata.json",
+      "name": "Fiat Fastback Abarth",
+      "status": "success",
+      "totalImages": 5,
+      "url": "https://svintermed.com.br/veiculos/fiat-fastback-abarth/",
+      "warnings": [
+        "Imagens fora da galeria principal foram ignoradas."
+      ]
+    },
+    {
+      "download": {
+        "downloadedCount": 9,
+        "failedCount": 0,
+        "reusedCount": 0
+      },
+      "folder": "Fiat Strada Ultra__fiat-strada-ultra-2",
+      "metadataPath": "Fiat Strada Ultra__fiat-strada-ultra-2\\metadata.json",
+      "name": "Fiat Strada Ultra",
+      "status": "success",
+      "totalImages": 9,
+      "url": "https://svintermed.com.br/veiculos/fiat-strada-ultra-2/",
+      "warnings": [
+        "Imagens fora da galeria principal foram ignoradas."
+      ]
+    },
+    {
+      "download": {
+        "downloadedCount": 6,
+        "failedCount": 0,
+        "reusedCount": 0
+      },
+      "folder": "Fiat Strada Ranch__fiat-strada-ranch-2",
+      "metadataPath": "Fiat Strada Ranch__fiat-strada-ranch-2\\metadata.json",
+      "name": "Fiat Strada Ranch",
+      "status": "success",
+      "totalImages": 6,
+      "url": "https://svintermed.com.br/veiculos/fiat-strada-ranch-2/",
+      "warnings": [
+        "Imagens fora da galeria principal foram ignoradas."
+      ]
+    },
+    {
+      "download": {
+        "downloadedCount": 10,
+        "failedCount": 0,
+        "reusedCount": 0
+      },
+      "folder": "Fiat Strada Ranch__fiat-strada-ranch",
+      "metadataPath": "Fiat Strada Ranch__fiat-strada-ranch\\metadata.json",
+      "name": "Fiat Strada Ranch",
+      "status": "success",
+      "totalImages": 10,
+      "url": "https://svintermed.com.br/veiculos/fiat-strada-ranch/",
+      "warnings": [
+        "Imagens fora da galeria principal foram ignoradas."
+      ]
+    },
+    {
+      "download": {
+        "downloadedCount": 9,
+        "failedCount": 0,
+        "reusedCount": 0
+      },
+      "folder": "GM S10 LTZ__gm-s10-ltz-3",
+      "metadataPath": "GM S10 LTZ__gm-s10-ltz-3\\metadata.json",
+      "name": "GM S10 LTZ",
+      "status": "success",
+      "totalImages": 9,
+      "url": "https://svintermed.com.br/veiculos/gm-s10-ltz-3/",
+      "warnings": [
+        "Imagens fora da galeria principal foram ignoradas."
+      ]
+    },
+    {
+      "download": {
+        "downloadedCount": 6,
+        "failedCount": 0,
+        "reusedCount": 0
+      },
+      "folder": "BYD Song Plus__byd-song-plus",
+      "metadataPath": "BYD Song Plus__byd-song-plus\\metadata.json",
+      "name": "BYD Song Plus",
+      "status": "success",
+      "totalImages": 6,
+      "url": "https://svintermed.com.br/veiculos/byd-song-plus/",
+      "warnings": [
+        "Imagens fora da galeria principal foram ignoradas."
+      ]
+    },
+    {
+      "download": {
+        "downloadedCount": 0,
+        "failedCount": 0,
+        "reusedCount": 0
+      },
+      "folder": "Fiat Toro Volcano Flex__fiat-toro-volcano-flex",
+      "metadataPath": "Fiat Toro Volcano Flex__fiat-toro-volcano-flex\\metadata.json",
+      "name": "Fiat Toro Volcano Flex",
+      "status": "partial",
+      "totalImages": 0,
+      "url": "https://svintermed.com.br/veiculos/fiat-toro-volcano-flex/",
+      "warnings": [
+        "Galeria principal ausente; imagens de veiculos relacionados foram ignoradas."
+      ]
+    },
+    {
+      "download": {
+        "downloadedCount": 10,
+        "failedCount": 0,
+        "reusedCount": 0
+      },
+      "folder": "Ford Ranger Limited Plus__ford-ranger-limited-plus",
+      "metadataPath": "Ford Ranger Limited Plus__ford-ranger-limited-plus\\metadata.json",
+      "name": "Ford Ranger Limited Plus",
+      "status": "success",
+      "totalImages": 10,
+      "url": "https://svintermed.com.br/veiculos/ford-ranger-limited-plus/",
+      "warnings": [
+        "Imagens fora da galeria principal foram ignoradas."
+      ]
+    },
+    {
+      "download": {
+        "downloadedCount": 9,
+        "failedCount": 0,
+        "reusedCount": 0
+      },
+      "folder": "GM S10 High Country__gm-s10-high-country",
+      "metadataPath": "GM S10 High Country__gm-s10-high-country\\metadata.json",
+      "name": "GM S10 High Country",
+      "status": "success",
+      "totalImages": 9,
+      "url": "https://svintermed.com.br/veiculos/gm-s10-high-country/",
+      "warnings": [
+        "Imagens fora da galeria principal foram ignoradas."
+      ]
+    },
+    {
+      "download": {
+        "downloadedCount": 9,
+        "failedCount": 0,
+        "reusedCount": 0
+      },
+      "folder": "Fiat Strada Ultra__fiat-strada-ultra",
+      "metadataPath": "Fiat Strada Ultra__fiat-strada-ultra\\metadata.json",
+      "name": "Fiat Strada Ultra",
+      "status": "success",
+      "totalImages": 9,
+      "url": "https://svintermed.com.br/veiculos/fiat-strada-ultra/",
+      "warnings": [
+        "Imagens fora da galeria principal foram ignoradas."
+      ]
+    },
+    {
+      "download": {
+        "downloadedCount": 9,
+        "failedCount": 0,
+        "reusedCount": 0
+      },
+      "folder": "Fiat Fastback Audace Hybrid__fiat-fastback-audace-hybrid",
+      "metadataPath": "Fiat Fastback Audace Hybrid__fiat-fastback-audace-hybrid\\metadata.json",
+      "name": "Fiat Fastback Audace Hybrid",
+      "status": "success",
+      "totalImages": 9,
+      "url": "https://svintermed.com.br/veiculos/fiat-fastback-audace-hybrid/",
+      "warnings": [
+        "Imagens fora da galeria principal foram ignoradas."
+      ]
+    },
+    {
+      "download": {
+        "downloadedCount": 5,
+        "failedCount": 0,
+        "reusedCount": 0
+      },
+      "folder": "FIAT Fiorino 2626__fiat-fiorino",
+      "metadataPath": "FIAT Fiorino 2626__fiat-fiorino\\metadata.json",
+      "name": "FIAT Fiorino 26/26",
+      "status": "success",
+      "totalImages": 5,
+      "url": "https://svintermed.com.br/veiculos/fiat-fiorino/",
+      "warnings": [
+        "Imagens fora da galeria principal foram ignoradas."
+      ]
+    },
+    {
+      "download": {
+        "downloadedCount": 17,
+        "failedCount": 0,
+        "reusedCount": 0
+      },
+      "folder": "Nissan Kicks Platinum__nissan-kicks-platinum",
+      "metadataPath": "Nissan Kicks Platinum__nissan-kicks-platinum\\metadata.json",
+      "name": "Nissan Kicks Platinum",
+      "status": "success",
+      "totalImages": 17,
+      "url": "https://svintermed.com.br/veiculos/nissan-kicks-platinum/",
+      "warnings": [
+        "Imagens fora da galeria principal foram ignoradas."
+      ]
+    },
+    {
+      "download": {
+        "downloadedCount": 6,
+        "failedCount": 0,
+        "reusedCount": 0
+      },
+      "folder": "GM S10 LTZ__gm-s10-ltz",
+      "metadataPath": "GM S10 LTZ__gm-s10-ltz\\metadata.json",
+      "name": "GM S10 LTZ",
+      "status": "success",
+      "totalImages": 6,
+      "url": "https://svintermed.com.br/veiculos/gm-s10-ltz/",
+      "warnings": [
+        "Imagens fora da galeria principal foram ignoradas."
+      ]
+    },
+    {
+      "download": {
+        "downloadedCount": 10,
+        "failedCount": 0,
+        "reusedCount": 0
+      },
+      "folder": "BYD Song Plus Premium__byd-song-premium",
+      "metadataPath": "BYD Song Plus Premium__byd-song-premium\\metadata.json",
+      "name": "BYD Song Plus Premium",
+      "status": "success",
+      "totalImages": 10,
+      "url": "https://svintermed.com.br/veiculos/byd-song-premium/",
+      "warnings": [
+        "Imagens fora da galeria principal foram ignoradas."
+      ]
+    },
+    {
+      "download": {
+        "downloadedCount": 13,
+        "failedCount": 0,
+        "reusedCount": 0
+      },
+      "folder": "BYD Song Pro GL__byd-song-pro-gl-2",
+      "metadataPath": "BYD Song Pro GL__byd-song-pro-gl-2\\metadata.json",
+      "name": "BYD Song Pro GL",
+      "status": "success",
+      "totalImages": 13,
+      "url": "https://svintermed.com.br/veiculos/byd-song-pro-gl-2/",
+      "warnings": [
+        "Imagens fora da galeria principal foram ignoradas."
+      ]
+    },
+    {
+      "download": {
+        "downloadedCount": 8,
+        "failedCount": 0,
+        "reusedCount": 0
+      },
+      "folder": "BYD King GL__byd-king-gl",
+      "metadataPath": "BYD King GL__byd-king-gl\\metadata.json",
+      "name": "BYD King GL",
+      "status": "success",
+      "totalImages": 8,
+      "url": "https://svintermed.com.br/veiculos/byd-king-gl/",
+      "warnings": [
+        "Imagens fora da galeria principal foram ignoradas."
+      ]
+    },
+    {
+      "download": {
+        "downloadedCount": 11,
+        "failedCount": 0,
+        "reusedCount": 0
+      },
+      "folder": "Toyota Corolla Cross XRX__toyota-corolla-cross-xrx",
+      "metadataPath": "Toyota Corolla Cross XRX__toyota-corolla-cross-xrx\\metadata.json",
+      "name": "Toyota Corolla Cross XRX",
+      "status": "success",
+      "totalImages": 11,
+      "url": "https://svintermed.com.br/veiculos/toyota-corolla-cross-xrx/",
+      "warnings": [
+        "Imagens fora da galeria principal foram ignoradas."
+      ]
+    },
+    {
+      "download": {
+        "downloadedCount": 12,
+        "failedCount": 0,
+        "reusedCount": 0
+      },
+      "folder": "BYD Song Pro GS__byd-song-pro-gs",
+      "metadataPath": "BYD Song Pro GS__byd-song-pro-gs\\metadata.json",
+      "name": "BYD Song Pro GS",
+      "status": "success",
+      "totalImages": 12,
+      "url": "https://svintermed.com.br/veiculos/byd-song-pro-gs/",
+      "warnings": [
+        "Imagens fora da galeria principal foram ignoradas."
+      ]
+    },
+    {
+      "download": {
+        "downloadedCount": 14,
+        "failedCount": 0,
+        "reusedCount": 0
+      },
+      "folder": "BYD Dolphin Mini GL 2027__byd",
+      "metadataPath": "BYD Dolphin Mini GL 2027__byd\\metadata.json",
+      "name": "BYD Dolphin Mini GL 2027",
+      "status": "success",
+      "totalImages": 14,
+      "url": "https://svintermed.com.br/veiculos/byd/",
+      "warnings": [
+        "Imagens fora da galeria principal foram ignoradas."
+      ]
+    }
+  ]
+}

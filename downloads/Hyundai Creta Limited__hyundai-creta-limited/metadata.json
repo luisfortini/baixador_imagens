@@ -1,0 +1,35 @@
+{
+  "collectedAt": "2026-03-30T00:53:20.349Z",
+  "description": "Hyundai Creta Limited - 25/26 A Faturar PF/PJ, válido para as cores Branca, Prata e Cinza",
+  "extractionMode": "playwright",
+  "folderName": "Hyundai Creta Limited__hyundai-creta-limited",
+  "name": "Hyundai Creta Limited",
+  "pageTitle": "Hyundai Creta Limited - R$ 148.690, - Sinal Verde Intermediações - atendendo lojistas de todo Brasil",
+  "price": "R$ 148.690,",
+  "savedFiles": [
+    "01.webp",
+    "02.webp",
+    "03.webp",
+    "04.webp",
+    "05.webp",
+    "06.webp",
+    "07.webp",
+    "08.webp"
+  ],
+  "sourceImageUrls": [
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_8807-rhzhd645d3kc1xyw1zdtnxusx2n49gorauhg837rk0.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_8804-rhzhd645d3kc1xyw1zdtnxusx2n49gorauhg837rk0.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_8805-rhzhd645d3kc1xyw1zdtnxusx2n49gorauhg837rk0.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_8811-1-rhzhd48gzfhreq1mcykkiybvqawdu2haml6h9jajwg.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_8808-rhzhd56b69j1qc097gz73g3cborr1rl0yptyqt95q8.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_8810-rhzhd56b69j1qc097gz73g3cborr1rl0yptyqt95q8.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_8806-rhzhd56b69j1qc097gz73g3cborr1rl0yptyqt95q8.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_8809-rhzhd56b69j1qc097gz73g3cborr1rl0yptyqt95q8.webp"
+  ],
+  "totalImages": 8,
+  "url": "https://svintermed.com.br/veiculos/hyundai-creta-limited/",
+  "warnings": [
+    "Imagens fora da galeria principal foram ignoradas."
+  ],
+  "errors": []
+}

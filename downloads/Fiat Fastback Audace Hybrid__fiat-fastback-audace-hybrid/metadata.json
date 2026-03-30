@@ -1,0 +1,37 @@
+{
+  "collectedAt": "2026-03-30T00:58:12.594Z",
+  "description": "Fiat Fastback Audace Hybrid - Oferta válida para CNPJ ou Produtor Rural",
+  "extractionMode": "playwright",
+  "folderName": "Fiat Fastback Audace Hybrid__fiat-fastback-audace-hybrid",
+  "name": "Fiat Fastback Audace Hybrid",
+  "pageTitle": "Fiat Fastback Audace Hybrid - R$ 139.490, - Sinal Verde Intermediações - atendendo lojistas de todo Brasil",
+  "price": "R$ 139.490,",
+  "savedFiles": [
+    "01.webp",
+    "02.webp",
+    "03.webp",
+    "04.webp",
+    "05.webp",
+    "06.webp",
+    "07.webp",
+    "08.webp",
+    "09.webp"
+  ],
+  "sourceImageUrls": [
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_1535-r9n0753dqjn389drtwbeg81lvqjc163wmk70b97hog.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_1530-r9n0753dqjn389drtwbeg81lvqjc163wmk70b97hog.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_1531-r9n0753dqjn389drtwbeg81lvqjc163wmk70b97hog.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_1537-r9n0753dqjn389drtwbeg81lvqjc163wmk70b97hog.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_1538-r9n0753dqjn389drtwbeg81lvqjc163wmk70b97hog.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_1536-r9n0753dqjn389drtwbeg81lvqjc163wmk70b97hog.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_1534-r9n0753dqjn389drtwbeg81lvqjc163wmk70b97hog.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_1529-1-r9n0753dqjn389drtwbeg81lvqjc163wmk70b97hog.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_1532-r9n0753dqjn389drtwbeg81lvqjc163wmk70b97hog.webp"
+  ],
+  "totalImages": 9,
+  "url": "https://svintermed.com.br/veiculos/fiat-fastback-audace-hybrid/",
+  "warnings": [
+    "Imagens fora da galeria principal foram ignoradas."
+  ],
+  "errors": []
+}

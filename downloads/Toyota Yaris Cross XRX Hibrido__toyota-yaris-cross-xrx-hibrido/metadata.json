@@ -1,0 +1,33 @@
+{
+  "collectedAt": "2026-03-30T00:51:17.552Z",
+  "description": "Toyota Yaris Cross XRX Hibrido - XRX Top de Linha, Hibrido com Teto Preto e IPVA PG 2026",
+  "extractionMode": "playwright",
+  "folderName": "Toyota Yaris Cross XRX Hibrido__toyota-yaris-cross-xrx-hibrido",
+  "name": "Toyota Yaris Cross XRX Hibrido",
+  "pageTitle": "Toyota Yaris Cross XRX Hibrido - R$ 191.990, - Sinal Verde Intermediações - atendendo lojistas de todo Brasil",
+  "price": "R$ 191.990,",
+  "savedFiles": [
+    "01.webp",
+    "02.webp",
+    "03.webp",
+    "04.webp",
+    "05.webp",
+    "06.webp",
+    "07.webp"
+  ],
+  "sourceImageUrls": [
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/14893b9e-ac65-454d-8310-a0ab6880a9b1-rk9bwps7puzocbbid7yx1n8yejrxqc9501z3vxy1q8.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/d2004ee1-c884-45f7-bacb-5c2fb3c4a80a-rk9bwps7puzocbbid7yx1n8yejrxqc9501z3vxy1q8.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/095bd3cf-616c-4c9a-bf83-d8a3e241b8ac-rk9bwps7puzocbbid7yx1n8yejrxqc9501z3vxy1q8.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/2173e167-9645-41fe-8bc8-47bfa4cbcdf2-rk9bwoudj0ye0pcvipkah5hht5wkin5enxbmenzfwg.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/a67a8b3c-4a26-4331-9dde-6f64a57d95af-rk9bwoudj0ye0pcvipkah5hht5wkin5enxbmenzfwg.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/a91709fe-93b4-4569-be1d-708a0b25465b-rk9bwoudj0ye0pcvipkah5hht5wkin5enxbmenzfwg.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/3263f4d3-1bae-4f93-9a80-f1e7736bcf96-1-rk9bwps7puzocbbid7yx1n8yejrxqc9501z3vxy1q8.webp"
+  ],
+  "totalImages": 7,
+  "url": "https://svintermed.com.br/veiculos/toyota-yaris-cross-xrx-hibrido/",
+  "warnings": [
+    "Imagens fora da galeria principal foram ignoradas."
+  ],
+  "errors": []
+}

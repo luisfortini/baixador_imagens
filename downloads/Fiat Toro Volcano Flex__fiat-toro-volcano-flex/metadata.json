@@ -1,0 +1,17 @@
+{
+  "collectedAt": "2026-03-30T00:57:54.059Z",
+  "description": "Fiat Toro Volcano Flex - Refaturamento Cnpj/Mei/Rural com Pacote Tech, na cor prata",
+  "extractionMode": "playwright",
+  "folderName": "Fiat Toro Volcano Flex__fiat-toro-volcano-flex",
+  "name": "Fiat Toro Volcano Flex",
+  "pageTitle": "Fiat Toro Volcano Flex - R$ 166.990, - Sinal Verde Intermediações - atendendo lojistas de todo Brasil",
+  "price": "R$ 166.990,",
+  "savedFiles": [],
+  "sourceImageUrls": [],
+  "totalImages": 0,
+  "url": "https://svintermed.com.br/veiculos/fiat-toro-volcano-flex/",
+  "warnings": [
+    "Galeria principal ausente; imagens de veiculos relacionados foram ignoradas."
+  ],
+  "errors": []
+}

@@ -1,0 +1,29 @@
+{
+  "collectedAt": "2026-03-30T00:54:20.207Z",
+  "description": "Fiat Toro Ranch - 25/26 FR Liberado!",
+  "extractionMode": "playwright",
+  "folderName": "Fiat Toro Ranch__fiat-toro-ranch",
+  "name": "Fiat Toro Ranch",
+  "pageTitle": "Fiat Toro Ranch - R$ 188.990, - Sinal Verde Intermediações - atendendo lojistas de todo Brasil",
+  "price": "R$ 188.990,",
+  "savedFiles": [
+    "01.webp",
+    "02.webp",
+    "03.webp",
+    "04.webp",
+    "05.webp"
+  ],
+  "sourceImageUrls": [
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_8632-rhqsd4f0zagh9hfpjb2j7e56ixeugfbkr6w6yegm68.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_8634-rhqsd4f0zagh9hfpjb2j7e56ixeugfbkr6w6yegm68.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_8631-rhqsd4f0zagh9hfpjb2j7e56ixeugfbkr6w6yegm68.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_8635-1-rhqsd3h6sgf6xvh2osnwmwdpxjjh8q7uf28ph4i0cg.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_8633-rhqsd4f0zagh9hfpjb2j7e56ixeugfbkr6w6yegm68.webp"
+  ],
+  "totalImages": 5,
+  "url": "https://svintermed.com.br/veiculos/fiat-toro-ranch/",
+  "warnings": [
+    "Imagens fora da galeria principal foram ignoradas."
+  ],
+  "errors": []
+}

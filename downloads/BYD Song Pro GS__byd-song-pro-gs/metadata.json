@@ -1,0 +1,43 @@
+{
+  "collectedAt": "2026-03-30T00:58:45.454Z",
+  "description": "BYD Song Pro GS - Oferta válida para Faturar PF/PJ na cor Preta, Com TAXA ZERO em 36x com 60% de Entrada",
+  "extractionMode": "playwright",
+  "folderName": "BYD Song Pro GS__byd-song-pro-gs",
+  "name": "BYD Song Pro GS",
+  "pageTitle": "BYD Song Pro GS - R$ 190.490, - Sinal Verde Intermediações - atendendo lojistas de todo Brasil",
+  "price": "R$ 190.490,",
+  "savedFiles": [
+    "01.webp",
+    "02.webp",
+    "03.webp",
+    "04.webp",
+    "05.webp",
+    "06.webp",
+    "07.webp",
+    "08.webp",
+    "09.webp",
+    "10.webp",
+    "11.webp",
+    "12.webp"
+  ],
+  "sourceImageUrls": [
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_0796-r9n0737pcvkil1gi4vi5b8iooysllrwfyaw1cpaa0w.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_0795-r9n0737pcvkil1gi4vi5b8iooysllrwfyaw1cpaa0w.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_0810-r9n0737pcvkil1gi4vi5b8iooysllrwfyaw1cpaa0w.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_0799-r9n0737pcvkil1gi4vi5b8iooysllrwfyaw1cpaa0w.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_0798-r9n0737pcvkil1gi4vi5b8iooysllrwfyaw1cpaa0w.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_0802-r9n0737pcvkil1gi4vi5b8iooysllrwfyaw1cpaa0w.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_0801-r9n0737pcvkil1gi4vi5b8iooysllrwfyaw1cpaa0w.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_0803-r9n0737pcvkil1gi4vi5b8iooysllrwfyaw1cpaa0w.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_0804-r9n0737pcvkil1gi4vi5b8iooysllrwfyaw1cpaa0w.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_0797-r9n0737pcvkil1gi4vi5b8iooysllrwfyaw1cpaa0w.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_0805-r9n0737pcvkil1gi4vi5b8iooysllrwfyaw1cpaa0w.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_0793-r9n0737pcvkil1gi4vi5b8iooysllrwfyaw1cpaa0w.webp"
+  ],
+  "totalImages": 12,
+  "url": "https://svintermed.com.br/veiculos/byd-song-pro-gs/",
+  "warnings": [
+    "Imagens fora da galeria principal foram ignoradas."
+  ],
+  "errors": []
+}

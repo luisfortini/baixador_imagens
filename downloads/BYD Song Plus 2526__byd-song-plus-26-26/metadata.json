@@ -1,0 +1,37 @@
+{
+  "collectedAt": "2026-03-30T00:51:25.115Z",
+  "description": "BYD Song Plus 25/26 - 25/26 FR Liberado na cor Cinza Time com Interno Claro (( Chão SP ))",
+  "extractionMode": "playwright",
+  "folderName": "BYD Song Plus 2526__byd-song-plus-26-26",
+  "name": "BYD Song Plus 25/26",
+  "pageTitle": "BYD Song Plus 25/26 - R$ 221.990, - Sinal Verde Intermediações - atendendo lojistas de todo Brasil",
+  "price": "R$ 221.990,",
+  "savedFiles": [
+    "01.webp",
+    "02.webp",
+    "03.webp",
+    "04.webp",
+    "05.webp",
+    "06.webp",
+    "07.webp",
+    "08.webp",
+    "09.webp"
+  ],
+  "sourceImageUrls": [
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_9580-rk7fe7ee2eiuwm2b223x727a5gw5iydl7ykuuz2d6o.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_9573-rk7fe7ee2eiuwm2b223x727a5gw5iydl7ykuuz2d6o.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_9571-rk7fe7ee2eiuwm2b223x727a5gw5iydl7ykuuz2d6o.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_9576-1-rk7fe6gjvkhkl03o7jpamkftk30sb99uvtxddp3rcw.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_9578-rk7fe6gjvkhkl03o7jpamkftk30sb99uvtxddp3rcw.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_9579-rk7fe6gjvkhkl03o7jpamkftk30sb99uvtxddp3rcw.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_9575-rk7fe6gjvkhkl03o7jpamkftk30sb99uvtxddp3rcw.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_9574-rk7fe6gjvkhkl03o7jpamkftk30sb99uvtxddp3rcw.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_9577-rk7fe7ee2eiuwm2b223x727a5gw5iydl7ykuuz2d6o.webp"
+  ],
+  "totalImages": 9,
+  "url": "https://svintermed.com.br/veiculos/byd-song-plus-26-26/",
+  "warnings": [
+    "Imagens fora da galeria principal foram ignoradas."
+  ],
+  "errors": []
+}

@@ -1,0 +1,29 @@
+{
+  "collectedAt": "2026-03-30T00:58:14.277Z",
+  "description": "FIAT Fiorino 26/26 - 26/26 Oferta válida para CNPJ, Fatura área livre Brasil",
+  "extractionMode": "playwright",
+  "folderName": "FIAT Fiorino 2626__fiat-fiorino",
+  "name": "FIAT Fiorino 26/26",
+  "pageTitle": "FIAT Fiorino 26/26 - R$ 101.990, - Sinal Verde Intermediações - atendendo lojistas de todo Brasil",
+  "price": "R$ 101.990,",
+  "savedFiles": [
+    "01.webp",
+    "02.webp",
+    "03.webp",
+    "04.webp",
+    "05.webp"
+  ],
+  "sourceImageUrls": [
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_1318-r9n0745jjplswnf4zdwrvqa5acnyth06afjitz8vuo.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_1319-r9n0745jjplswnf4zdwrvqa5acnyth06afjitz8vuo.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_1321-r9n0745jjplswnf4zdwrvqa5acnyth06afjitz8vuo.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_8288-1-rhgtkfolkghj2rn7wzy0fvgjha49yyyw7iy5b65u80.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_1320-r9n0745jjplswnf4zdwrvqa5acnyth06afjitz8vuo.webp"
+  ],
+  "totalImages": 5,
+  "url": "https://svintermed.com.br/veiculos/fiat-fiorino/",
+  "warnings": [
+    "Imagens fora da galeria principal foram ignoradas."
+  ],
+  "errors": []
+}

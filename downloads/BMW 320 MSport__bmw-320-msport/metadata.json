@@ -1,0 +1,47 @@
+{
+  "collectedAt": "2026-03-30T00:54:32.418Z",
+  "description": "BMW 320 MSport - A Faturar PF, com Ipva Pago 2026 nas Cores Preta, Branca e Skyscrapper, todos com Interior Mocha",
+  "extractionMode": "playwright",
+  "folderName": "BMW 320 MSport__bmw-320-msport",
+  "name": "BMW 320 MSport",
+  "pageTitle": "BMW 320 MSport - R$ 366.990, - Sinal Verde Intermediações - atendendo lojistas de todo Brasil",
+  "price": "R$ 366.990,",
+  "savedFiles": [
+    "01.webp",
+    "02.webp",
+    "03.webp",
+    "04.webp",
+    "05.webp",
+    "06.webp",
+    "07.webp",
+    "08.webp",
+    "09.webp",
+    "10.webp",
+    "11.webp",
+    "12.webp",
+    "13.webp",
+    "14.webp"
+  ],
+  "sourceImageUrls": [
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_8591-rhp4msyqbiu1bkw5vtjl40nk2021jmph43rzmarcjk.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_8588-rhp4msyqbiu1bkw5vtjl40nk2021jmph43rzmarcjk.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_8585-rhp4msyqbiu1bkw5vtjl40nk2021jmph43rzmarcjk.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_8596-1-rhp4mq57r0q6cr09cabpejd69ufxwjea3ptj6gvj28.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_8589-rhp4mq57r0q6cr09cabpejd69ufxwjea3ptj6gvj28.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_8592-rhp4mq57r0q6cr09cabpejd69ufxwjea3ptj6gvj28.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_8587-rhp4mr31xurgocyw6sqbz14mv8bb48i0fuh0nqu4w0.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_8590-rhp4mr31xurgocyw6sqbz14mv8bb48i0fuh0nqu4w0.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_8593-rhp4mr31xurgocyw6sqbz14mv8bb48i0fuh0nqu4w0.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_8586-rhp4mr31xurgocyw6sqbz14mv8bb48i0fuh0nqu4w0.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_8584-rhp4ms0w4osqzyxj1b4yjiw3gm6obxlqrz4i50sqps.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_8583-rhp4ms0w4osqzyxj1b4yjiw3gm6obxlqrz4i50sqps.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_8595-rhp4ms0w4osqzyxj1b4yjiw3gm6obxlqrz4i50sqps.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_8594-rhp4ms0w4osqzyxj1b4yjiw3gm6obxlqrz4i50sqps.webp"
+  ],
+  "totalImages": 14,
+  "url": "https://svintermed.com.br/veiculos/bmw-320-msport/",
+  "warnings": [
+    "Imagens fora da galeria principal foram ignoradas."
+  ],
+  "errors": []
+}

@@ -1,0 +1,33 @@
+{
+  "collectedAt": "2026-03-30T00:55:37.461Z",
+  "description": "BYD Dolphin GS 2027 - FR Liberado nas Cores Branca e Cinza, consulte condições.",
+  "extractionMode": "playwright",
+  "folderName": "BYD Dolphin GS 2027__byd-dolphin-gs",
+  "name": "BYD Dolphin GS 2027",
+  "pageTitle": "BYD Dolphin GS 2027 - R$ 134.990, - Sinal Verde Intermediações - atendendo lojistas de todo Brasil",
+  "price": "R$ 134.990,",
+  "savedFiles": [
+    "01.webp",
+    "02.webp",
+    "03.webp",
+    "04.webp",
+    "05.webp",
+    "06.webp",
+    "07.webp"
+  ],
+  "sourceImageUrls": [
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_8350-rhi16rrx9c5pagn79a93j3s6m84sf43drytrfvt54w.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_8351-rhi16rrx9c5pagn79a93j3s6m84sf43drytrfvt54w.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_8349-rhi16rrx9c5pagn79a93j3s6m84sf43drytrfvt54w.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_8355-1-rhi16qu32i4eyuokerugym0q0u9f7eznfu69ylujb4.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_8354-rhi16qu32i4eyuokerugym0q0u9f7eznfu69ylujb4.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_8353-rhi16qu32i4eyuokerugym0q0u9f7eznfu69ylujb4.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_8352-rhi16rrx9c5pagn79a93j3s6m84sf43drytrfvt54w.webp"
+  ],
+  "totalImages": 7,
+  "url": "https://svintermed.com.br/veiculos/byd-dolphin-gs/",
+  "warnings": [
+    "Imagens fora da galeria principal foram ignoradas."
+  ],
+  "errors": []
+}

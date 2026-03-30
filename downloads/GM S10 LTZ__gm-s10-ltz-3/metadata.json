@@ -1,0 +1,37 @@
+{
+  "collectedAt": "2026-03-30T00:57:50.077Z",
+  "description": "GM S10 LTZ - Oferta para Veículo 26/26 VENDA DIRETA CNPJ ou RURAL FAT ÁREA LIVRE, na cor vermelha",
+  "extractionMode": "playwright",
+  "folderName": "GM S10 LTZ__gm-s10-ltz-3",
+  "name": "GM S10 LTZ",
+  "pageTitle": "GM S10 LTZ - R$ 275.690, - Sinal Verde Intermediações - atendendo lojistas de todo Brasil",
+  "price": "R$ 275.690,",
+  "savedFiles": [
+    "01.webp",
+    "02.webp",
+    "03.webp",
+    "04.webp",
+    "05.webp",
+    "06.webp",
+    "07.webp",
+    "08.webp",
+    "09.webp"
+  ],
+  "sourceImageUrls": [
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/bbcbea55-e451-4612-86ee-ea63f807b04e-rg1yui16su8b45oxaan2yi8zpi2ymjz5zfp68rjqyo.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/4280c65d-24ba-4749-b241-492a29b053ca-rg1yui16su8b45oxaan2yi8zpi2ymjz5zfp68rjqyo.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/bb6bcfc0-ee56-460b-b1e8-dfef2bf9f912-rg1yuiz0zo9lfrnk4t1pj00gavybu92wbkcnq1icsg.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_8278-1-rhgp7vob9u69cv1u3bqz5dopmxrfxtgc0nars2aekg.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/64201d2a-ccab-4967-9211-89b1ae040d71-rg1yug5if65qgxrnl9tttiq2iqc875rpb6e7a7mjb4.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/6571d8f7-dbd3-455e-80e5-8c50cf1101c1-rg1yug5if65qgxrnl9tttiq2iqc875rpb6e7a7mjb4.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/a0a3dbc8-d343-4430-8485-2633355593ce-rg1yuh3cm070sjqafs8ge0hj447leuvfnb1orhl54w.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/f7f09539-af05-449a-aa6c-121fc94d0683-rg1yuh3cm070sjqafs8ge0hj447leuvfnb1orhl54w.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/64476792-8730-4272-b9fd-bd154b392562-rg1yuh3cm070sjqafs8ge0hj447leuvfnb1orhl54w.webp"
+  ],
+  "totalImages": 9,
+  "url": "https://svintermed.com.br/veiculos/gm-s10-ltz-3/",
+  "warnings": [
+    "Imagens fora da galeria principal foram ignoradas."
+  ],
+  "errors": []
+}

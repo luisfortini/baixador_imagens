@@ -1,0 +1,17 @@
+{
+  "collectedAt": "2026-03-30T00:54:49.600Z",
+  "description": "Toyota SW4 Diamond 25/26 - 25/26 AF CPF com IPVA Isento!",
+  "extractionMode": "playwright",
+  "folderName": "Toyota SW4 Diamond 2526__toyota-sw4-diamond",
+  "name": "Toyota SW4 Diamond 25/26",
+  "pageTitle": "Toyota SW4 Diamond 25/26 - R$ 439.990, - Sinal Verde Intermediações - atendendo lojistas de todo Brasil",
+  "price": "R$ 439.990,",
+  "savedFiles": [],
+  "sourceImageUrls": [],
+  "totalImages": 0,
+  "url": "https://svintermed.com.br/veiculos/toyota-sw4-diamond/",
+  "warnings": [
+    "Galeria principal ausente; imagens de veiculos relacionados foram ignoradas."
+  ],
+  "errors": []
+}

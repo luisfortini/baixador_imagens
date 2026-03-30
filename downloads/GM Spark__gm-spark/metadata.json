@@ -1,0 +1,31 @@
+{
+  "collectedAt": "2026-03-30T00:55:48.197Z",
+  "description": "GM Spark - A Faturar na Origem com Taxa Zero! 60% de entrada em 24x, disponível nas cores: Preta e Branca ( Isento de IPVA até 2028 )",
+  "extractionMode": "playwright",
+  "folderName": "GM Spark__gm-spark",
+  "name": "GM Spark",
+  "pageTitle": "GM Spark - R$ 153.990, - Sinal Verde Intermediações - atendendo lojistas de todo Brasil",
+  "price": "R$ 153.990,",
+  "savedFiles": [
+    "01.webp",
+    "02.webp",
+    "03.webp",
+    "04.webp",
+    "05.webp",
+    "06.webp"
+  ],
+  "sourceImageUrls": [
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_8245-rhgkpdctozpm3v3r12x02dzscqqx5oaz0awotv8qbk.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_8242-rhgkpeanvtqwfh2dvlbmmvr8y4maddepcfk6b57c5c.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_8243-rhgkpeanvtqwfh2dvlbmmvr8y4maddepcfk6b57c5c.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_8247-1-rhgkpdctozpm3v3r12x02dzscqqx5oaz0awotv8qbk.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_8244-rhgkpdctozpm3v3r12x02dzscqqx5oaz0awotv8qbk.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_8246-rhgkpdctozpm3v3r12x02dzscqqx5oaz0awotv8qbk.webp"
+  ],
+  "totalImages": 6,
+  "url": "https://svintermed.com.br/veiculos/gm-spark/",
+  "warnings": [
+    "Imagens fora da galeria principal foram ignoradas."
+  ],
+  "errors": []
+}

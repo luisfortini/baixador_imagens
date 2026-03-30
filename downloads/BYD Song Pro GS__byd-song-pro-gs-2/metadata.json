@@ -1,0 +1,29 @@
+{
+  "collectedAt": "2026-03-30T00:54:34.325Z",
+  "description": "BYD Song Pro GS - A Faturar PF/PJ, válido para todas as cores",
+  "extractionMode": "playwright",
+  "folderName": "BYD Song Pro GS__byd-song-pro-gs-2",
+  "name": "BYD Song Pro GS",
+  "pageTitle": "BYD Song Pro GS - R$ 187.490, - Sinal Verde Intermediações - atendendo lojistas de todo Brasil",
+  "price": "R$ 187.490,",
+  "savedFiles": [
+    "01.webp",
+    "02.webp",
+    "03.webp",
+    "04.webp",
+    "05.webp"
+  ],
+  "sourceImageUrls": [
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_8580-rhox1m5dzyuwzjps48e2xgfongklej5xvxync5tiyo.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_8579-rhox1m5dzyuwzjps48e2xgfongklej5xvxync5tiyo.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_8578-rhox1m5dzyuwzjps48e2xgfongklej5xvxync5tiyo.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_8581-1-rhox1l7jt4tmnxr59pzgcyo822p86u27jtb5uvux4w.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_8577-rhox1l7jt4tmnxr59pzgcyo822p86u27jtb5uvux4w.webp"
+  ],
+  "totalImages": 5,
+  "url": "https://svintermed.com.br/veiculos/byd-song-pro-gs-2/",
+  "warnings": [
+    "Imagens fora da galeria principal foram ignoradas."
+  ],
+  "errors": []
+}

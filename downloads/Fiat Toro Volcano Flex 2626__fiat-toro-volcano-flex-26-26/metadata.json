@@ -1,0 +1,39 @@
+{
+  "collectedAt": "2026-03-30T00:53:22.367Z",
+  "description": "Fiat Toro Volcano Flex 26/26 - Oferta válida para Refaturar CNPJ área livre Brasil com Pacote Tech na cor Preta 📌",
+  "extractionMode": "playwright",
+  "folderName": "Fiat Toro Volcano Flex 2626__fiat-toro-volcano-flex-26-26",
+  "name": "Fiat Toro Volcano Flex 26/26",
+  "pageTitle": "Fiat Toro Volcano Flex 26/26 - R$ 169.490, - Sinal Verde Intermediações - atendendo lojistas de todo Brasil",
+  "price": "R$ 169.490,",
+  "savedFiles": [
+    "01.webp",
+    "02.webp",
+    "03.webp",
+    "04.webp",
+    "05.webp",
+    "06.webp",
+    "07.webp",
+    "08.webp",
+    "09.webp",
+    "10.webp"
+  ],
+  "sourceImageUrls": [
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_8771-rhy4698naxbgdsbhxzupibo6e58xaha9hn1tfqyse8.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_8769-rhy4698naxbgdsbhxzupibo6e58xaha9hn1tfqyse8.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_8763-rhy46a6hhrcqpea4si9c2tfmzj4ai6dztrpax0xe80.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_8772-1-rhy467cyx98vqke88z1gdc597di6v32stdquh71kqo.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_8766-rhy468at43a626cv3hg2xtwpsrdk2s6j5iebyh06kg.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_8768-rhy468at43a626cv3hg2xtwpsrdk2s6j5iebyh06kg.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_8770-rhy468at43a626cv3hg2xtwpsrdk2s6j5iebyh06kg.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_8767-rhy468at43a626cv3hg2xtwpsrdk2s6j5iebyh06kg.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_8764-rhy4698naxbgdsbhxzupibo6e58xaha9hn1tfqyse8.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_8765-rhy4698naxbgdsbhxzupibo6e58xaha9hn1tfqyse8.webp"
+  ],
+  "totalImages": 10,
+  "url": "https://svintermed.com.br/veiculos/fiat-toro-volcano-flex-26-26/",
+  "warnings": [
+    "Imagens fora da galeria principal foram ignoradas."
+  ],
+  "errors": []
+}

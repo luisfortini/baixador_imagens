@@ -1,0 +1,33 @@
+{
+  "collectedAt": "2026-03-30T00:56:45.023Z",
+  "description": "VW Saveiro Extreme - A Faturar PF/PJ na Cor: Cinza Oliver com PTA",
+  "extractionMode": "playwright",
+  "folderName": "VW Saveiro Extreme__vw-saveiro-extreme",
+  "name": "VW Saveiro Extreme",
+  "pageTitle": "VW Saveiro Extreme - R$ 116.490, - Sinal Verde Intermediações - atendendo lojistas de todo Brasil",
+  "price": "R$ 116.490,",
+  "savedFiles": [
+    "01.webp",
+    "02.webp",
+    "03.webp",
+    "04.webp",
+    "05.webp",
+    "06.webp",
+    "07.webp"
+  ],
+  "sourceImageUrls": [
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_7890-rh2m3y96zn6mtgszw3ms477c2ewqimom26vznyjakg.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_7889-rh2m3y96zn6mtgszw3ms477c2ewqimom26vznyjakg.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_8205-1-rhffhdprt88oemokhm95iv9hp158skytn8fsr7khts.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_7888-rh2m2xlhl3sg8oa8u5sbwygcwdxf6fn2x5g1y61nb4.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_7891-rh2m2yjbrxtqka8voo6yhg7thrsse4qt9a3jfg094w.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_7887-rh2m2yjbrxtqka8voo6yhg7thrsse4qt9a3jfg094w.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_7886-rh2m3k5m54nbzbdh6fjdksrf5mu8b64n093pgt475s.webp"
+  ],
+  "totalImages": 7,
+  "url": "https://svintermed.com.br/veiculos/vw-saveiro-extreme/",
+  "warnings": [
+    "Imagens fora da galeria principal foram ignoradas."
+  ],
+  "errors": []
+}

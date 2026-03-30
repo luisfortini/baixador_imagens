@@ -1,0 +1,33 @@
+{
+  "collectedAt": "2026-03-30T00:53:02.905Z",
+  "description": "Jeep Compass Sport - 26/26 .. A Faturar CPF área livre, com Couro + Rodas 18 Escurecidas",
+  "extractionMode": "playwright",
+  "folderName": "Jeep Compass Sport__jeep-compass-sport",
+  "name": "Jeep Compass Sport",
+  "pageTitle": "Jeep Compass Sport - R$ 147.990, - Sinal Verde Intermediações - atendendo lojistas de todo Brasil",
+  "price": "R$ 147.990,",
+  "savedFiles": [
+    "01.webp",
+    "02.webp",
+    "03.webp",
+    "04.webp",
+    "05.webp",
+    "06.webp",
+    "07.webp"
+  ],
+  "sourceImageUrls": [
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_8868-ri4nn1bcrxe2gnbni4pbn8kvwoa1gtihlszikucz0g.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_8865-ri4nn1bcrxe2gnbni4pbn8kvwoa1gtihlszikucz0g.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_8866-ri4nn296yrfcs9aacn3y7qcci25eoim7xxn024bku8.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_8871-1-ri4nn0dil3cs51d0nmap2qtfbaeo94er9oc13ked6o.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_8870-ri4nn0dil3cs51d0nmap2qtfbaeo94er9oc13ked6o.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_8867-ri4nn1bcrxe2gnbni4pbn8kvwoa1gtihlszikucz0g.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_8864-ri4nn1bcrxe2gnbni4pbn8kvwoa1gtihlszikucz0g.webp"
+  ],
+  "totalImages": 7,
+  "url": "https://svintermed.com.br/veiculos/jeep-compass-sport/",
+  "warnings": [
+    "Imagens fora da galeria principal foram ignoradas."
+  ],
+  "errors": []
+}

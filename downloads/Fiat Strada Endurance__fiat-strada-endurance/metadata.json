@@ -1,0 +1,17 @@
+{
+  "collectedAt": "2026-03-30T00:52:36.247Z",
+  "description": "Fiat Strada Endurance - 26-26 com Pack Worker, Oferta Valida para faturar no CNPJ, com Taxa Zero em 12x com 70% de entrada ou Taxa 0,99% em 24x com 50% de entrada",
+  "extractionMode": "playwright",
+  "folderName": "Fiat Strada Endurance__fiat-strada-endurance",
+  "name": "Fiat Strada Endurance",
+  "pageTitle": "Fiat Strada Endurance - R$ 89.990, - Sinal Verde Intermediações - atendendo lojistas de todo Brasil",
+  "price": "R$ 89.990,",
+  "savedFiles": [],
+  "sourceImageUrls": [],
+  "totalImages": 0,
+  "url": "https://svintermed.com.br/veiculos/fiat-strada-endurance/",
+  "warnings": [
+    "Galeria principal ausente; imagens de veiculos relacionados foram ignoradas."
+  ],
+  "errors": []
+}

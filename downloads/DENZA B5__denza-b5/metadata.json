@@ -1,0 +1,51 @@
+{
+  "collectedAt": "2026-03-30T00:50:50.336Z",
+  "description": "DENZA B5 - 25/26 Pedido Montadora, válido para todas as cores AF PF/PJ Consultar Condições!",
+  "extractionMode": "playwright",
+  "folderName": "DENZA B5__denza-b5",
+  "name": "DENZA B5",
+  "pageTitle": "DENZA B5 - R$ 429.990, - Sinal Verde Intermediações - atendendo lojistas de todo Brasil",
+  "price": "R$ 429.990,",
+  "savedFiles": [
+    "01.webp",
+    "02.webp",
+    "03.webp",
+    "04.webp",
+    "05.webp",
+    "06.webp",
+    "07.webp",
+    "08.webp",
+    "09.webp",
+    "10.webp",
+    "11.webp",
+    "12.webp",
+    "13.webp",
+    "14.webp",
+    "15.webp",
+    "16.webp"
+  ],
+  "sourceImageUrls": [
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_9798-1-rkcwo2zqtggip26v2vtz5xdiw4n4nmc7mzoazh1h6o.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_9809-rkcwo3xl0aht0o5hxe8lqf4zhiihvbfxz4bsgr030g.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_9810-rkcwo3xl0aht0o5hxe8lqf4zhiihvbfxz4bsgr030g.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_9800-rkcwo0688ycnq8ayjcm3gg353z110j10mlpujn5npc.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_9806-rkcwo142fsdy1u9ldv0q0xulpcwe884qyqdc0x49j4.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_9803-rkcwo142fsdy1u9ldv0q0xulpcwe884qyqdc0x49j4.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_9805-rkcwo142fsdy1u9ldv0q0xulpcwe884qyqdc0x49j4.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_9802-rkcwo142fsdy1u9ldv0q0xulpcwe884qyqdc0x49j4.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_9799-rkcwo142fsdy1u9ldv0q0xulpcwe884qyqdc0x49j4.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_9804-rkcwo21wmmf8dg888dfclfm2aqrrfx8hav0ti72vcw.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_9807-rkcwo21wmmf8dg888dfclfm2aqrrfx8hav0ti72vcw.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_9801-rkcwo21wmmf8dg888dfclfm2aqrrfx8hav0ti72vcw.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_9811-rkcwo21wmmf8dg888dfclfm2aqrrfx8hav0ti72vcw.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_9812-rkcwo2zqtggip26v2vtz5xdiw4n4nmc7mzoazh1h6o.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_9813-rkcwo2zqtggip26v2vtz5xdiw4n4nmc7mzoazh1h6o.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_9808-rkcwo2zqtggip26v2vtz5xdiw4n4nmc7mzoazh1h6o.webp"
+  ],
+  "totalImages": 16,
+  "url": "https://svintermed.com.br/veiculos/denza-b5/",
+  "warnings": [
+    "Imagens fora da galeria principal foram ignoradas."
+  ],
+  "errors": []
+}

@@ -1,0 +1,33 @@
+{
+  "collectedAt": "2026-03-30T00:54:30.125Z",
+  "description": "Chery Tiggo 8 Pro - A Faturar CPF, válido para a cor Branca <<<<",
+  "extractionMode": "playwright",
+  "folderName": "Chery Tiggo 8 Pro__chery-tiggo-8-pro",
+  "name": "Chery Tiggo 8 Pro",
+  "pageTitle": "Chery Tiggo 8 Pro - R$ 188.990, - Sinal Verde Intermediações - atendendo lojistas de todo Brasil",
+  "price": "R$ 188.990,",
+  "savedFiles": [
+    "01.webp",
+    "02.webp",
+    "03.webp",
+    "04.webp",
+    "05.webp",
+    "06.webp",
+    "07.webp"
+  ],
+  "sourceImageUrls": [
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_8602-rhp73mpo5wfigzv977sdqlpoyu8qxxcbbr5u9n20jk.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_8601-rhp73mpo5wfigzv977sdqlpoyu8qxxcbbr5u9n20jk.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_8598-rhp73nnicqgssltw1q70b3h5k8445mg1nvtbqx0mdc.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_8604-1-rhp73lrtz2e85dwmcpdr63y8dgddq88kzmicsd3eps.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_8599-rhp73lrtz2e85dwmcpdr63y8dgddq88kzmicsd3eps.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_8603-rhp73mpo5wfigzv977sdqlpoyu8qxxcbbr5u9n20jk.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_8600-rhp73mpo5wfigzv977sdqlpoyu8qxxcbbr5u9n20jk.webp"
+  ],
+  "totalImages": 7,
+  "url": "https://svintermed.com.br/veiculos/chery-tiggo-8-pro/",
+  "warnings": [
+    "Imagens fora da galeria principal foram ignoradas."
+  ],
+  "errors": []
+}

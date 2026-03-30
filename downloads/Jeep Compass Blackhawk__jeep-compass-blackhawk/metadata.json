@@ -1,0 +1,35 @@
+{
+  "collectedAt": "2026-03-30T00:56:39.443Z",
+  "description": "Jeep Compass Blackhawk - Oferta válida para Refaturamento CNPJ/MEI/RURAL na cor: Cinza Sting",
+  "extractionMode": "playwright",
+  "folderName": "Jeep Compass Blackhawk__jeep-compass-blackhawk",
+  "name": "Jeep Compass Blackhawk",
+  "pageTitle": "Jeep Compass Blackhawk - R$ 232.790, - Sinal Verde Intermediações - atendendo lojistas de todo Brasil",
+  "price": "R$ 232.790,",
+  "savedFiles": [
+    "01.webp",
+    "02.webp",
+    "03.webp",
+    "04.webp",
+    "05.webp",
+    "06.webp",
+    "07.webp",
+    "08.webp"
+  ],
+  "sourceImageUrls": [
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_8020-rhbujje9mpwq2l7tl5mm87ylvw70ud6bg8y6n22p8g.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_8017-rhbujje9mpwq2l7tl5mm87ylvw70ud6bg8y6n22p8g.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_8019-rhbujkc3tjy0e76gfo18spq2ha2e22a1sdlo4c1b28.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_8185-1-rhfdeu4jt871nwymrw9aa6ghpykbcq15q9wjm83ha8.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_8021-rhbujje9mpwq2l7tl5mm87ylvw70ud6bg8y6n22p8g.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_8016-rhbujigffvvfqz96qn7znq75aibnmo2l44ap5s43eo.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_8018-rhbujigffvvfqz96qn7znq75aibnmo2l44ap5s43eo.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_8022-rhbujje9mpwq2l7tl5mm87ylvw70ud6bg8y6n22p8g.webp"
+  ],
+  "totalImages": 8,
+  "url": "https://svintermed.com.br/veiculos/jeep-compass-blackhawk/",
+  "warnings": [
+    "Imagens fora da galeria principal foram ignoradas."
+  ],
+  "errors": []
+}

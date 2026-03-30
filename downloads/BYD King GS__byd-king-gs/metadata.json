@@ -1,0 +1,47 @@
+{
+  "collectedAt": "2026-03-30T00:55:39.798Z",
+  "description": "BYD King GS - FR Liberado! com IPVA Total 2026 PG, na cor: Cinza",
+  "extractionMode": "playwright",
+  "folderName": "BYD King GS__byd-king-gs",
+  "name": "BYD King GS",
+  "pageTitle": "BYD King GS - R$ 162.990, - Sinal Verde Intermediações - atendendo lojistas de todo Brasil",
+  "price": "R$ 162.990,",
+  "savedFiles": [
+    "01.webp",
+    "02.webp",
+    "03.webp",
+    "04.webp",
+    "05.webp",
+    "06.webp",
+    "07.webp",
+    "08.webp",
+    "09.webp",
+    "10.webp",
+    "11.webp",
+    "12.webp",
+    "13.webp",
+    "14.webp"
+  ],
+  "sourceImageUrls": [
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_8361-rhi1g0isgot7gf7vaa311rtcwmkq3ysd1prnbu3ry8.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_8358-rhi1g1gmniuhs16i4shnm9kti0g3bnw3duf4t42ds0.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_8357-rhi1g1gmniuhs16i4shnm9kti0g3bnw3duf4t42ds0.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_8370-1-rhi1fyn430qmt7all99rwsafputzokkwdggoda6kao.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_8368-rhi1fyn430qmt7all99rwsafputzokkwdggoda6kao.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_8366-rhi1fyn430qmt7all99rwsafputzokkwdggoda6kao.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_8369-rhi1fyn430qmt7all99rwsafputzokkwdggoda6kao.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_8367-rhi1fzky9urx4t98froeha1wb8pcw9ompl45uk564g.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_8365-rhi1fzky9urx4t98froeha1wb8pcw9ompl45uk564g.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_8362-rhi1fzky9urx4t98froeha1wb8pcw9ompl45uk564g.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_8359-rhi1fzky9urx4t98froeha1wb8pcw9ompl45uk564g.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_8363-rhi1g0isgot7gf7vaa311rtcwmkq3ysd1prnbu3ry8.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_8360-rhi1g0isgot7gf7vaa311rtcwmkq3ysd1prnbu3ry8.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_8364-rhi1g0isgot7gf7vaa311rtcwmkq3ysd1prnbu3ry8.webp"
+  ],
+  "totalImages": 14,
+  "url": "https://svintermed.com.br/veiculos/byd-king-gs/",
+  "warnings": [
+    "Imagens fora da galeria principal foram ignoradas."
+  ],
+  "errors": []
+}

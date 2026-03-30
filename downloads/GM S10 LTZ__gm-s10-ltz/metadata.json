@@ -1,0 +1,31 @@
+{
+  "collectedAt": "2026-03-30T00:58:26.906Z",
+  "description": "GM S10 LTZ - A Faturar com IPVA ISENTO 2026, ca cor Cinza Topazio",
+  "extractionMode": "playwright",
+  "folderName": "GM S10 LTZ__gm-s10-ltz",
+  "name": "GM S10 LTZ",
+  "pageTitle": "GM S10 LTZ - R$ 281.990, - Sinal Verde Intermediações - atendendo lojistas de todo Brasil",
+  "price": "R$ 281.990,",
+  "savedFiles": [
+    "01.webp",
+    "02.webp",
+    "03.webp",
+    "04.webp",
+    "05.webp",
+    "06.webp"
+  ],
+  "sourceImageUrls": [
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_1083-r9n0745jjplswnf4zdwrvqa5acnyth06afjitz8vuo.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_1087-r9n0745jjplswnf4zdwrvqa5acnyth06afjitz8vuo.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_1084-r9n0745jjplswnf4zdwrvqa5acnyth06afjitz8vuo.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_8323-1-rhh4io5pzy5yj0zuuwpxpw1cu4zdcv21et6ig3miio.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_1086-r9n0745jjplswnf4zdwrvqa5acnyth06afjitz8vuo.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_1085-r9n0745jjplswnf4zdwrvqa5acnyth06afjitz8vuo.webp"
+  ],
+  "totalImages": 6,
+  "url": "https://svintermed.com.br/veiculos/gm-s10-ltz/",
+  "warnings": [
+    "Imagens fora da galeria principal foram ignoradas."
+  ],
+  "errors": []
+}

@@ -1,0 +1,33 @@
+{
+  "collectedAt": "2026-03-30T00:57:28.383Z",
+  "description": "Fiat Pulse Audace Hybrid - Faturamento CNPJ/MEI/RURAL nas cores: Branca e Vermelha",
+  "extractionMode": "playwright",
+  "folderName": "Fiat Pulse Audace Hybrid__fiat-pulse-audace-hybrid-2",
+  "name": "Fiat Pulse Audace Hybrid",
+  "pageTitle": "Fiat Pulse Audace Hybrid - R$ 114.690 - Sinal Verde Intermediações - atendendo lojistas de todo Brasil",
+  "price": "R$ 114.690",
+  "savedFiles": [
+    "01.webp",
+    "02.webp",
+    "03.webp",
+    "04.webp",
+    "05.webp",
+    "06.webp",
+    "07.webp"
+  ],
+  "sourceImageUrls": [
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_7355-rg5qx9kl149qv5ynxtajsbjku4oyifqfi2kmno3mtc.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_7356-rg5qxaif7yb16rxasbp6ctb1fikbq4u5u7844y28n4.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_8316-1-rhh421ej2heb3f5kz7wl3l4qfoyk5o10shm7quaam8.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_7357-rg5qx8mqua8gjk013avx7ts48qtlaqmp5xx56e50zk.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_7358-2-rg5qx9kl149qv5ynxtajsbjku4oyifqfi2kmno3mtc.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_7351-1-rg5qx9kl149qv5ynxtajsbjku4oyifqfi2kmno3mtc.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_7346-1-rg5qx9kl149qv5ynxtajsbjku4oyifqfi2kmno3mtc.webp"
+  ],
+  "totalImages": 7,
+  "url": "https://svintermed.com.br/veiculos/fiat-pulse-audace-hybrid-2/",
+  "warnings": [
+    "Imagens fora da galeria principal foram ignoradas."
+  ],
+  "errors": []
+}

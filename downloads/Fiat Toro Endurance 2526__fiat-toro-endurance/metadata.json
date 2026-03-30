@@ -1,0 +1,29 @@
+{
+  "collectedAt": "2026-03-30T00:53:23.900Z",
+  "description": "Fiat Toro Endurance 25/26 - 25/26 Oferta válida para Refaturar CNPJ, na cor Branca <<<",
+  "extractionMode": "playwright",
+  "folderName": "Fiat Toro Endurance 2526__fiat-toro-endurance",
+  "name": "Fiat Toro Endurance 25/26",
+  "pageTitle": "Fiat Toro Endurance 25/26 - R$ 137.690, - Sinal Verde Intermediações - atendendo lojistas de todo Brasil",
+  "price": "R$ 137.690,",
+  "savedFiles": [
+    "01.webp",
+    "02.webp",
+    "03.webp",
+    "04.webp",
+    "05.webp"
+  ],
+  "sourceImageUrls": [
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_8757-rhxvajewolndcmq5vao0wi4wez3e4r11v6p7yj0itc.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_8760-rhxvajewolndcmq5vao0wi4wez3e4r11v6p7yj0itc.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_8758-rhxvajewolndcmq5vao0wi4wez3e4r11v6p7yj0itc.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_8761-1-rhxvaih2hrm310rj0s9ec0dftl80x1xbj21qh91wzk.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_8759-rhxvaih2hrm310rj0s9ec0dftl80x1xbj21qh91wzk.webp"
+  ],
+  "totalImages": 5,
+  "url": "https://svintermed.com.br/veiculos/fiat-toro-endurance/",
+  "warnings": [
+    "Imagens fora da galeria principal foram ignoradas."
+  ],
+  "errors": []
+}

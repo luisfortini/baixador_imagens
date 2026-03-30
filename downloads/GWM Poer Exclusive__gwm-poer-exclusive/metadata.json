@@ -1,0 +1,41 @@
+{
+  "collectedAt": "2026-03-30T00:50:19.150Z",
+  "description": "GWM Poer Exclusive - A Faturar CPF com Ipva Isento!",
+  "extractionMode": "playwright",
+  "folderName": "GWM Poer Exclusive__gwm-poer-exclusive",
+  "name": "GWM Poer Exclusive",
+  "pageTitle": "GWM Poer Exclusive - R$ 221.590, - Sinal Verde Intermediações - atendendo lojistas de todo Brasil",
+  "price": "R$ 221.590,",
+  "savedFiles": [
+    "01.webp",
+    "02.webp",
+    "03.webp",
+    "04.webp",
+    "05.webp",
+    "06.webp",
+    "07.webp",
+    "08.webp",
+    "09.webp",
+    "10.webp",
+    "11.webp"
+  ],
+  "sourceImageUrls": [
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_0300-rkzho5jsu88p6qon3o2zbqbspc1nadjvyhqfsazakg.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_0296-rkzho5jsu88p6qon3o2zbqbspc1nadjvyhqfsazakg.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_0297-rkzho5jsu88p6qon3o2zbqbspc1nadjvyhqfsazakg.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_0306-1-rkzho3o4gk64jirden9q6qsvikawuzcfa8fgtr22ww.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_0305-rkzho3o4gk64jirden9q6qsvikawuzcfa8fgtr22ww.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_0302-rkzho3o4gk64jirden9q6qsvikawuzcfa8fgtr22ww.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_0301-rkzho4lyne7ev4q095ocr8kc3y6a2og5md2yb10oqo.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_0298-rkzho4lyne7ev4q095ocr8kc3y6a2og5md2yb10oqo.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_0304-rkzho4lyne7ev4q095ocr8kc3y6a2og5md2yb10oqo.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_0299-rkzho4lyne7ev4q095ocr8kc3y6a2og5md2yb10oqo.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_0303-rkzho5jsu88p6qon3o2zbqbspc1nadjvyhqfsazakg.webp"
+  ],
+  "totalImages": 11,
+  "url": "https://svintermed.com.br/veiculos/gwm-poer-exclusive/",
+  "warnings": [
+    "Imagens fora da galeria principal foram ignoradas."
+  ],
+  "errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "collectedAt": "2026-03-30T00:52:49.336Z",
+  "description": "Toyota Corolla Altis Premium 26/26 - 26/26 A Faturar PF/PJ",
+  "extractionMode": "playwright",
+  "folderName": "Toyota Corolla Altis Premium 2626__toyota-corolla-altis-premium-26-26",
+  "name": "Toyota Corolla Altis Premium 26/26",
+  "pageTitle": "Toyota Corolla Altis Premium 26/26 - R$ 187.790, - Sinal Verde Intermediações - atendendo lojistas de todo Brasil",
+  "price": "R$ 187.790,",
+  "savedFiles": [
+    "01.webp",
+    "02.webp",
+    "03.webp",
+    "04.webp",
+    "05.webp",
+    "06.webp",
+    "07.webp",
+    "08.webp",
+    "09.webp",
+    "10.webp"
+  ],
+  "sourceImageUrls": [
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_8946-ribusftrjun1txufcbe50huromu6r9lhy29y4nk7k0.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_8943-ribusftrjun1txufcbe50huromu6r9lhy29y4nk7k0.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_8949-ribusftrjun1txufcbe50huromu6r9lhy29y4nk7k0.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_8952-1-ribusdy366kh6px5nakvvibuhv3gbve19syz63mzwg.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_8950-ribusdy366kh6px5nakvvibuhv3gbve19syz63mzwg.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_8951-ribusdy366kh6px5nakvvibuhv3gbve19syz63mzwg.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_8947-ribusevxd0lribvshszig03b38ytjkhrlxmgndllq8.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_8945-ribusevxd0lribvshszig03b38ytjkhrlxmgndllq8.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_8944-ribusevxd0lribvshszig03b38ytjkhrlxmgndllq8.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_8942-ribusevxd0lribvshszig03b38ytjkhrlxmgndllq8.webp"
+  ],
+  "totalImages": 10,
+  "url": "https://svintermed.com.br/veiculos/toyota-corolla-altis-premium-26-26/",
+  "warnings": [
+    "Imagens fora da galeria principal foram ignoradas."
+  ],
+  "errors": []
+}

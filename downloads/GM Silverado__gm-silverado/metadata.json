@@ -1,0 +1,35 @@
+{
+  "collectedAt": "2026-03-30T00:55:04.877Z",
+  "description": "GM Silverado - A Faturar com IPVA ISENTO 2026 nas cores: Prata, Vermelha e Branca Economia de R$ 18.000,00",
+  "extractionMode": "playwright",
+  "folderName": "GM Silverado__gm-silverado",
+  "name": "GM Silverado",
+  "pageTitle": "GM Silverado - R$ 438.990, - Sinal Verde Intermediações - atendendo lojistas de todo Brasil",
+  "price": "R$ 438.990,",
+  "savedFiles": [
+    "01.webp",
+    "02.webp",
+    "03.webp",
+    "04.webp",
+    "05.webp",
+    "06.webp",
+    "07.webp",
+    "08.webp"
+  ],
+  "sourceImageUrls": [
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_8498-rhm686awcozosf3h2icy75wsd6qplkdgs8z0s0h000.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_8497-rhm686awcozosf3h2icy75wsd6qplkdgs8z0s0h000.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_8499-rhm686awcozosf3h2icy75wsd6qplkdgs8z0s0h000.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_8503-1-rhm684f7z0x45767dhjp26dv6ezz66603zo1tgjscg.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_8502-rhm685d25uyegt4u7zybmo5brsvcdv9qg4bjaqie68.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_8501-rhm685d25uyegt4u7zybmo5brsvcdv9qg4bjaqie68.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_8500-rhm685d25uyegt4u7zybmo5brsvcdv9qg4bjaqie68.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_8496-rhm685d25uyegt4u7zybmo5brsvcdv9qg4bjaqie68.webp"
+  ],
+  "totalImages": 8,
+  "url": "https://svintermed.com.br/veiculos/gm-silverado/",
+  "warnings": [
+    "Imagens fora da galeria principal foram ignoradas."
+  ],
+  "errors": []
+}

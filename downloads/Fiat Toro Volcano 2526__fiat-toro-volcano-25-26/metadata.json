@@ -1,0 +1,37 @@
+{
+  "collectedAt": "2026-03-30T00:51:47.219Z",
+  "description": "Fiat Toro Volcano 25/26 - 25/26 Oferta válida para Refaturar CNPJ com Pack Tech, na cor Azul",
+  "extractionMode": "playwright",
+  "folderName": "Fiat Toro Volcano 2526__fiat-toro-volcano-25-26",
+  "name": "Fiat Toro Volcano 25/26",
+  "pageTitle": "Fiat Toro Volcano 25/26 - R$ 179.990, - Sinal Verde Intermediações - atendendo lojistas de todo Brasil",
+  "price": "R$ 179.990,",
+  "savedFiles": [
+    "01.webp",
+    "02.webp",
+    "03.webp",
+    "04.webp",
+    "05.webp",
+    "06.webp",
+    "07.webp",
+    "08.webp",
+    "09.webp"
+  ],
+  "sourceImageUrls": [
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/b09cb00f-7474-4d46-bd33-9af87c5c1ccc-rjqqyxmagyugzlga28l2f3l791tdie8wearc928sw0.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_9378-rjqqyxmagyugzlga28l2f3l791tdie8wearc928sw0.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_9379-rjqqyxmagyugzlga28l2f3l791tdie8wearc928sw0.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/d2e1e23b-e3fb-4b10-9d55-3c4e32c3dc82-1-rjqqungrc4zg3jo72dy926hltux6g18x53rpjold8g.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/45bc0e5a-f234-4871-92ac-968398b566b4-rjqqyvqm3arwcdj0d7rta42a2a2n301fq1gdaibl8g.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/48d2f08d-083f-4a31-8caa-d29c25c4ff39-rjqqywoga4t6nzhn7q6fultqnny0ap56263ursa728.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/975dee6d-326f-4cbc-8c4f-9de854d7be6b-rjqqywoga4t6nzhn7q6fultqnny0ap56263ursa728.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/fe97a471-6d8e-4235-b35f-a4aba6e5e993-rjqqywoga4t6nzhn7q6fultqnny0ap56263ursa728.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/95e45d6d-ed89-45e6-b8f9-55d19f3ee26d-rjqqywoga4t6nzhn7q6fultqnny0ap56263ursa728.webp"
+  ],
+  "totalImages": 9,
+  "url": "https://svintermed.com.br/veiculos/fiat-toro-volcano-25-26/",
+  "warnings": [
+    "Imagens fora da galeria principal foram ignoradas."
+  ],
+  "errors": []
+}

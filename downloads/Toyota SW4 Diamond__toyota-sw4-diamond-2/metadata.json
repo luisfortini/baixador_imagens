@@ -1,0 +1,39 @@
+{
+  "collectedAt": "2026-03-30T00:56:41.348Z",
+  "description": "Toyota SW4 Diamond - Chão A Faturar PF/PJ válido para cor Preta",
+  "extractionMode": "playwright",
+  "folderName": "Toyota SW4 Diamond__toyota-sw4-diamond-2",
+  "name": "Toyota SW4 Diamond",
+  "pageTitle": "Toyota SW4 Diamond - R$ Consulte! - Sinal Verde Intermediações - atendendo lojistas de todo Brasil",
+  "price": "R$ 240.990,",
+  "savedFiles": [
+    "01.webp",
+    "02.webp",
+    "03.webp",
+    "04.webp",
+    "05.webp",
+    "06.webp",
+    "07.webp",
+    "08.webp",
+    "09.webp",
+    "10.webp"
+  ],
+  "sourceImageUrls": [
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_8189-rhfdr2yuuiyix16a9otb9l7obo7gmrn9qvv9ozxu80.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_8188-rhfdr2yuuiyix16a9otb9l7obo7gmrn9qvv9ozxu80.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_8187-rhfdr2yuuiyix16a9otb9l7obo7gmrn9qvv9ozxu80.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_8196-rhfdr136guvy9t90ko024lor4wgq7dft2mkaqg0mkg.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_8195-rhfdr136guvy9t90ko024lor4wgq7dft2mkaqg0mkg.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_8194-rhfdr136guvy9t90ko024lor4wgq7dft2mkaqg0mkg.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_8193-rhfdr210nox8lf7nf6eop3g7qac3f2jjer7s7pz8e8.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_8192-rhfdr210nox8lf7nf6eop3g7qac3f2jjer7s7pz8e8.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_8191-rhfdr210nox8lf7nf6eop3g7qac3f2jjer7s7pz8e8.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_8190-rhfdr210nox8lf7nf6eop3g7qac3f2jjer7s7pz8e8.webp"
+  ],
+  "totalImages": 10,
+  "url": "https://svintermed.com.br/veiculos/toyota-sw4-diamond-2/",
+  "warnings": [
+    "Imagens fora da galeria principal foram ignoradas."
+  ],
+  "errors": []
+}

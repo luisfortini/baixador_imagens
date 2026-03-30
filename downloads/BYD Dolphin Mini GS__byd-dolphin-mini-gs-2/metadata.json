@@ -1,0 +1,29 @@
+{
+  "collectedAt": "2026-03-30T00:54:14.403Z",
+  "description": "BYD Dolphin Mini GS - A Faturar CPf com IPVA ISENTO até 2028, disponível na cor Preta",
+  "extractionMode": "playwright",
+  "folderName": "BYD Dolphin Mini GS__byd-dolphin-mini-gs-2",
+  "name": "BYD Dolphin Mini GS",
+  "pageTitle": "BYD Dolphin Mini GS - R$ 116.990, - Sinal Verde Intermediações - atendendo lojistas de todo Brasil",
+  "price": "R$ 116.990,",
+  "savedFiles": [
+    "01.webp",
+    "02.webp",
+    "03.webp",
+    "04.webp",
+    "05.webp"
+  ],
+  "sourceImageUrls": [
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_8652-rhscop416w1z4i9qx8kb78owfhr583niir6t8q5mbk.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_8649-rhscop416w1z4i9qx8kb78owfhr583niir6t8q5mbk.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_8650-rhscop416w1z4i9qx8kb78owfhr583niir6t8q5mbk.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_8653-1-rhscoo67020oswb42q5omqxfu3vs0ejs6mjbrg70hs.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_8651-rhscop416w1z4i9qx8kb78owfhr583niir6t8q5mbk.webp"
+  ],
+  "totalImages": 5,
+  "url": "https://svintermed.com.br/veiculos/byd-dolphin-mini-gs-2/",
+  "warnings": [
+    "Imagens fora da galeria principal foram ignoradas."
+  ],
+  "errors": []
+}

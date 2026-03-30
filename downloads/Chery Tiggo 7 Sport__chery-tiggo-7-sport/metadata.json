@@ -1,0 +1,17 @@
+{
+  "collectedAt": "2026-03-30T00:54:24.235Z",
+  "description": "Chery Tiggo 7 Sport - 2027 Chão A Faturar CPF na cor preta, Consulte demais cores <<<",
+  "extractionMode": "playwright",
+  "folderName": "Chery Tiggo 7 Sport__chery-tiggo-7-sport",
+  "name": "Chery Tiggo 7 Sport",
+  "pageTitle": "Chery Tiggo 7 Sport - R$ 139.990, - Sinal Verde Intermediações - atendendo lojistas de todo Brasil",
+  "price": "R$ 139.990,",
+  "savedFiles": [],
+  "sourceImageUrls": [],
+  "totalImages": 0,
+  "url": "https://svintermed.com.br/veiculos/chery-tiggo-7-sport/",
+  "warnings": [
+    "Galeria principal ausente; imagens de veiculos relacionados foram ignoradas."
+  ],
+  "errors": []
+}

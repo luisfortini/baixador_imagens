@@ -1,0 +1,29 @@
+{
+  "collectedAt": "2026-03-30T00:54:22.372Z",
+  "description": "Honda HR-V EXL - Oferta Válida para Faturar CNPJ, na cor: Branca",
+  "extractionMode": "playwright",
+  "folderName": "Honda HR-V EXL__honda-hr-v-exl-2",
+  "name": "Honda HR-V EXL",
+  "pageTitle": "Honda HR-V EXL - R$ 163.990, - Sinal Verde Intermediações - atendendo lojistas de todo Brasil",
+  "price": "R$ 163.990,",
+  "savedFiles": [
+    "01.webp",
+    "02.webp",
+    "03.webp",
+    "04.webp",
+    "05.webp"
+  ],
+  "sourceImageUrls": [
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_8614-rhpko87iona7g05j4wy0bt2d680d1y1e632zsklw74.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_8613-rhpko95cvhbhrm45zfcmwattrlvq9n54i7qh9uki0w.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_8615-rhpko95cvhbhrm45zfcmwattrlvq9n54i7qh9uki0w.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_8616-1-rhpko87iona7g05j4wy0bt2d680d1y1e632zsklw74.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_8612-rhpko87iona7g05j4wy0bt2d680d1y1e632zsklw74.webp"
+  ],
+  "totalImages": 5,
+  "url": "https://svintermed.com.br/veiculos/honda-hr-v-exl-2/",
+  "warnings": [
+    "Imagens fora da galeria principal foram ignoradas."
+  ],
+  "errors": []
+}

@@ -1,0 +1,41 @@
+{
+  "collectedAt": "2026-03-30T00:55:24.474Z",
+  "description": "Jeep Compass S - Oferta válida para Refaturamento em CNPJ disponível nas cores Branca e Cinza Sting",
+  "extractionMode": "playwright",
+  "folderName": "Jeep Compass S__jeep-compass-s-2",
+  "name": "Jeep Compass S",
+  "pageTitle": "Jeep Compass S - R$ 197.490, - Sinal Verde Intermediações - atendendo lojistas de todo Brasil",
+  "price": "R$ 197.490,",
+  "savedFiles": [
+    "01.webp",
+    "02.webp",
+    "03.webp",
+    "04.webp",
+    "05.webp",
+    "06.webp",
+    "07.webp",
+    "08.webp",
+    "09.webp",
+    "10.webp",
+    "11.webp"
+  ],
+  "sourceImageUrls": [
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/c438fa54-7427-4ec0-b3b9-6c36e0380d38-rhi5vfxbn320nfn2c6z0yjhw3crxntpeat6fndpwlc.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/d8ee9e5c-7b27-4cd7-9cc7-a7724589e881-rhi5vfxbn320nfn2c6z0yjhw3crxntpeat6fndpwlc.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/2119d011-500e-4251-9e40-a2936bf79f3b-rhi5vfxbn320nfn2c6z0yjhw3crxntpeat6fndpwlc.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_8423-1-rhi5ve1n9ezg07psn65rtjyywl178fhxmjvgotsoxs.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/958b35ac-ede4-4866-a5c7-0421fc4ce0c2-rhi5ve1n9ezg07psn65rtjyywl178fhxmjvgotsoxs.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/0d8d6678-c3be-4446-be4a-0c12c89b26d7-rhi5ve1n9ezg07psn65rtjyywl178fhxmjvgotsoxs.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/3af59153-4416-4c8a-a2a6-bd0faff2b1cf-rhi5vezhg90qbtofhokee1qfhywkg4lnyoiy63rark.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/864334b3-4265-44a6-ac5a-bd39ed09ce90-rhi5vezhg90qbtofhokee1qfhywkg4lnyoiy63rark.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/989bdbf7-9ecb-4fca-953d-90d95fdd004a-rhi5vezhg90qbtofhokee1qfhywkg4lnyoiy63rark.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/3076ab38-be3c-42c9-b460-9b7b20dae28f-rhi5vezhg90qbtofhokee1qfhywkg4lnyoiy63rark.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/b6c2bacc-e6fb-4d02-9bc3-ea105ca280b9-rhi5vfxbn320nfn2c6z0yjhw3crxntpeat6fndpwlc.webp"
+  ],
+  "totalImages": 11,
+  "url": "https://svintermed.com.br/veiculos/jeep-compass-s-2/",
+  "warnings": [
+    "Imagens fora da galeria principal foram ignoradas."
+  ],
+  "errors": []
+}

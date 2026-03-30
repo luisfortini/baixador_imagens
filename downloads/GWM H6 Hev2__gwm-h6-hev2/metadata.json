@@ -1,0 +1,17 @@
+{
+  "collectedAt": "2026-03-30T00:50:08.538Z",
+  "description": "GWM H6 Hev2 - 25/26 A Faturar CPF na origem, disponível nas cores Branca, Cinza e Preta",
+  "extractionMode": "playwright",
+  "folderName": "GWM H6 Hev2__gwm-h6-hev2",
+  "name": "GWM H6 Hev2",
+  "pageTitle": "GWM H6 Hev2 - R$ 206.790, - Sinal Verde Intermediações - atendendo lojistas de todo Brasil",
+  "price": "R$ 206.790,",
+  "savedFiles": [],
+  "sourceImageUrls": [],
+  "totalImages": 0,
+  "url": "https://svintermed.com.br/veiculos/gwm-h6-hev2/",
+  "warnings": [
+    "Galeria principal ausente; imagens de veiculos relacionados foram ignoradas."
+  ],
+  "errors": []
+}

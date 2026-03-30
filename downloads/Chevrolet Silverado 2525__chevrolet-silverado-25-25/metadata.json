@@ -1,0 +1,17 @@
+{
+  "collectedAt": "2026-03-30T00:51:57.436Z",
+  "description": "Chevrolet Silverado 25/25 - A Faturar CPF com Ipva Isento",
+  "extractionMode": "playwright",
+  "folderName": "Chevrolet Silverado 2525__chevrolet-silverado-25-25",
+  "name": "Chevrolet Silverado 25/25",
+  "pageTitle": "Chevrolet Silverado 25/25 - R$ 429.990, - Sinal Verde Intermediações - atendendo lojistas de todo Brasil",
+  "price": "R$ 429.990,",
+  "savedFiles": [],
+  "sourceImageUrls": [],
+  "totalImages": 0,
+  "url": "https://svintermed.com.br/veiculos/chevrolet-silverado-25-25/",
+  "warnings": [
+    "Galeria principal ausente; imagens de veiculos relacionados foram ignoradas."
+  ],
+  "errors": []
+}

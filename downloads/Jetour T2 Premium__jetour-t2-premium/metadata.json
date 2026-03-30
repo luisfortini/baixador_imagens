@@ -1,0 +1,45 @@
+{
+  "collectedAt": "2026-03-30T00:49:49.064Z",
+  "description": "Jetour T2 Premium - A Faturar CPF na cor Preta",
+  "extractionMode": "playwright",
+  "folderName": "Jetour T2 Premium__jetour-t2-premium",
+  "name": "Jetour T2 Premium",
+  "pageTitle": "Jetour T2 Premium - R$ 289.790, - Sinal Verde Intermediações - atendendo lojistas de todo Brasil",
+  "price": "R$ 289.790,",
+  "savedFiles": [
+    "01.webp",
+    "02.webp",
+    "03.webp",
+    "04.webp",
+    "05.webp",
+    "06.webp",
+    "07.webp",
+    "08.webp",
+    "09.webp",
+    "10.webp",
+    "11.webp",
+    "12.webp",
+    "13.webp"
+  ],
+  "sourceImageUrls": [
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/e6a2b775-72d0-4b03-8e27-98de1c23912e-rl2t1ai0pyp5usuou4ov8d3a1k02giw23cjs5fkkzk.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/5ab29fd4-245e-4283-9844-85afacfd3c40-rl2t1ai0pyp5usuou4ov8d3a1k02giw23cjs5fkkzk.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/e72c7f36-c868-42d6-9087-b2ac4dd9f09a-rl2t1ai0pyp5usuou4ov8d3a1k02giw23cjs5fkkzk.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/945b7b9e-a36e-46f9-b45c-a9a36e4160b8-1-rl2t18mccaml7kxf53vm3dkcus9c14olf38t6vndc0.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/afe20e5b-b279-44eb-9077-c3f53ca8f8f3-rl2t18mccaml7kxf53vm3dkcus9c14olf38t6vndc0.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/65b6a684-9c85-4c7a-9181-1922e2f4ceda-rl2t18mccaml7kxf53vm3dkcus9c14olf38t6vndc0.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/db47fbfd-d280-4ac4-8e00-55ab724c7649-rl2t18mccaml7kxf53vm3dkcus9c14olf38t6vndc0.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/2965c6a8-6495-42c4-9718-f12c191b11b3-rl2t18mccaml7kxf53vm3dkcus9c14olf38t6vndc0.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/1cce2e19-27f0-43b9-850e-da4bb170f60f-rl2t19k6j4nvj6w1zma8nvbtg64p8tsbr7wao5lz5s.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/03f6bdfa-62c0-429b-915f-01abd4bc051d-rl2t19k6j4nvj6w1zma8nvbtg64p8tsbr7wao5lz5s.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/262e8d7d-f1e9-4189-b491-e18c5518fae1-rl2t19k6j4nvj6w1zma8nvbtg64p8tsbr7wao5lz5s.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/c5e8a0a2-c684-4cde-8a9a-d970cc3a9025-rl2t1ai0pyp5usuou4ov8d3a1k02giw23cjs5fkkzk.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/b7d4cf50-6ce1-4cd6-bff8-78495f7263c6-rl2t1ai0pyp5usuou4ov8d3a1k02giw23cjs5fkkzk.webp"
+  ],
+  "totalImages": 13,
+  "url": "https://svintermed.com.br/veiculos/jetour-t2-premium/",
+  "warnings": [
+    "Imagens fora da galeria principal foram ignoradas."
+  ],
+  "errors": []
+}

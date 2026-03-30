@@ -1,0 +1,29 @@
+{
+  "collectedAt": "2026-03-30T00:53:59.848Z",
+  "description": "VW Tera High - 25/26 A Faturar PF/PJ",
+  "extractionMode": "playwright",
+  "folderName": "VW Tera High__vw-tera-high",
+  "name": "VW Tera High",
+  "pageTitle": "VW Tera High - R$ 130.990, - Sinal Verde Intermediações - atendendo lojistas de todo Brasil",
+  "price": "R$ 130.990,",
+  "savedFiles": [
+    "01.webp",
+    "02.webp",
+    "03.webp",
+    "04.webp",
+    "05.webp"
+  ],
+  "sourceImageUrls": [
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_8688-rhu8k8bvs52grcwgegvm3mgxxhvx9ub9t4hry73qyo.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_8684-1-rhu8k99pyz3r2yv38za8o48eivrahjf05959fh2csg.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_8687-rhu8k99pyz3r2yv38za8o48eivrahjf05959fh2csg.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_8689-1-rhu8k8bvs52grcwgegvm3mgxxhvx9ub9t4hry73qyo.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_8682-1-rhu8k8bvs52grcwgegvm3mgxxhvx9ub9t4hry73qyo.webp"
+  ],
+  "totalImages": 5,
+  "url": "https://svintermed.com.br/veiculos/vw-tera-high/",
+  "warnings": [
+    "Imagens fora da galeria principal foram ignoradas."
+  ],
+  "errors": []
+}

@@ -1,0 +1,17 @@
+{
+  "collectedAt": "2026-03-30T00:51:00.203Z",
+  "description": "RAM Rampage Laramie 26/26 - 26/26 Para Refaturar CNPJ nas cores Branca e Prata",
+  "extractionMode": "playwright",
+  "folderName": "RAM Rampage Laramie 2626__ram-rampage-laramie-26-26",
+  "name": "RAM Rampage Laramie 26/26",
+  "pageTitle": "RAM Rampage Laramie 26/26 - R$ 227.990, - Sinal Verde Intermediações - atendendo lojistas de todo Brasil",
+  "price": "R$ 227.990,",
+  "savedFiles": [],
+  "sourceImageUrls": [],
+  "totalImages": 0,
+  "url": "https://svintermed.com.br/veiculos/ram-rampage-laramie-26-26/",
+  "warnings": [
+    "Galeria principal ausente; imagens de veiculos relacionados foram ignoradas."
+  ],
+  "errors": []
+}

@@ -1,0 +1,25 @@
+{
+  "collectedAt": "2026-03-30T00:54:44.058Z",
+  "description": "GM S10 Z71 - Venda Direta CNPJ, fatura área livre",
+  "extractionMode": "playwright",
+  "folderName": "GM S10 Z71__gm-s10-z71",
+  "name": "GM S10 Z71",
+  "pageTitle": "GM S10 Z71 - R$ 268.290, - Sinal Verde Intermediações - atendendo lojistas de todo Brasil",
+  "price": "R$ 268.290,",
+  "savedFiles": [
+    "01.webp",
+    "02.webp",
+    "03.webp"
+  ],
+  "sourceImageUrls": [
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_8555-1-rhnl7segubt3marjdgpkzgbmwx8geimthozus0sev4.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_8554-rhnl7segubt3marjdgpkzgbmwx8geimthozus0sev4.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_8553-rhnl7tcb15udxwq67z47jy33ib3tm7qjttnc9ar0ow.webp"
+  ],
+  "totalImages": 3,
+  "url": "https://svintermed.com.br/veiculos/gm-s10-z71/",
+  "warnings": [
+    "Imagens fora da galeria principal foram ignoradas."
+  ],
+  "errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "collectedAt": "2026-03-30T00:51:44.418Z",
+  "description": "BYD Song Plus 2027 - 2027 Motor Novo 1.5T fatura PF/PJ SP",
+  "extractionMode": "playwright",
+  "folderName": "BYD Song Plus 2027__byd-song-plus-2027",
+  "name": "BYD Song Plus 2027",
+  "pageTitle": "BYD Song Plus 2027 - R$ 241.990, - Sinal Verde Intermediações - atendendo lojistas de todo Brasil",
+  "price": "R$ 241.990,",
+  "savedFiles": [
+    "01.webp",
+    "02.webp",
+    "03.webp",
+    "04.webp",
+    "05.webp",
+    "06.webp",
+    "07.webp",
+    "08.webp",
+    "09.webp",
+    "10.webp"
+  ],
+  "sourceImageUrls": [
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_8988-rjz582yxrqbgy7z5soalka2j7m0p0hniezfo8knneo.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_8978-rjz582yxrqbgy7z5soalka2j7m0p0hniezfo8knneo.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_8973-rjz582yxrqbgy7z5soalka2j7m0p0hniezfo8knneo.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_9518-1-rjz58139e28wb01w3nhcfajm0u9yl3g1qq4pa0qfr4.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_8981-rjz58139e28wb01w3nhcfajm0u9yl3g1qq4pa0qfr4.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_8983-rjz58213kwa6mm0iy5vyzsb2m85bssjs2us6rap1kw.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_8982-rjz58213kwa6mm0iy5vyzsb2m85bssjs2us6rap1kw.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_8984-rjz58213kwa6mm0iy5vyzsb2m85bssjs2us6rap1kw.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_8989-rjz58213kwa6mm0iy5vyzsb2m85bssjs2us6rap1kw.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_8990-rjz582yxrqbgy7z5soalka2j7m0p0hniezfo8knneo.webp"
+  ],
+  "totalImages": 10,
+  "url": "https://svintermed.com.br/veiculos/byd-song-plus-2027/",
+  "warnings": [
+    "Imagens fora da galeria principal foram ignoradas."
+  ],
+  "errors": []
+}

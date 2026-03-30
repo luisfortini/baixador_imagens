@@ -1,0 +1,43 @@
+{
+  "collectedAt": "2026-03-30T00:54:56.165Z",
+  "description": "GM Tracker LT - Oferta válida para faturar PF/PJ na cor Branca",
+  "extractionMode": "playwright",
+  "folderName": "GM Tracker LT__gm-tracker-lt",
+  "name": "GM Tracker LT",
+  "pageTitle": "GM Tracker LT - R$ 127.290, - Sinal Verde Intermediações - atendendo lojistas de todo Brasil",
+  "price": "R$ 127.290,",
+  "savedFiles": [
+    "01.webp",
+    "02.webp",
+    "03.webp",
+    "04.webp",
+    "05.webp",
+    "06.webp",
+    "07.webp",
+    "08.webp",
+    "09.webp",
+    "10.webp",
+    "11.webp",
+    "12.webp"
+  ],
+  "sourceImageUrls": [
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_8523-rhmcd8ydqxmherz35kj44vkm2n3iyt0rign75uomkg.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_8526-rhmcd8ydqxmherz35kj44vkm2n3iyt0rign75uomkg.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_8524-rhmcd8ydqxmherz35kj44vkm2n3iyt0rign75uomkg.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_8521-1-rhmcd64v6fimfy36m1b8fea8ahhfbppki2oqq0st34.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_8519-rhmcd72pd9jwrk1tgjpuzw1ovvcsjetau7c87areww.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_8518-rhmcd72pd9jwrk1tgjpuzw1ovvcsjetau7c87areww.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_8530-rhmcd72pd9jwrk1tgjpuzw1ovvcsjetau7c87areww.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_8529-rhmcd72pd9jwrk1tgjpuzw1ovvcsjetau7c87areww.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_8528-rhmcd80jk3l7360gb24hkdt5h985r3x16bzpokq0qo.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_8527-rhmcd80jk3l7360gb24hkdt5h985r3x16bzpokq0qo.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_8522-rhmcd80jk3l7360gb24hkdt5h985r3x16bzpokq0qo.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_8525-rhmcd80jk3l7360gb24hkdt5h985r3x16bzpokq0qo.webp"
+  ],
+  "totalImages": 12,
+  "url": "https://svintermed.com.br/veiculos/gm-tracker-lt/",
+  "warnings": [
+    "Imagens fora da galeria principal foram ignoradas."
+  ],
+  "errors": []
+}

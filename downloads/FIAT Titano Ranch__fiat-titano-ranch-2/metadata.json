@@ -1,0 +1,33 @@
+{
+  "collectedAt": "2026-03-30T00:53:01.741Z",
+  "description": "FIAT Titano Ranch - Oferta válida para refaturar CNPJ ou Produtor Rural",
+  "extractionMode": "playwright",
+  "folderName": "FIAT Titano Ranch__fiat-titano-ranch-2",
+  "name": "FIAT Titano Ranch",
+  "pageTitle": "FIAT Titano Ranch - R$ 225.490, - Sinal Verde Intermediações - atendendo lojistas de todo Brasil",
+  "price": "R$ 225.490,",
+  "savedFiles": [
+    "01.webp",
+    "02.webp",
+    "03.webp",
+    "04.webp",
+    "05.webp",
+    "06.webp",
+    "07.webp"
+  ],
+  "sourceImageUrls": [
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_8883-ri87tyj988veapw2lgfi16fj9jwtz3fqfjviwprnsw.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_8882-ri87tyj988veapw2lgfi16fj9jwtz3fqfjviwprnsw.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_8885-ri87tzh3f2wombupfyu4lo6zuxs76sjgroj0dzq9mo.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_8888-1-ri87txlf1eu3z3xfqy0vgoo2o61grec03f81fft1z4.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_8884-ri87txlf1eu3z3xfqy0vgoo2o61grec03f81fft1z4.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_8887-ri87tyj988veapw2lgfi16fj9jwtz3fqfjviwprnsw.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_8886-ri87tyj988veapw2lgfi16fj9jwtz3fqfjviwprnsw.webp"
+  ],
+  "totalImages": 7,
+  "url": "https://svintermed.com.br/veiculos/fiat-titano-ranch-2/",
+  "warnings": [
+    "Imagens fora da galeria principal foram ignoradas."
+  ],
+  "errors": []
+}

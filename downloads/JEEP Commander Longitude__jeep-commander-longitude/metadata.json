@@ -1,0 +1,31 @@
+{
+  "collectedAt": "2026-03-30T00:56:20.286Z",
+  "description": "JEEP Commander Longitude - Refaturamento para CPF, nas cores: branca, cinza granite e preto",
+  "extractionMode": "playwright",
+  "folderName": "JEEP Commander Longitude__jeep-commander-longitude",
+  "name": "JEEP Commander Longitude",
+  "pageTitle": "JEEP Commander Longitude - R$ 194.890 - Sinal Verde Intermediações - atendendo lojistas de todo Brasil",
+  "price": "R$ 194.890",
+  "savedFiles": [
+    "01.webp",
+    "02.webp",
+    "03.webp",
+    "04.webp",
+    "05.webp",
+    "06.webp"
+  ],
+  "sourceImageUrls": [
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_8014-rhbudmyqq5tx6pse1lsxkpkfmta2irqzb1ig6itoao.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_8012-rhbudnwkwzv7ibr0w47k57bw875fqgupn65xnssa4g.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_8167-1-rhfbm8nu53rnsmshyz29xha42oy8djl86jxabnvgw0.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_8010-rhbudmyqq5tx6pse1lsxkpkfmta2irqzb1ig6itoao.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_8013-rhbudmyqq5tx6pse1lsxkpkfmta2irqzb1ig6itoao.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_8011-rhbudmyqq5tx6pse1lsxkpkfmta2irqzb1ig6itoao.webp"
+  ],
+  "totalImages": 6,
+  "url": "https://svintermed.com.br/veiculos/jeep-commander-longitude/",
+  "warnings": [
+    "Imagens fora da galeria principal foram ignoradas."
+  ],
+  "errors": []
+}

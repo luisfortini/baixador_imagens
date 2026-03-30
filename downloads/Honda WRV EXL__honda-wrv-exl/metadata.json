@@ -1,0 +1,33 @@
+{
+  "collectedAt": "2026-03-30T00:52:40.348Z",
+  "description": "Honda WRV EXL - 26-26 AF CNPJ, Pronto Faturamento! nas cores Azul Aurora, Prata, Preta, Basalto e Branco Topazio",
+  "extractionMode": "playwright",
+  "folderName": "Honda WRV EXL__honda-wrv-exl",
+  "name": "Honda WRV EXL",
+  "pageTitle": "Honda WRV EXL - R$ 148.490, - Sinal Verde Intermediações - atendendo lojistas de todo Brasil",
+  "price": "R$ 148.490,",
+  "savedFiles": [
+    "01.webp",
+    "02.webp",
+    "03.webp",
+    "04.webp",
+    "05.webp",
+    "06.webp",
+    "07.webp"
+  ],
+  "sourceImageUrls": [
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_9025-rim2gkzjonx7tplwk7n2owg2rlkm9h62qw1qgc76tc.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_9030-rim2glxdvhyi5bkjeq1p9e7jczfzh69t30p7xm5sn4.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_9026-rim2glxdvhyi5bkjeq1p9e7jczfzh69t30p7xm5sn4.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_9032-1-rim2gk1phtvxi3n9pp8g4eom67p91s2cere8z28kzk.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_9029-rim2gk1phtvxi3n9pp8g4eom67p91s2cere8z28kzk.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_9031-rim2gkzjonx7tplwk7n2owg2rlkm9h62qw1qgc76tc.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_9027-rim2gkzjonx7tplwk7n2owg2rlkm9h62qw1qgc76tc.webp"
+  ],
+  "totalImages": 7,
+  "url": "https://svintermed.com.br/veiculos/honda-wrv-exl/",
+  "warnings": [
+    "Imagens fora da galeria principal foram ignoradas."
+  ],
+  "errors": []
+}

@@ -1,0 +1,37 @@
+{
+  "collectedAt": "2026-03-30T00:55:57.283Z",
+  "description": "GM Montana Premier - Oferta para Veículo 26/26 VENDA DIRETA CNPJ ou RURAL FAT ÁREA LIVRE, na cor branca",
+  "extractionMode": "playwright",
+  "folderName": "GM Montana Premier__gm-montana-premier-2",
+  "name": "GM Montana Premier",
+  "pageTitle": "GM Montana Premier - R$ 137.290, - Sinal Verde Intermediações - atendendo lojistas de todo Brasil",
+  "price": "R$ 137.290,",
+  "savedFiles": [
+    "01.webp",
+    "02.webp",
+    "03.webp",
+    "04.webp",
+    "05.webp",
+    "06.webp",
+    "07.webp",
+    "08.webp",
+    "09.webp"
+  ],
+  "sourceImageUrls": [
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_8135-rhf7zar82yiog6zpkvg930tgzcch3grcig98l00tog.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_8132-rhf7zbp29sjyrsycfduvnikxkq7ub5v2ukwq29zfi8.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_8129-rhf7zbp29sjyrsycfduvnikxkq7ub5v2ukwq29zfi8.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_8138-1-rhf7z9tdw4he4l12qd1mij20dyh3vrnm6blr3q27uo.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_8137-rhf7z9tdw4he4l12qd1mij20dyh3vrnm6blr3q27uo.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_8136-rhf7z9tdw4he4l12qd1mij20dyh3vrnm6blr3q27uo.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_8130-rhf7zar82yiog6zpkvg930tgzcch3grcig98l00tog.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_8134-rhf7zar82yiog6zpkvg930tgzcch3grcig98l00tog.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_8131-rhf7zar82yiog6zpkvg930tgzcch3grcig98l00tog.webp"
+  ],
+  "totalImages": 9,
+  "url": "https://svintermed.com.br/veiculos/gm-montana-premier-2/",
+  "warnings": [
+    "Imagens fora da galeria principal foram ignoradas."
+  ],
+  "errors": []
+}

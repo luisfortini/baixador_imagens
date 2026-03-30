@@ -1,0 +1,41 @@
+{
+  "collectedAt": "2026-03-30T00:54:53.530Z",
+  "description": "GM Montana RS - Oferta válida para Venda Direta CNPJ, fatura área livre",
+  "extractionMode": "playwright",
+  "folderName": "GM Montana RS__gm-montana-rs",
+  "name": "GM Montana RS",
+  "pageTitle": "GM Montana RS - R$ 140.990, - Sinal Verde Intermediações - atendendo lojistas de todo Brasil",
+  "price": "R$ 140.990,",
+  "savedFiles": [
+    "01.webp",
+    "02.webp",
+    "03.webp",
+    "04.webp",
+    "05.webp",
+    "06.webp",
+    "07.webp",
+    "08.webp",
+    "09.webp",
+    "10.webp",
+    "11.webp"
+  ],
+  "sourceImageUrls": [
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_8512-rhm8e19mgnkqhm00f5yfqilbs6z96zh1hmcxv510lc.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_8505-rhm8e19mgnkqhm00f5yfqilbs6z96zh1hmcxv510lc.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_8506-rhm8e27gnhm0t7yn9od2b0csdkumeokrtr0fcezmf4.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_8515-1-rhm8dzdy2zi5ue2qq556lj2elf8irl9ktd1ywl3sxs.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_8511-rhm8dzdy2zi5ue2qq556lj2elf8irl9ktd1ywl3sxs.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_8513-rhm8e0bs9tjg601dknjt60tv6t3vzadb5hpgdv2erk.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_8508-rhm8e0bs9tjg601dknjt60tv6t3vzadb5hpgdv2erk.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_8514-rhm8e0bs9tjg601dknjt60tv6t3vzadb5hpgdv2erk.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_8509-rhm8e0bs9tjg601dknjt60tv6t3vzadb5hpgdv2erk.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_8510-rhm8e19mgnkqhm00f5yfqilbs6z96zh1hmcxv510lc.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_8507-rhm8e19mgnkqhm00f5yfqilbs6z96zh1hmcxv510lc.webp"
+  ],
+  "totalImages": 11,
+  "url": "https://svintermed.com.br/veiculos/gm-montana-rs/",
+  "warnings": [
+    "Imagens fora da galeria principal foram ignoradas."
+  ],
+  "errors": []
+}

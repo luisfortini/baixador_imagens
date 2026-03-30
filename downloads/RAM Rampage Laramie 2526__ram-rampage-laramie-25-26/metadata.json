@@ -1,0 +1,31 @@
+{
+  "collectedAt": "2026-03-30T00:51:56.261Z",
+  "description": "RAM Rampage Laramie 25/26 - 25/26 FR Liberado! << na cor Prata",
+  "extractionMode": "playwright",
+  "folderName": "RAM Rampage Laramie 2526__ram-rampage-laramie-25-26",
+  "name": "RAM Rampage Laramie 25/26",
+  "pageTitle": "RAM Rampage Laramie 25/26 - R$ 226.790, - Sinal Verde Intermediações - atendendo lojistas de todo Brasil",
+  "price": "R$ 226.790,",
+  "savedFiles": [
+    "01.webp",
+    "02.webp",
+    "03.webp",
+    "04.webp",
+    "05.webp",
+    "06.webp"
+  ],
+  "sourceImageUrls": [
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/715b596c-e992-41f3-afb3-7cfdb017cd09-rkg97q77rh3seam4lpwhttzfbn33x0fea8k4n2lu80.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/fec85600-d883-4258-a019-df2b22820c82-rkg97q77rh3seam4lpwhttzfbn33x0fea8k4n2lu80.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/d0bef4b9-e959-4b10-a899-4573865dc01d-1-rkg97q77rh3seam4lpwhttzfbn33x0fea8k4n2lu80.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/f72d0428-818d-490a-90f2-7d69670f3912-rkg97p9dkn2i2onhr7hv9c7yq97qpbbny3wn5sn8e8.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/c84f1437-1e8b-40ca-95ef-90df1c7b7dd7-rkg97p9dkn2i2onhr7hv9c7yq97qpbbny3wn5sn8e8.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/0047ce55-d2f0-4e5f-8662-3d0dce86c565-rkg97p9dkn2i2onhr7hv9c7yq97qpbbny3wn5sn8e8.webp"
+  ],
+  "totalImages": 6,
+  "url": "https://svintermed.com.br/veiculos/ram-rampage-laramie-25-26/",
+  "warnings": [
+    "Imagens fora da galeria principal foram ignoradas."
+  ],
+  "errors": []
+}

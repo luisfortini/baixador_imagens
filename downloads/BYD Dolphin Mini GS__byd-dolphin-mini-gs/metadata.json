@@ -1,0 +1,39 @@
+{
+  "collectedAt": "2026-03-30T00:57:06.000Z",
+  "description": "BYD Dolphin Mini GS - A Faturar PF/PJ",
+  "extractionMode": "playwright",
+  "folderName": "BYD Dolphin Mini GS__byd-dolphin-mini-gs",
+  "name": "BYD Dolphin Mini GS",
+  "pageTitle": "BYD Dolphin Mini GS - R$ 115.690, - Sinal Verde Intermediações - atendendo lojistas de todo Brasil",
+  "price": "R$ 115.690,",
+  "savedFiles": [
+    "01.webp",
+    "02.webp",
+    "03.webp",
+    "04.webp",
+    "05.webp",
+    "06.webp",
+    "07.webp",
+    "08.webp",
+    "09.webp",
+    "10.webp"
+  ],
+  "sourceImageUrls": [
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/99d0ad60-bfa0-425f-8297-50b193159df9-rgfjuaz9kwieur6nfmx848xsmf67tduwy6cs5y7nsw.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/ea8c25d0-ba02-4613-b805-740cd99fc55d-rgfjubx3rqjp6d5aa5buoqp97t1l12ynab09n869mo.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/1c8b5d7f-fff1-430c-a73f-f3c2e773da56-rgfjubx3rqjp6d5aa5buoqp97t1l12ynab09n869mo.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_8232-rhg3ea4bamqxxg6dfqw37mfs9lvmoqoioalgan3qyo.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/cccf7371-4d94-48b7-9e96-8d20b82431b2-rgfjua1fe2h4j580l4iljr6c11aulor6m1paoo91z4.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/408aa87e-7e2b-4665-a129-4a82657d68ec-rgfjua1fe2h4j580l4iljr6c11aulor6m1paoo91z4.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/0d952f4a-f093-4506-9c9f-61e193dbb6ed-rgfjua1fe2h4j580l4iljr6c11aulor6m1paoo91z4.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/7f09034b-41f0-4de6-add7-d3feb8e05407-rgfjuaz9kwieur6nfmx848xsmf67tduwy6cs5y7nsw.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/cfd47330-f041-4956-aaa7-1568bd946405-rgfjuaz9kwieur6nfmx848xsmf67tduwy6cs5y7nsw.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/df7bae54-7119-4a07-b66c-3de1ee54a7da-1-rgfjuaz9kwieur6nfmx848xsmf67tduwy6cs5y7nsw.webp"
+  ],
+  "totalImages": 10,
+  "url": "https://svintermed.com.br/veiculos/byd-dolphin-mini-gs/",
+  "warnings": [
+    "Imagens fora da galeria principal foram ignoradas."
+  ],
+  "errors": []
+}

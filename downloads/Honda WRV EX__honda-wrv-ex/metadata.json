@@ -1,0 +1,35 @@
+{
+  "collectedAt": "2026-03-30T00:52:38.340Z",
+  "description": "Honda WRV EX - 26-26 AF CNPJ Pronto Faturamento! Oferta valida para cor Cinza Basalto",
+  "extractionMode": "playwright",
+  "folderName": "Honda WRV EX__honda-wrv-ex",
+  "name": "Honda WRV EX",
+  "pageTitle": "Honda WRV EX - R$ 143.290, - Sinal Verde Intermediações - atendendo lojistas de todo Brasil",
+  "price": "R$ 143.290,",
+  "savedFiles": [
+    "01.webp",
+    "02.webp",
+    "03.webp",
+    "04.webp",
+    "05.webp",
+    "06.webp",
+    "07.webp",
+    "08.webp"
+  ],
+  "sourceImageUrls": [
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_9041-rimgehv30x059ujuqo0flqttxhpff4q9f4oiqe0abk.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_9038-rimgehv30x059ujuqo0flqttxhpff4q9f4oiqe0abk.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_9037-rimgehv30x059ujuqo0flqttxhpff4q9f4oiqe0abk.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_9044-1-rimgegx8u2yuy8l7w5lt192dc3u27fmj3011941ohs.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_9042-rimgegx8u2yuy8l7w5lt192dc3u27fmj3011941ohs.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_9040-rimgegx8u2yuy8l7w5lt192dc3u27fmj3011941ohs.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_9043-rimgegx8u2yuy8l7w5lt192dc3u27fmj3011941ohs.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_9039-rimgehv30x059ujuqo0flqttxhpff4q9f4oiqe0abk.webp"
+  ],
+  "totalImages": 8,
+  "url": "https://svintermed.com.br/veiculos/honda-wrv-ex/",
+  "warnings": [
+    "Imagens fora da galeria principal foram ignoradas."
+  ],
+  "errors": []
+}

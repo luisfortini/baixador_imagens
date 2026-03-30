@@ -1,0 +1,39 @@
+{
+  "collectedAt": "2026-03-30T00:50:27.367Z",
+  "description": "Fiat Toro Ranch - 26/26 FR Liberado, chão nas cores Sting, Granite e Branca",
+  "extractionMode": "playwright",
+  "folderName": "Fiat Toro Ranch__fiat-toro-ranch-2",
+  "name": "Fiat Toro Ranch",
+  "pageTitle": "Fiat Toro Ranch - R$ 189.990, - Sinal Verde Intermediações - atendendo lojistas de todo Brasil",
+  "price": "R$ 189.990,",
+  "savedFiles": [
+    "01.webp",
+    "02.webp",
+    "03.webp",
+    "04.webp",
+    "05.webp",
+    "06.webp",
+    "07.webp",
+    "08.webp",
+    "09.webp",
+    "10.webp"
+  ],
+  "sourceImageUrls": [
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_9981-1-rknzsazu4zgzppjnr4l2vnmi7ji4qe6or36p6f4ugw.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_9984-rknzsazu4zgzppjnr4l2vnmi7ji4qe6or36p6f4ugw.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_9968-2-rknzsazu4zgzppjnr4l2vnmi7ji4qe6or36p6f4ugw.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_9979-rknzs945rbef2hme23rtqo3l0rreazz82tvq7v7mtc.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_9975-rknzs945rbef2hme23rtqo3l0rreazz82tvq7v7mtc.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_9972-1-rknzsa1zy5fpe3l0wm6gb5v1m5mrip2yeyj7p568n4.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_9974-1-rknzsa1zy5fpe3l0wm6gb5v1m5mrip2yeyj7p568n4.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_9977-1-rknzsa1zy5fpe3l0wm6gb5v1m5mrip2yeyj7p568n4.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_9980-1-rknzsa1zy5fpe3l0wm6gb5v1m5mrip2yeyj7p568n4.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_9983-rknzsa1zy5fpe3l0wm6gb5v1m5mrip2yeyj7p568n4.webp"
+  ],
+  "totalImages": 10,
+  "url": "https://svintermed.com.br/veiculos/fiat-toro-ranch-2/",
+  "warnings": [
+    "Imagens fora da galeria principal foram ignoradas."
+  ],
+  "errors": []
+}

@@ -1,0 +1,31 @@
+{
+  "collectedAt": "2026-03-30T00:56:16.634Z",
+  "description": "FIAT Fastback T200 - A Faturar PF/PJ válido para cor Prata",
+  "extractionMode": "playwright",
+  "folderName": "FIAT Fastback T200__fiat-fastback-t200",
+  "name": "FIAT Fastback T200",
+  "pageTitle": "FIAT Fastback T200 - R$ 109.990 - Sinal Verde Intermediações - atendendo lojistas de todo Brasil",
+  "price": "R$ 109.990",
+  "savedFiles": [
+    "01.webp",
+    "02.webp",
+    "03.webp",
+    "04.webp",
+    "05.webp",
+    "06.webp"
+  ],
+  "sourceImageUrls": [
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_8034-rhbxrux9dn54te97cxpkad94bgv8dxyifzabmrlt8g.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_8035-rhbxrvv3kh6f507u7g46uv0kwuqlln28s3xt41kf28.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_8036-rhbxrvv3kh6f507u7g46uv0kwuqlln28s3xt41kf28.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_8165-1-rhfbgu38uedb1cn4j4yi3cdp3xl9474sfsvrzdvyo0.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_8032-rhbxrux9dn54te97cxpkad94bgv8dxyifzabmrlt8g.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_8033-rhbxrvv3kh6f507u7g46uv0kwuqlln28s3xt41kf28.webp"
+  ],
+  "totalImages": 6,
+  "url": "https://svintermed.com.br/veiculos/fiat-fastback-t200/",
+  "warnings": [
+    "Imagens fora da galeria principal foram ignoradas."
+  ],
+  "errors": []
+}

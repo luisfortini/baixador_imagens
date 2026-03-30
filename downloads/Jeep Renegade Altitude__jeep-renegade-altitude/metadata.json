@@ -1,0 +1,31 @@
+{
+  "collectedAt": "2026-03-30T00:52:26.755Z",
+  "description": "Jeep Renegade Altitude - 25/26 Refaturamento CPF área livre válido na cor preta",
+  "extractionMode": "playwright",
+  "folderName": "Jeep Renegade Altitude__jeep-renegade-altitude",
+  "name": "Jeep Renegade Altitude",
+  "pageTitle": "Jeep Renegade Altitude - R$ 122.990, - Sinal Verde Intermediações - atendendo lojistas de todo Brasil",
+  "price": "R$ 122.990,",
+  "savedFiles": [
+    "01.webp",
+    "02.webp",
+    "03.webp",
+    "04.webp",
+    "05.webp",
+    "06.webp"
+  ],
+  "sourceImageUrls": [
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/f7a03398-8a25-44f0-a52b-bfb3f17196db-rj1heuycx6oe6k1ogfkb1yapyd6symjju6h0q47jgg.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/1cdc43a1-50e9-4c75-ad98-30a5a84c18ca-rj1heuycx6oe6k1ogfkb1yapyd6symjju6h0q47jgg.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/0304384a-cbbc-4349-9e35-7d5897073d4a-rj1heuycx6oe6k1ogfkb1yapyd6symjju6h0q47jgg.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_9157-1-rj1heu0iqcn3uy31lx5ohgj9czbfqxfti1tj8u8xmo.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/4738a9ba-3538-4a59-9400-6fefbec8c7d4-rj1heu0iqcn3uy31lx5ohgj9czbfqxfti1tj8u8xmo.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/fbb796e5-bbd1-4bde-bc9f-14796a6297c5-rj1heu0iqcn3uy31lx5ohgj9czbfqxfti1tj8u8xmo.webp"
+  ],
+  "totalImages": 6,
+  "url": "https://svintermed.com.br/veiculos/jeep-renegade-altitude/",
+  "warnings": [
+    "Imagens fora da galeria principal foram ignoradas."
+  ],
+  "errors": []
+}

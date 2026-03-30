@@ -1,0 +1,39 @@
+{
+  "collectedAt": "2026-03-30T00:52:27.864Z",
+  "description": "Honda HRV EX 26-26 - 26-26 AF CNPJ, Pronto Faturamento, disponivel nas cores Cinza Basalto, Prata, Azul e Preta",
+  "extractionMode": "playwright",
+  "folderName": "Honda HRV EX 26-26__honda-hrv-ex-26-26",
+  "name": "Honda HRV EX 26-26",
+  "pageTitle": "Honda HRV EX 26-26 - R$ 155.790, - Sinal Verde Intermediações - atendendo lojistas de todo Brasil",
+  "price": "R$ 155.790,",
+  "savedFiles": [
+    "01.webp",
+    "02.webp",
+    "03.webp",
+    "04.webp",
+    "05.webp",
+    "06.webp",
+    "07.webp",
+    "08.webp",
+    "09.webp",
+    "10.webp"
+  ],
+  "sourceImageUrls": [
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_9082-riogg23kg7e8039a5qy1h9ogrida1ozoo2jgzsi9ts.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_9081-riogg23kg7e8039a5qy1h9ogrida1ozoo2jgzsi9ts.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_9087-riogg23kg7e8039a5qy1h9ogrida1ozoo2jgzsi9ts.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_9090-1-riogg15q9dcxohanb8jewrx064hwtzvybxvziijo00.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_9089-riogg15q9dcxohanb8jewrx064hwtzvybxvziijo00.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_9088-riogg15q9dcxohanb8jewrx064hwtzvybxvziijo00.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_9084-riogg15q9dcxohanb8jewrx064hwtzvybxvziijo00.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_9086-riogg15q9dcxohanb8jewrx064hwtzvybxvziijo00.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_9083-riogg23kg7e8039a5qy1h9ogrida1ozoo2jgzsi9ts.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_9085-riogg23kg7e8039a5qy1h9ogrida1ozoo2jgzsi9ts.webp"
+  ],
+  "totalImages": 10,
+  "url": "https://svintermed.com.br/veiculos/honda-hrv-ex-26-26/",
+  "warnings": [
+    "Imagens fora da galeria principal foram ignoradas."
+  ],
+  "errors": []
+}

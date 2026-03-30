@@ -1,0 +1,31 @@
+{
+  "collectedAt": "2026-03-30T00:54:42.337Z",
+  "description": "Ford Ranger Raptor - A Faturar CPF com IPVA ISENTO 2026 na cor Azul",
+  "extractionMode": "playwright",
+  "folderName": "Ford Ranger Raptor__ford-ranger-raptor-3",
+  "name": "Ford Ranger Raptor",
+  "pageTitle": "Ford Ranger Raptor - R$ 467.690, - Sinal Verde Intermediações - atendendo lojistas de todo Brasil",
+  "price": "R$ 467.690,",
+  "savedFiles": [
+    "01.webp",
+    "02.webp",
+    "03.webp",
+    "04.webp",
+    "05.webp",
+    "06.webp"
+  ],
+  "sourceImageUrls": [
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_8569-rhoucawwgfn90v2fco3jaigqoe7liluc6ajzpw3t4w.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_8571-rhoucbuqn9ojch1276i5v0879s2yqay2if7h762eyo.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_8572-rhoucbuqn9ojch1276i5v0879s2yqay2if7h762eyo.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_8574-1-rhoucawwgfn90v2fco3jaigqoe7liluc6ajzpw3t4w.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_8573-rhoucawwgfn90v2fco3jaigqoe7liluc6ajzpw3t4w.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_8570-rhoucawwgfn90v2fco3jaigqoe7liluc6ajzpw3t4w.webp"
+  ],
+  "totalImages": 6,
+  "url": "https://svintermed.com.br/veiculos/ford-ranger-raptor-3/",
+  "warnings": [
+    "Imagens fora da galeria principal foram ignoradas."
+  ],
+  "errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "collectedAt": "2026-03-30T00:57:44.113Z",
+  "description": "Fiat Strada Ranch - Oferta válida para faturar PF/PJ na cor: Preta",
+  "extractionMode": "playwright",
+  "folderName": "Fiat Strada Ranch__fiat-strada-ranch",
+  "name": "Fiat Strada Ranch",
+  "pageTitle": "Fiat Strada Ranch - R$ 131.790, - Sinal Verde Intermediações - atendendo lojistas de todo Brasil",
+  "price": "R$ 131.790,",
+  "savedFiles": [
+    "01.webp",
+    "02.webp",
+    "03.webp",
+    "04.webp",
+    "05.webp",
+    "06.webp",
+    "07.webp",
+    "08.webp",
+    "09.webp",
+    "10.webp"
+  ],
+  "sourceImageUrls": [
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_7213-rg248e6okjnm0g1v33umaktz0ueoevpvz48w1k27gg.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_7212-1-rg248e6okjnm0g1v33umaktz0ueoevpvz48w1k27gg.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_7218-rg248e6okjnm0g1v33umaktz0ueoevpvz48w1k27gg.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_7215-rg248cb06vl1d84le31d5lb1u2nxzhifauxx304zsw.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_7217-rg248cb06vl1d84le31d5lb1u2nxzhifauxx304zsw.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_7220-rg248cb06vl1d84le31d5lb1u2nxzhifauxx304zsw.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_7214-rg248d8udpmbou388lfzq32ifgjb76m5mzleka3lmo.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_7219-rg248d8udpmbou388lfzq32ifgjb76m5mzleka3lmo.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_7216-rg248d8udpmbou388lfzq32ifgjb76m5mzleka3lmo.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_7221-rg248e6okjnm0g1v33umaktz0ueoevpvz48w1k27gg.webp"
+  ],
+  "totalImages": 10,
+  "url": "https://svintermed.com.br/veiculos/fiat-strada-ranch/",
+  "warnings": [
+    "Imagens fora da galeria principal foram ignoradas."
+  ],
+  "errors": []
+}

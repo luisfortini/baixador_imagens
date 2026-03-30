@@ -1,0 +1,35 @@
+{
+  "collectedAt": "2026-03-30T00:55:26.005Z",
+  "description": "Jeep Compass S - Oferta válida para Refaturamento em CNPJ disponível na cor preta",
+  "extractionMode": "playwright",
+  "folderName": "Jeep Compass S__jeep-compass-s",
+  "name": "Jeep Compass S",
+  "pageTitle": "Jeep Compass S - R$ 195.390, - Sinal Verde Intermediações - atendendo lojistas de todo Brasil",
+  "price": "R$ 195.390,",
+  "savedFiles": [
+    "01.webp",
+    "02.webp",
+    "03.webp",
+    "04.webp",
+    "05.webp",
+    "06.webp",
+    "07.webp",
+    "08.webp"
+  ],
+  "sourceImageUrls": [
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_8404-rhi5fvpihtr4fu8t7gtdogv61ph687xdhsd1mgsjls.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_8400-rhi5fvpihtr4fu8t7gtdogv61ph687xdhsd1mgsjls.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_8401-rhi5fvpihtr4fu8t7gtdogv61ph687xdhsd1mgsjls.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_8407-1-rhi5fttu45ojsmbjig04jhc8uxqfstpwtj22nwvby8.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_8406-rhi5furoazpu48a6cyer3z3pgblt0itn5npk56txs0.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_8403-rhi5furoazpu48a6cyer3z3pgblt0itn5npk56txs0.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_8405-rhi5furoazpu48a6cyer3z3pgblt0itn5npk56txs0.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_8402-rhi5furoazpu48a6cyer3z3pgblt0itn5npk56txs0.webp"
+  ],
+  "totalImages": 8,
+  "url": "https://svintermed.com.br/veiculos/jeep-compass-s/",
+  "warnings": [
+    "Imagens fora da galeria principal foram ignoradas."
+  ],
+  "errors": []
+}

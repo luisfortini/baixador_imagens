@@ -1,0 +1,35 @@
+{
+  "collectedAt": "2026-03-30T00:56:51.324Z",
+  "description": "VW Polo Highline 26/26 - 26/26 A Faturar PF/PJ na cor: Cinza",
+  "extractionMode": "playwright",
+  "folderName": "VW Polo Highline 2626__vw-polo-highline-2",
+  "name": "VW Polo Highline 26/26",
+  "pageTitle": "VW Polo Highline 26/26 - R$ 115.990, - Sinal Verde Intermediações - atendendo lojistas de todo Brasil",
+  "price": "R$ 115.990,",
+  "savedFiles": [
+    "01.webp",
+    "02.webp",
+    "03.webp",
+    "04.webp",
+    "05.webp",
+    "06.webp",
+    "07.webp",
+    "08.webp"
+  ],
+  "sourceImageUrls": [
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_8025-rhbuzhpnmhqx4c1lfjvo1p18ubkahfibb7juv4f5mo.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_8028-rhbuzhpnmhqx4c1lfjvo1p18ubkahfibb7juv4f5mo.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_8027-rhbuzinhtbs7fy08a2aam6spfpfnp4m1nc7ccedrgg.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_8216-1-rhfg3ni3qwq9i0bxfqtx3qxoepdc6edv1gwz48joe8.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_8029-rhbuzinhtbs7fy08a2aam6spfpfnp4m1nc7ccedrgg.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_8024-rhbuzhpnmhqx4c1lfjvo1p18ubkahfibb7juv4f5mo.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_8030-rhbuzinhtbs7fy08a2aam6spfpfnp4m1nc7ccedrgg.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_8026-rhbuzhpnmhqx4c1lfjvo1p18ubkahfibb7juv4f5mo.webp"
+  ],
+  "totalImages": 8,
+  "url": "https://svintermed.com.br/veiculos/vw-polo-highline-2/",
+  "warnings": [
+    "Imagens fora da galeria principal foram ignoradas."
+  ],
+  "errors": []
+}

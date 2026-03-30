@@ -1,0 +1,39 @@
+{
+  "collectedAt": "2026-03-30T00:56:55.665Z",
+  "description": "Toyota SW4 Platinum 25/26 7 LUG - Chão! A Faturar PF/PJ na cor Cinza",
+  "extractionMode": "playwright",
+  "folderName": "Toyota SW4 Platinum 2526 7 LUG__toyota-sw4-platinum",
+  "name": "Toyota SW4 Platinum 25/26 7 LUG",
+  "pageTitle": "Toyota SW4 Platinum 25/26 7 LUG - R$ 383.990, - Sinal Verde Intermediações - atendendo lojistas de todo Brasil",
+  "price": "R$ 383.990,",
+  "savedFiles": [
+    "01.webp",
+    "02.webp",
+    "03.webp",
+    "04.webp",
+    "05.webp",
+    "06.webp",
+    "07.webp",
+    "08.webp",
+    "09.webp",
+    "10.webp"
+  ],
+  "sourceImageUrls": [
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_8693-1-rhu8wj1v73winp1dla8w80r1pz9sza4uhzrgzivbk0.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_8694-1-rhu8wjzpdxxszb00fsnisiiibd566z8ku4eygstxds.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_8691-1-rhu8wjzpdxxszb00fsnisiiibd566z8ku4eygstxds.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_8700-3-rhu8wi4109v8c32qqru9nizl4lefrl145v3zi8wpq8.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_8699-1-rhu8wi4109v8c32qqru9nizl4lefrl145v3zi8wpq8.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_8698-1-rhu8wi4109v8c32qqru9nizl4lefrl145v3zi8wpq8.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_8697-1-rhu8wi4109v8c32qqru9nizl4lefrl145v3zi8wpq8.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_8696-1-rhu8wj1v73winp1dla8w80r1pz9sza4uhzrgzivbk0.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_8692-1-rhu8wj1v73winp1dla8w80r1pz9sza4uhzrgzivbk0.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_8695-1-rhu8wj1v73winp1dla8w80r1pz9sza4uhzrgzivbk0.webp"
+  ],
+  "totalImages": 10,
+  "url": "https://svintermed.com.br/veiculos/toyota-sw4-platinum/",
+  "warnings": [
+    "Imagens fora da galeria principal foram ignoradas."
+  ],
+  "errors": []
+}

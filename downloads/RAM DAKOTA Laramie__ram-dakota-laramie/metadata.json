@@ -1,0 +1,29 @@
+{
+  "collectedAt": "2026-03-30T00:53:11.902Z",
+  "description": "RAM DAKOTA Laramie - Faturamento CNPJ",
+  "extractionMode": "playwright",
+  "folderName": "RAM DAKOTA Laramie__ram-dakota-laramie",
+  "name": "RAM DAKOTA Laramie",
+  "pageTitle": "RAM DAKOTA Laramie - R$ 295.790, - Sinal Verde Intermediações - atendendo lojistas de todo Brasil",
+  "price": "R$ 295.790,",
+  "savedFiles": [
+    "01.webp",
+    "02.webp",
+    "03.webp",
+    "04.webp",
+    "05.webp"
+  ],
+  "sourceImageUrls": [
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/cc6e8ae5-d3e7-4475-9913-44fd45d4b33c-ri14j5c64xcerm21h6eeay4cmu8zm1jyh9eepn2pts.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/7dc06a48-7283-4b98-bdc4-3406274682d5-ri14j5c64xcerm21h6eeay4cmu8zm1jyh9eepn2pts.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/8d1913d4-33f6-4054-9317-ba7248be9ddc-ri14j6a0brdp380obot0vfvt884ctqnote1w6x1bnk.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_8836-1-ri14j5c64xcerm21h6eeay4cmu8zm1jyh9eepn2pts.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/bcfc929a-1a62-4820-a57b-28d5bf64792d-ri14j5c64xcerm21h6eeay4cmu8zm1jyh9eepn2pts.webp"
+  ],
+  "totalImages": 5,
+  "url": "https://svintermed.com.br/veiculos/ram-dakota-laramie/",
+  "warnings": [
+    "Imagens fora da galeria principal foram ignoradas."
+  ],
+  "errors": []
+}

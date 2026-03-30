@@ -1,0 +1,35 @@
+{
+  "collectedAt": "2026-03-30T00:57:12.162Z",
+  "description": "Fiat Toro Volcano - Oferta para Refaturar CNPJ ou Rural, itens de série nas cores: branca e preta",
+  "extractionMode": "playwright",
+  "folderName": "Fiat Toro Volcano__fiat-toro-volcano",
+  "name": "Fiat Toro Volcano",
+  "pageTitle": "Fiat Toro Volcano - R$ 163.990, - Sinal Verde Intermediações - atendendo lojistas de todo Brasil",
+  "price": "R$ 163.990,",
+  "savedFiles": [
+    "01.webp",
+    "02.webp",
+    "03.webp",
+    "04.webp",
+    "05.webp",
+    "06.webp",
+    "07.webp",
+    "08.webp"
+  ],
+  "sourceImageUrls": [
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_7566-rgacmmj2bmect0y0fdfuxzdscu6ypzssbv0xbv7a68.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_7563-rgacmmj2bmect0y0fdfuxzdscu6ypzssbv0xbv7a68.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_8239-1-rhg5pzmvxhc7val2mxi09hzkqxae6czyum44vqzku8.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_7567-rgacmll84sd2hezdkv18dhmbrgbliap1zqdful8ocg.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_7568-rgacmll84sd2hezdkv18dhmbrgbliap1zqdful8ocg.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_7569-rgacmll84sd2hezdkv18dhmbrgbliap1zqdful8ocg.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_7564-rgacmmj2bmect0y0fdfuxzdscu6ypzssbv0xbv7a68.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_7565-rgacmmj2bmect0y0fdfuxzdscu6ypzssbv0xbv7a68.webp"
+  ],
+  "totalImages": 8,
+  "url": "https://svintermed.com.br/veiculos/fiat-toro-volcano/",
+  "warnings": [
+    "Imagens fora da galeria principal foram ignoradas."
+  ],
+  "errors": []
+}

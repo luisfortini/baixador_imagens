@@ -1,0 +1,17 @@
+{
+  "collectedAt": "2026-03-30T00:50:16.547Z",
+  "description": "Toyota Corolla Altis Premium - 25/26 FR Liberado, chão SP Capital Pega Já! Doc PG",
+  "extractionMode": "playwright",
+  "folderName": "Toyota Corolla Altis Premium__toyota-corolla-altis-premium",
+  "name": "Toyota Corolla Altis Premium",
+  "pageTitle": "Toyota Corolla Altis Premium - R$ 186.990, - Sinal Verde Intermediações - atendendo lojistas de todo Brasil",
+  "price": "R$ 186.990,",
+  "savedFiles": [],
+  "sourceImageUrls": [],
+  "totalImages": 0,
+  "url": "https://svintermed.com.br/veiculos/toyota-corolla-altis-premium/",
+  "warnings": [
+    "Galeria principal ausente; imagens de veiculos relacionados foram ignoradas."
+  ],
+  "errors": []
+}

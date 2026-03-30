@@ -1,0 +1,53 @@
+{
+  "collectedAt": "2026-03-30T00:58:16.635Z",
+  "description": "Nissan Kicks Platinum - A Faturar, válido para coe: branca",
+  "extractionMode": "playwright",
+  "folderName": "Nissan Kicks Platinum__nissan-kicks-platinum",
+  "name": "Nissan Kicks Platinum",
+  "pageTitle": "Nissan Kicks Platinum - R$ 171.990, - Sinal Verde Intermediações - atendendo lojistas de todo Brasil",
+  "price": "R$ 171.990,",
+  "savedFiles": [
+    "01.webp",
+    "02.webp",
+    "03.webp",
+    "04.webp",
+    "05.webp",
+    "06.webp",
+    "07.webp",
+    "08.webp",
+    "09.webp",
+    "10.webp",
+    "11.webp",
+    "12.webp",
+    "13.webp",
+    "14.webp",
+    "15.webp",
+    "16.webp",
+    "17.webp"
+  ],
+  "sourceImageUrls": [
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_7250-rg6dlp7z7nwp621nj7zu0snvril9a1x8r1qdwvkcao.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_7247-rg6dlp7z7nwp621nj7zu0snvril9a1x8r1qdwvkcao.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_7244-rg6dlq5tehxzho0adqeglafccwgmhr0z36dve5iy4g.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_1120-r9n0745jjplswnf4zdwrvqa5acnyth06afjitz8vuo.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_7243-1-rg6dlq5tehxzho0adqeglafccwgmhr0z36dve5iy4g.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_1122-r9n0745jjplswnf4zdwrvqa5acnyth06afjitz8vuo.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_7245-rg6dlp7z7nwp621nj7zu0snvril9a1x8r1qdwvkcao.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_1121-r9n0745jjplswnf4zdwrvqa5acnyth06afjitz8vuo.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_1118-r9n0745jjplswnf4zdwrvqa5acnyth06afjitz8vuo.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_1123-r9n0745jjplswnf4zdwrvqa5acnyth06afjitz8vuo.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_7255-rg6dloa50tveug30opl7gawf64pw2ctiex2wfllqgw.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_7251-rg6dloa50tveug30opl7gawf64pw2ctiex2wfllqgw.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_7252-rg6dloa50tveug30opl7gawf64pw2ctiex2wfllqgw.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_7253-rg6dloa50tveug30opl7gawf64pw2ctiex2wfllqgw.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_7248-rg6dlp7z7nwp621nj7zu0snvril9a1x8r1qdwvkcao.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_7249-rg6dlp7z7nwp621nj7zu0snvril9a1x8r1qdwvkcao.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_7246-rg6dlq5tehxzho0adqeglafccwgmhr0z36dve5iy4g.webp"
+  ],
+  "totalImages": 17,
+  "url": "https://svintermed.com.br/veiculos/nissan-kicks-platinum/",
+  "warnings": [
+    "Imagens fora da galeria principal foram ignoradas."
+  ],
+  "errors": []
+}

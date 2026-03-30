@@ -1,0 +1,21 @@
+{
+  "collectedAt": "2026-03-30T00:56:13.246Z",
+  "description": "Fiat Mobi Like - Oferta válida para Refaturar CPF na cor vermelha",
+  "extractionMode": "playwright",
+  "folderName": "Fiat Mobi Like__fiat-mobi-like-2",
+  "name": "Fiat Mobi Like",
+  "pageTitle": "Fiat Mobi Like - R$ 68.890, - Sinal Verde Intermediações - atendendo lojistas de todo Brasil",
+  "price": "R$ 68.890,",
+  "savedFiles": [
+    "01.webp"
+  ],
+  "sourceImageUrls": [
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_8163-1-rhfbaylk4obsh36bu3jg0bqzg8jo0at6mq3j04ljk0.webp"
+  ],
+  "totalImages": 1,
+  "url": "https://svintermed.com.br/veiculos/fiat-mobi-like-2/",
+  "warnings": [
+    "Imagens fora da galeria principal foram ignoradas."
+  ],
+  "errors": []
+}

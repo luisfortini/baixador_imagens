@@ -1,0 +1,29 @@
+{
+  "collectedAt": "2026-03-30T00:54:09.701Z",
+  "description": "Fiat Scudo Cargo - Oferta válida para refaturar CNPJ, na cor Branca",
+  "extractionMode": "playwright",
+  "folderName": "Fiat Scudo Cargo__fiat-scudo-cargo",
+  "name": "Fiat Scudo Cargo",
+  "pageTitle": "Fiat Scudo Cargo - R$ 179.990, - Sinal Verde Intermediações - atendendo lojistas de todo Brasil",
+  "price": "R$ 179.990,",
+  "savedFiles": [
+    "01.webp",
+    "02.webp",
+    "03.webp",
+    "04.webp",
+    "05.webp"
+  ],
+  "sourceImageUrls": [
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_8709-rhu9e9aa3m67mxab2g4kr1p12lw15ril9qq5uel074.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_8708-rhu9e9aa3m67mxab2g4kr1p12lw15ril9qq5uel074.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_8707-rhu9e9aa3m67mxab2g4kr1p12lw15ril9qq5uel074.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_8711-1-rhu9e8cfws4xbbbo7xpy6jxkh80ny2euxm2od4medc.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_8710-rhu9e8cfws4xbbbo7xpy6jxkh80ny2euxm2od4medc.webp"
+  ],
+  "totalImages": 5,
+  "url": "https://svintermed.com.br/veiculos/fiat-scudo-cargo/",
+  "warnings": [
+    "Imagens fora da galeria principal foram ignoradas."
+  ],
+  "errors": []
+}

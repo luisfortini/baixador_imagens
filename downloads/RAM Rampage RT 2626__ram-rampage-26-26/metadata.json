@@ -1,0 +1,41 @@
+{
+  "collectedAt": "2026-03-30T00:52:08.786Z",
+  "description": "RAM Rampage RT 26/26 - 26/26 FR Liberado, válido para as cores Cinza Sting e Branca",
+  "extractionMode": "playwright",
+  "folderName": "RAM Rampage RT 2626__ram-rampage-26-26",
+  "name": "RAM Rampage RT 26/26",
+  "pageTitle": "RAM Rampage RT 26/26 - R$ 229.490, - Sinal Verde Intermediações - atendendo lojistas de todo Brasil",
+  "price": "R$ 229.490,",
+  "savedFiles": [
+    "01.webp",
+    "02.webp",
+    "03.webp",
+    "04.webp",
+    "05.webp",
+    "06.webp",
+    "07.webp",
+    "08.webp",
+    "09.webp",
+    "10.webp",
+    "11.webp"
+  ],
+  "sourceImageUrls": [
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_9231-rjhivrwe714v8uzjsjzn9xxc6z9syl3fdr89po9zy8.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_9233-rjhivsu8dv65kgy6n2e9ufossd566a75pvvr6y8ls0.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_9238-rjhivsu8dv65kgy6n2e9ufossd566a75pvvr6y8ls0.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_9243-1-rjhivqyk073kx90wy1l0pg5vllefqvzp1mks8ebe4g.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_9241-rjhivqyk073kx90wy1l0pg5vllefqvzp1mks8ebe4g.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_9237-rjhivqyk073kx90wy1l0pg5vllefqvzp1mks8ebe4g.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_9239-rjhivqyk073kx90wy1l0pg5vllefqvzp1mks8ebe4g.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_9236-rjhivrwe714v8uzjsjzn9xxc6z9syl3fdr89po9zy8.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_9240-rjhivrwe714v8uzjsjzn9xxc6z9syl3fdr89po9zy8.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_9234-rjhivrwe714v8uzjsjzn9xxc6z9syl3fdr89po9zy8.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_9232-rjhivrwe714v8uzjsjzn9xxc6z9syl3fdr89po9zy8.webp"
+  ],
+  "totalImages": 11,
+  "url": "https://svintermed.com.br/veiculos/ram-rampage-26-26/",
+  "warnings": [
+    "Imagens fora da galeria principal foram ignoradas."
+  ],
+  "errors": []
+}

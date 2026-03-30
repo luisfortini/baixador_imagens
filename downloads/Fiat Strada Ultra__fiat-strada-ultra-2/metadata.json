@@ -1,0 +1,37 @@
+{
+  "collectedAt": "2026-03-30T00:57:39.304Z",
+  "description": "Fiat Strada Ultra - Oferta para faturar PF/PJ nas cores: prata e cinza",
+  "extractionMode": "playwright",
+  "folderName": "Fiat Strada Ultra__fiat-strada-ultra-2",
+  "name": "Fiat Strada Ultra",
+  "pageTitle": "Fiat Strada Ultra - R$ 135.990, - Sinal Verde Intermediações - atendendo lojistas de todo Brasil",
+  "price": "R$ 135.990,",
+  "savedFiles": [
+    "01.webp",
+    "02.webp",
+    "03.webp",
+    "04.webp",
+    "05.webp",
+    "06.webp",
+    "07.webp",
+    "08.webp",
+    "09.webp"
+  ],
+  "sourceImageUrls": [
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_7271-rg2e4xcuv9pzrs626px9k3x6lb3r1u4mnsg46xfdc0.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_7265-rg2e4xcuv9pzrs626px9k3x6lb3r1u4mnsg46xfdc0.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_7263-1-rg2e4xcuv9pzrs626px9k3x6lb3r1u4mnsg46xfdc0.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_7264-rg2e4vh6hlnf4k8shp40f4e9ejd0mfx5zj558di5og.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_7268-rg2e4wf0ofopg67fc7imzm5pzx8du50wbnsmpngri8.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_7270-rg2e4wf0ofopg67fc7imzm5pzx8du50wbnsmpngri8.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_7266-rg2e4wf0ofopg67fc7imzm5pzx8du50wbnsmpngri8.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_7269-rg2e4wf0ofopg67fc7imzm5pzx8du50wbnsmpngri8.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_7267-rg2e4xcuv9pzrs626px9k3x6lb3r1u4mnsg46xfdc0.webp"
+  ],
+  "totalImages": 9,
+  "url": "https://svintermed.com.br/veiculos/fiat-strada-ultra-2/",
+  "warnings": [
+    "Imagens fora da galeria principal foram ignoradas."
+  ],
+  "errors": []
+}

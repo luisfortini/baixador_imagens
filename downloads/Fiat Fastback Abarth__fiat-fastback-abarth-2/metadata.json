@@ -1,0 +1,39 @@
+{
+  "collectedAt": "2026-03-30T00:57:31.491Z",
+  "description": "Fiat Fastback Abarth - 26/26 Faturamento em CPF Área Livre Brasil, válido para cor: Cinza Strato",
+  "extractionMode": "playwright",
+  "folderName": "Fiat Fastback Abarth__fiat-fastback-abarth-2",
+  "name": "Fiat Fastback Abarth",
+  "pageTitle": "Fiat Fastback Abarth - R$ 158.990, - Sinal Verde Intermediações - atendendo lojistas de todo Brasil",
+  "price": "R$ 158.990,",
+  "savedFiles": [
+    "01.webp",
+    "02.webp",
+    "03.webp",
+    "04.webp",
+    "05.webp",
+    "06.webp",
+    "07.webp",
+    "08.webp",
+    "09.webp",
+    "10.webp"
+  ],
+  "sourceImageUrls": [
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_7276-rg2qnfg6eqfc7psdkga7lfcc3imu7glbxkjuj5gn5s.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_7275-rg2qnge0lkgmjbr0eyou5x3sowi7f5p29p7c0ff8zk.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_7273-rg2qnge0lkgmjbr0eyou5x3sowi7f5p29p7c0ff8zk.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_8292-1-rhgv7qc2p7nph7iio4nr8escjbuujldbd0hu6k8rpc.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_7277-rg2qndki12crkhv3vfgygftewqw3s2dv9b8vkljfi8.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_7282-rg2qneic7we1w3tqpxvl0xkvi4rgzrhllfwd1vi1c0.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_7278-rg2qneic7we1w3tqpxvl0xkvi4rgzrhllfwd1vi1c0.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_7279-rg2qneic7we1w3tqpxvl0xkvi4rgzrhllfwd1vi1c0.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_7281-rg2qneic7we1w3tqpxvl0xkvi4rgzrhllfwd1vi1c0.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_7274-rg2qnfg6eqfc7psdkga7lfcc3imu7glbxkjuj5gn5s.webp"
+  ],
+  "totalImages": 10,
+  "url": "https://svintermed.com.br/veiculos/fiat-fastback-abarth-2/",
+  "warnings": [
+    "Imagens fora da galeria principal foram ignoradas."
+  ],
+  "errors": []
+}

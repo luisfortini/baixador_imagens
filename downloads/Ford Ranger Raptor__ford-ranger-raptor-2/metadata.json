@@ -1,0 +1,41 @@
+{
+  "collectedAt": "2026-03-30T00:56:09.048Z",
+  "description": "Ford Ranger Raptor - Oferta A Faturar, válido para cor cinza indianápolis",
+  "extractionMode": "playwright",
+  "folderName": "Ford Ranger Raptor__ford-ranger-raptor-2",
+  "name": "Ford Ranger Raptor",
+  "pageTitle": "Ford Ranger Raptor - R$ 464.990, - Sinal Verde Intermediações - atendendo lojistas de todo Brasil",
+  "price": "R$ 464.990,",
+  "savedFiles": [
+    "01.webp",
+    "02.webp",
+    "03.webp",
+    "04.webp",
+    "05.webp",
+    "06.webp",
+    "07.webp",
+    "08.webp",
+    "09.webp",
+    "10.webp",
+    "11.webp"
+  ],
+  "sourceImageUrls": [
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_8056-1-rhcybo9uhie7a8ykx7de7trgsddqkknjonsrm6mszk.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_8055-1-rhcybo9uhie7a8ykx7de7trgsddqkknjonsrm6mszk.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_8054-1-rhcybp7oocfhlux7rps0sbixdr93s9ra0sg93gletc.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_8158-1-rhfaw9ef8y7cwmj0o8shijah0b00mpgaxyt5tce6v4.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_8057-rhcybme63ubmn11b86k52u8jlln056g30ehsnmplc0.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_8062-rhcybnc0aocwymzy2oyrnc006zidcvjtcj5a4wo75s.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_8059-rhcybme63ubmn11b86k52u8jlln056g30ehsnmplc0.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_8061-rhcybnc0aocwymzy2oyrnc006zidcvjtcj5a4wo75s.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_8058-rhcybnc0aocwymzy2oyrnc006zidcvjtcj5a4wo75s.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_8063-rhcybnc0aocwymzy2oyrnc006zidcvjtcj5a4wo75s.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_8060-rhcybo9uhie7a8ykx7de7trgsddqkknjonsrm6mszk.webp"
+  ],
+  "totalImages": 11,
+  "url": "https://svintermed.com.br/veiculos/ford-ranger-raptor-2/",
+  "warnings": [
+    "Imagens fora da galeria principal foram ignoradas."
+  ],
+  "errors": []
+}

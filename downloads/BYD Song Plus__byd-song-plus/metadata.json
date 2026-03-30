@@ -1,0 +1,31 @@
+{
+  "collectedAt": "2026-03-30T00:57:53.107Z",
+  "description": "BYD Song Plus - A Faturar PF/PJ, válido para as cores: Preta, Cinza Time e Branco",
+  "extractionMode": "playwright",
+  "folderName": "BYD Song Plus__byd-song-plus",
+  "name": "BYD Song Plus",
+  "pageTitle": "BYD Song Plus - R$ 232.490, - Sinal Verde Intermediações - atendendo lojistas de todo Brasil",
+  "price": "R$ 232.490,",
+  "savedFiles": [
+    "01.webp",
+    "02.webp",
+    "03.webp",
+    "04.webp",
+    "05.webp",
+    "06.webp"
+  ],
+  "sourceImageUrls": [
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_7197-rg1umbxsedx7kqq5uipdawmlnw3sijvie9ndc5669s.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_7195-rg1umbxsedx7kqq5uipdawmlnw3sijvie9ndc5669s.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_7198-rg1umcvml7yhwcosp13zvee299z5q8z8qeautf4s3k.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_7199-rg1umazy7jvx94rj00aqqev52i8faurs24zvuv7kg0.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_7196-rg1umazy7jvx94rj00aqqev52i8faurs24zvuv7kg0.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_7194-1-rg1umbxsedx7kqq5uipdawmlnw3sijvie9ndc5669s.webp"
+  ],
+  "totalImages": 6,
+  "url": "https://svintermed.com.br/veiculos/byd-song-plus/",
+  "warnings": [
+    "Imagens fora da galeria principal foram ignoradas."
+  ],
+  "errors": []
+}

@@ -1,0 +1,49 @@
+{
+  "collectedAt": "2026-03-30T00:52:51.828Z",
+  "description": "FIAT Toro Ranch 26/26 - 26/26 Refaturar CNPJ nas Cores: Sting, Granite ou Branca.",
+  "extractionMode": "playwright",
+  "folderName": "FIAT Toro Ranch 2626__fiat-toro-ranch-26-26",
+  "name": "FIAT Toro Ranch 26/26",
+  "pageTitle": "FIAT Toro Ranch 26/26 - R$ 189.990, - Sinal Verde Intermediações - atendendo lojistas de todo Brasil",
+  "price": "R$ 189.990,",
+  "savedFiles": [
+    "01.webp",
+    "02.webp",
+    "03.webp",
+    "04.webp",
+    "05.webp",
+    "06.webp",
+    "07.webp",
+    "08.webp",
+    "09.webp",
+    "10.webp",
+    "11.webp",
+    "12.webp",
+    "13.webp",
+    "14.webp",
+    "15.webp"
+  ],
+  "sourceImageUrls": [
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_9972-rkm0lzw5ydv50pfwu1zwequmfqsn1izysu7yd8am2o.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_9981-rkm0lzw5ydv50pfwu1zwequmfqsn1izysu7yd8am2o.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_9982-rkm0m0u057wfcbejokeiz8m314o0983p4yvfui97wg.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_8925-ribjvpva4r1932alk26kr3ios4idrtisa9vqtrup8g.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_8928-ribjvpva4r1932alk26kr3ios4idrtisa9vqtrup8g.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_8926-ribjvpva4r1932alk26kr3ios4idrtisa9vqtrup8g.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_9776-rkbm1pc9k4vtyy4omw8ogykhmr5rfyafvs9gzrl9hc.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_9775-rkbm1pc9k4vtyy4omw8ogykhmr5rfyafvs9gzrl9hc.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_9774-rkbm1pc9k4vtyy4omw8ogykhmr5rfyafvs9gzrl9hc.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_9777-rkbm1pc9k4vtyy4omw8ogykhmr5rfyafvs9gzrl9hc.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_9980-rkm0lyybrjtup3h9zjl9u935ucx9ttw8gpkgvyc08w.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_9977-rkm0lyybrjtup3h9zjl9u935ucx9ttw8gpkgvyc08w.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_9978-rkm0lzw5ydv50pfwu1zwequmfqsn1izysu7yd8am2o.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_9974-rkm0lzw5ydv50pfwu1zwequmfqsn1izysu7yd8am2o.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_9973-rkm0lzw5ydv50pfwu1zwequmfqsn1izysu7yd8am2o.webp"
+  ],
+  "totalImages": 15,
+  "url": "https://svintermed.com.br/veiculos/fiat-toro-ranch-26-26/",
+  "warnings": [
+    "Imagens fora da galeria principal foram ignoradas."
+  ],
+  "errors": []
+}

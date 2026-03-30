@@ -1,0 +1,35 @@
+{
+  "collectedAt": "2026-03-30T00:55:17.253Z",
+  "description": "Chery Tiggo 5x Sport - A Faturar na Origem, disponível na cor Cinza",
+  "extractionMode": "playwright",
+  "folderName": "Chery Tiggo 5x Sport__chery-tiggo-5x-sport",
+  "name": "Chery Tiggo 5x Sport",
+  "pageTitle": "Chery Tiggo 5x Sport - R$ 123.490, - Sinal Verde Intermediações - atendendo lojistas de todo Brasil",
+  "price": "R$ 123.490,",
+  "savedFiles": [
+    "01.webp",
+    "02.webp",
+    "03.webp",
+    "04.webp",
+    "05.webp",
+    "06.webp",
+    "07.webp",
+    "08.webp"
+  ],
+  "sourceImageUrls": [
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_8444-rhk2jjglx3673os30rs6mps7gw49mfri6k6ldkbc5c.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_8441-rhk2jkeg3x7hfaqpva6t77jo29zmu4v8iou2uu9xz4.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_8440-rhk2jkeg3x7hfaqpva6t77jo29zmu4v8iou2uu9xz4.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_8447-1-rhk2jiirq94ws2tg69dk280qvi8weqnrufj3wacqbk.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_8446-rhk2jiirq94ws2tg69dk280qvi8weqnrufj3wacqbk.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_8443-rhk2jjglx3673os30rs6mps7gw49mfri6k6ldkbc5c.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_8445-rhk2jjglx3673os30rs6mps7gw49mfri6k6ldkbc5c.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_8442-rhk2jjglx3673os30rs6mps7gw49mfri6k6ldkbc5c.webp"
+  ],
+  "totalImages": 8,
+  "url": "https://svintermed.com.br/veiculos/chery-tiggo-5x-sport/",
+  "warnings": [
+    "Imagens fora da galeria principal foram ignoradas."
+  ],
+  "errors": []
+}

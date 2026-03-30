@@ -1,0 +1,33 @@
+{
+  "collectedAt": "2026-03-30T00:53:32.102Z",
+  "description": "Fiat Toro Ultra - 25/26 Oferta válida para refaturar em CNPJ, na cor Azul",
+  "extractionMode": "playwright",
+  "folderName": "Fiat Toro Ultra__fiat-toro-ultra",
+  "name": "Fiat Toro Ultra",
+  "pageTitle": "Fiat Toro Ultra - R$ 169.990, - Sinal Verde Intermediações - atendendo lojistas de todo Brasil",
+  "price": "R$ 169.990,",
+  "savedFiles": [
+    "01.webp",
+    "02.webp",
+    "03.webp",
+    "04.webp",
+    "05.webp",
+    "06.webp",
+    "07.webp"
+  ],
+  "sourceImageUrls": [
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_9046-rinnydlkvdbd6746ew4l6lg587tfrq3zbf8hr3alhc.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_9049-rinnydlkvdbd6746ew4l6lg587tfrq3zbf8hr3alhc.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_9048-rinnydlkvdbd6746ew4l6lg587tfrq3zbf8hr3alhc.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_9052-1-rinnycnqoja2ul5jkdpym3oomty2k108zal09tbznk.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_9050-rinnycnqoja2ul5jkdpym3oomty2k108zal09tbznk.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_9047-rinnycnqoja2ul5jkdpym3oomty2k108zal09tbznk.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_9051-rinnycnqoja2ul5jkdpym3oomty2k108zal09tbznk.webp"
+  ],
+  "totalImages": 7,
+  "url": "https://svintermed.com.br/veiculos/fiat-toro-ultra/",
+  "warnings": [
+    "Imagens fora da galeria principal foram ignoradas."
+  ],
+  "errors": []
+}

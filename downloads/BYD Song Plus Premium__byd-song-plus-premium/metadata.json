@@ -1,0 +1,33 @@
+{
+  "collectedAt": "2026-03-30T00:51:02.302Z",
+  "description": "BYD Song Plus Premium - 25/26 FR Liberado, Doc e Ipva Total PG na cor Cinza Smoke com Interno Claro",
+  "extractionMode": "playwright",
+  "folderName": "BYD Song Plus Premium__byd-song-plus-premium",
+  "name": "BYD Song Plus Premium",
+  "pageTitle": "BYD Song Plus Premium - R$ 277.990, - Sinal Verde Intermediações - atendendo lojistas de todo Brasil",
+  "price": "R$ 277.990,",
+  "savedFiles": [
+    "01.webp",
+    "02.webp",
+    "03.webp",
+    "04.webp",
+    "05.webp",
+    "06.webp",
+    "07.webp"
+  ],
+  "sourceImageUrls": [
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_9789-rkbl3kt7fo62glp6wn7ag2l185d0zjt9ivlur46tds.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_9792-rkbl3kt7fo62glp6wn7ag2l185d0zjt9ivlur46tds.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/202371b7-faa5-4f63-9dfe-85a65e60f9e1-rkbl3lr1mi7cs7ntr5lx0kchtj8e78wzv09c8e5f7k.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_9788-rkbl3jvd8u4s4zqk24snvktkmrhnrupj6qyd9u87k0.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_9790-rkbl3kt7fo62glp6wn7ag2l185d0zjt9ivlur46tds.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_9787-1-rkbl3kt7fo62glp6wn7ag2l185d0zjt9ivlur46tds.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_9791-rkbl3kt7fo62glp6wn7ag2l185d0zjt9ivlur46tds.webp"
+  ],
+  "totalImages": 7,
+  "url": "https://svintermed.com.br/veiculos/byd-song-plus-premium/",
+  "warnings": [
+    "Imagens fora da galeria principal foram ignoradas."
+  ],
+  "errors": []
+}

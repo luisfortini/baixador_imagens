@@ -1,0 +1,17 @@
+{
+  "collectedAt": "2026-03-30T00:50:38.024Z",
+  "description": "Fiat Fastback T200 - 26/26 A Faturar CPF com Pack Smart Drive nas cores Prata, Preta e Branca.",
+  "extractionMode": "playwright",
+  "folderName": "Fiat Fastback T200__fiat-fastback-t200-2",
+  "name": "Fiat Fastback T200",
+  "pageTitle": "Fiat Fastback T200 - R$ 116.890, - Sinal Verde Intermediações - atendendo lojistas de todo Brasil",
+  "price": "R$ 116.890,",
+  "savedFiles": [],
+  "sourceImageUrls": [],
+  "totalImages": 0,
+  "url": "https://svintermed.com.br/veiculos/fiat-fastback-t200-2/",
+  "warnings": [
+    "Galeria principal ausente; imagens de veiculos relacionados foram ignoradas."
+  ],
+  "errors": []
+}

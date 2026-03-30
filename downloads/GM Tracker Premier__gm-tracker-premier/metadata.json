@@ -1,0 +1,33 @@
+{
+  "collectedAt": "2026-03-30T00:55:27.536Z",
+  "description": "GM Tracker Premier - A Faturar PF/PJ nas cores: Cinza e Preta",
+  "extractionMode": "playwright",
+  "folderName": "GM Tracker Premier__gm-tracker-premier",
+  "name": "GM Tracker Premier",
+  "pageTitle": "GM Tracker Premier - R$ 155.690, - Sinal Verde Intermediações - atendendo lojistas de todo Brasil",
+  "price": "R$ 155.690,",
+  "savedFiles": [
+    "01.webp",
+    "02.webp",
+    "03.webp",
+    "04.webp",
+    "05.webp",
+    "06.webp",
+    "07.webp"
+  ],
+  "sourceImageUrls": [
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_8394-rhi4qi2dyv0eyv3xehw0cvf4n6keef6a06935if7ls.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_8395-rhi4qi2dyv0eyv3xehw0cvf4n6keef6a06935if7ls.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_8392-rhi4qi2dyv0eyv3xehw0cvf4n6keef6a06935if7ls.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_8398-1-rhi4qh4js0z4n95ajzhdsdno1sp16q2jo1llo8gls0.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_8397-rhi4qh4js0z4n95ajzhdsdno1sp16q2jo1llo8gls0.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_8393-rhi4qh4js0z4n95ajzhdsdno1sp16q2jo1llo8gls0.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_8396-rhi4qi2dyv0eyv3xehw0cvf4n6keef6a06935if7ls.webp"
+  ],
+  "totalImages": 7,
+  "url": "https://svintermed.com.br/veiculos/gm-tracker-premier/",
+  "warnings": [
+    "Imagens fora da galeria principal foram ignoradas."
+  ],
+  "errors": []
+}

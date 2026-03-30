@@ -1,0 +1,33 @@
+{
+  "collectedAt": "2026-03-30T00:55:15.715Z",
+  "description": "Honda HRV EXL 26-26 - Pronto Faturamento para CNPJ, nas cores: Basalto, Prata, Titanium, Azul, Preta e Vermelha Pronto Faturamento",
+  "extractionMode": "playwright",
+  "folderName": "Honda HRV EXL 26-26__honda-hr-v-exl",
+  "name": "Honda HRV EXL 26-26",
+  "pageTitle": "Honda HRV EXL 26-26 - R$ 162.990, - Sinal Verde Intermediações - atendendo lojistas de todo Brasil",
+  "price": "R$ 162.990,",
+  "savedFiles": [
+    "01.webp",
+    "02.webp",
+    "03.webp",
+    "04.webp",
+    "05.webp",
+    "06.webp",
+    "07.webp"
+  ],
+  "sourceImageUrls": [
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_8452-rhk9rfu3lyyda79fe44l24qgib3vxljnwxxsduyjpc.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_8455-rhk9rfu3lyyda79fe44l24qgib3vxljnwxxsduyjpc.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_8453-rhk9rgrxssznlt828mj7mmhx3oz95ane92l9v4x5j4.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_8456-1-rhk9rew9f4x2ylasjlpyhmyzwx8ipwfxktaawkzxvk.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_8454-rhk9rew9f4x2ylasjlpyhmyzwx8ipwfxktaawkzxvk.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_8451-rhk9rew9f4x2ylasjlpyhmyzwx8ipwfxktaawkzxvk.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_8450-rhk9rfu3lyyda79fe44l24qgib3vxljnwxxsduyjpc.webp"
+  ],
+  "totalImages": 7,
+  "url": "https://svintermed.com.br/veiculos/honda-hr-v-exl/",
+  "warnings": [
+    "Imagens fora da galeria principal foram ignoradas."
+  ],
+  "errors": []
+}

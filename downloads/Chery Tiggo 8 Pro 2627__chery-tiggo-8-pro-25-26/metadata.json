@@ -1,0 +1,39 @@
+{
+  "collectedAt": "2026-03-30T00:52:19.554Z",
+  "description": "Chery Tiggo 8 Pro 26/27 - 2027 A Faturar CPF, nas cores Preta, Branca, Azul e Cinza.",
+  "extractionMode": "playwright",
+  "folderName": "Chery Tiggo 8 Pro 2627__chery-tiggo-8-pro-25-26",
+  "name": "Chery Tiggo 8 Pro 26/27",
+  "pageTitle": "Chery Tiggo 8 Pro 26/27 - R$ 192.690, - Sinal Verde Intermediações - atendendo lojistas de todo Brasil",
+  "price": "R$ 192.690,",
+  "savedFiles": [
+    "01.webp",
+    "02.webp",
+    "03.webp",
+    "04.webp",
+    "05.webp",
+    "06.webp",
+    "07.webp",
+    "08.webp",
+    "09.webp",
+    "10.webp"
+  ],
+  "sourceImageUrls": [
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/70fd67dd-383a-466d-9132-8477df8970b2-rj0lkoj77xn908xnbznlm6q4xuk0xiall4g7pfnqrk.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/a4930fc5-897d-4d3d-b34e-f074a0e07865-rj0lkoj77xn908xnbznlm6q4xuk0xiall4g7pfnqrk.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/29f1412a-d230-476d-b73f-b1f39a0fb785-rj0lkoj77xn908xnbznlm6q4xuk0xiall4g7pfnqrk.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_9149-1-rj0lknld13lyomz0hh8z1oyocgonpt6v8zsq85p4xs.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/abe46adc-71c2-4fe8-a96e-e80e9e50d242-rj0lknld13lyomz0hh8z1oyocgonpt6v8zsq85p4xs.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/4ad703da-d2f3-44cc-8a92-ec46663439b8-rj0lknld13lyomz0hh8z1oyocgonpt6v8zsq85p4xs.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/d87d830b-3418-47f8-99cb-4642ad9fac7c-rj0lknld13lyomz0hh8z1oyocgonpt6v8zsq85p4xs.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/fd827966-d566-4cf9-88ec-714624b9898e-rj0lknld13lyomz0hh8z1oyocgonpt6v8zsq85p4xs.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/0e79f362-22cd-480c-9e20-0a51efad4b3c-rj0lknld13lyomz0hh8z1oyocgonpt6v8zsq85p4xs.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/54b50e00-a30f-4083-a61e-37dcabdc86a1-rj0lknld13lyomz0hh8z1oyocgonpt6v8zsq85p4xs.webp"
+  ],
+  "totalImages": 10,
+  "url": "https://svintermed.com.br/veiculos/chery-tiggo-8-pro-25-26/",
+  "warnings": [
+    "Imagens fora da galeria principal foram ignoradas."
+  ],
+  "errors": []
+}

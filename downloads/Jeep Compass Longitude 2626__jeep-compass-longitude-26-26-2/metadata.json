@@ -1,0 +1,17 @@
+{
+  "collectedAt": "2026-03-30T00:50:26.285Z",
+  "description": "Jeep Compass Longitude 26/26 - FR Liberado, com Teto Solar, disponível na cor Preta <<<",
+  "extractionMode": "playwright",
+  "folderName": "Jeep Compass Longitude 2626__jeep-compass-longitude-26-26-2",
+  "name": "Jeep Compass Longitude 26/26",
+  "pageTitle": "Jeep Compass Longitude 26/26 - R$ 168.990, - Sinal Verde Intermediações - atendendo lojistas de todo Brasil",
+  "price": "R$ 168.990,",
+  "savedFiles": [],
+  "sourceImageUrls": [],
+  "totalImages": 0,
+  "url": "https://svintermed.com.br/veiculos/jeep-compass-longitude-26-26-2/",
+  "warnings": [
+    "Galeria principal ausente; imagens de veiculos relacionados foram ignoradas."
+  ],
+  "errors": []
+}

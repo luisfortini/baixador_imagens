@@ -1,0 +1,39 @@
+{
+  "collectedAt": "2026-03-30T00:56:59.894Z",
+  "description": "Chevrolet Captiva EV - oderta válida para Venda Direta CNPJ, válido para todas as cores, faturamento área livre",
+  "extractionMode": "playwright",
+  "folderName": "Chevrolet Captiva EV__chevrolet-captiva-ev",
+  "name": "Chevrolet Captiva EV",
+  "pageTitle": "Chevrolet Captiva EV - R$ 195.690, - Sinal Verde Intermediações - atendendo lojistas de todo Brasil",
+  "price": "R$ 195.690,",
+  "savedFiles": [
+    "01.webp",
+    "02.webp",
+    "03.webp",
+    "04.webp",
+    "05.webp",
+    "06.webp",
+    "07.webp",
+    "08.webp",
+    "09.webp",
+    "10.webp"
+  ],
+  "sourceImageUrls": [
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_7726-rgl4mal39r30bs4l1z3bmagek5c1o4h2pefg8x78zk.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_7727-rgl4mal39r30bs4l1z3bmagek5c1o4h2pefg8x78zk.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_7721-rgl4mal39r30bs4l1z3bmagek5c1o4h2pefg8x78zk.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_8220-1-rhfgipuzabcpl0g4gr9nkg2n6144jr6zg1c50w7io0.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_7722-rgl4m9n92x1q065y7gop1soxyrgogfdcd9ryrn8n5s.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_7719-rgl4m8pew30fok7bcya2haxhddlb8q9m154hada1c0.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_7724-rgl4m9n92x1q065y7gop1soxyrgogfdcd9ryrn8n5s.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_7725-rgl4m9n92x1q065y7gop1soxyrgogfdcd9ryrn8n5s.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_7723-rgl4m9n92x1q065y7gop1soxyrgogfdcd9ryrn8n5s.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_7720-rgl4mal39r30bs4l1z3bmagek5c1o4h2pefg8x78zk.webp"
+  ],
+  "totalImages": 10,
+  "url": "https://svintermed.com.br/veiculos/chevrolet-captiva-ev/",
+  "warnings": [
+    "Imagens fora da galeria principal foram ignoradas."
+  ],
+  "errors": []
+}

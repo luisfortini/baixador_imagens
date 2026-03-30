@@ -1,0 +1,29 @@
+{
+  "collectedAt": "2026-03-30T00:57:33.169Z",
+  "description": "Fiat Fastback Abarth - 26/26 Faturamento em CPF Área Livre Brasil, válido para cor: Preta",
+  "extractionMode": "playwright",
+  "folderName": "Fiat Fastback Abarth__fiat-fastback-abarth",
+  "name": "Fiat Fastback Abarth",
+  "pageTitle": "Fiat Fastback Abarth - R$ 157.990, - Sinal Verde Intermediações - atendendo lojistas de todo Brasil",
+  "price": "R$ 157.990,",
+  "savedFiles": [
+    "01.webp",
+    "02.webp",
+    "03.webp",
+    "04.webp",
+    "05.webp"
+  ],
+  "sourceImageUrls": [
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_7262-rg2dm2pdsvwyxbju9kkmjv6dp40qodafehfjp5dm4g.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_7260-rg2dm3n7zpy98xih42z94cxuahw3w2e5qm316fc7y8.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_7259-rg2dm3n7zpy98xih42z94cxuahw3w2e5qm316fc7y8.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_8290-1-rhguro9by3od50u7fos74ynv7d041qme5ja81e1w00.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_7261-rg2dm2pdsvwyxbju9kkmjv6dp40qodafehfjp5dm4g.webp"
+  ],
+  "totalImages": 5,
+  "url": "https://svintermed.com.br/veiculos/fiat-fastback-abarth/",
+  "warnings": [
+    "Imagens fora da galeria principal foram ignoradas."
+  ],
+  "errors": []
+}

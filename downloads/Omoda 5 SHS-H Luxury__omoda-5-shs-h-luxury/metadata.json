@@ -1,0 +1,39 @@
+{
+  "collectedAt": "2026-03-30T00:56:28.965Z",
+  "description": "Omoda 5 SHS-H Luxury - A Faturar CPF na cor Prata <<<",
+  "extractionMode": "playwright",
+  "folderName": "Omoda 5 SHS-H Luxury__omoda-5-shs-h-luxury",
+  "name": "Omoda 5 SHS-H Luxury",
+  "pageTitle": "Omoda 5 SHS-H Luxury - R$ 153.490, - Sinal Verde Intermediações - atendendo lojistas de todo Brasil",
+  "price": "R$ 153.490,",
+  "savedFiles": [
+    "01.webp",
+    "02.webp",
+    "03.webp",
+    "04.webp",
+    "05.webp",
+    "06.webp",
+    "07.webp",
+    "08.webp",
+    "09.webp",
+    "10.webp"
+  ],
+  "sourceImageUrls": [
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_7999-rhbti94qjav9jfdjb1fdbmodlnyvil5mbpctbxcw1s.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_8004-rhbti94qjav9jfdjb1fdbmodlnyvil5mbpctbxcw1s.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_8171-1-rhfbw8o0unghba9kksodygfnl9nt9maf81s94n1oow.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_8001-rhbti7925msow7g9m0m46n5gew8536y5ng1uddfoe8.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_8005-rhbti7925msow7g9m0m46n5gew8536y5ng1uddfoe8.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_8007-rhbti7925msow7g9m0m46n5gew8536y5ng1uddfoe8.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_8003-rhbti86wcgtz7tewgj0qr4wx0a3iaw1vzkpbunea80.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_8006-rhbti86wcgtz7tewgj0qr4wx0a3iaw1vzkpbunea80.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_8002-rhbti86wcgtz7tewgj0qr4wx0a3iaw1vzkpbunea80.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_8008-rhbti86wcgtz7tewgj0qr4wx0a3iaw1vzkpbunea80.webp"
+  ],
+  "totalImages": 10,
+  "url": "https://svintermed.com.br/veiculos/omoda-5-shs-h-luxury/",
+  "warnings": [
+    "Imagens fora da galeria principal foram ignoradas."
+  ],
+  "errors": []
+}

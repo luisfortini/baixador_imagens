@@ -1,0 +1,29 @@
+{
+  "collectedAt": "2026-03-30T00:51:33.593Z",
+  "description": "GWM Haval H6 Hev2 - 25/26 FR Liberado com Ipva Total PG 2026",
+  "extractionMode": "playwright",
+  "folderName": "GWM Haval H6 Hev2__gwm-haval-h6-hev2",
+  "name": "GWM Haval H6 Hev2",
+  "pageTitle": "GWM Haval H6 Hev2 - R$ 210.990, - Sinal Verde Intermediações - atendendo lojistas de todo Brasil",
+  "price": "R$ 210.990,",
+  "savedFiles": [
+    "01.webp",
+    "02.webp",
+    "03.webp",
+    "04.webp",
+    "05.webp"
+  ],
+  "sourceImageUrls": [
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_9664-rk7envx2pehttoakqojzdpand2m601w5lozf4237eo.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_9663-rk7envx2pehttoakqojzdpand2m601w5lozf4237eo.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_9662-rk7envx2pehttoakqojzdpand2m601w5lozf4237eo.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_9666-rk7enuz8ikgji2bxw65ct7j6roqsscsf9kbxms4lkw.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_9665-rk7envx2pehttoakqojzdpand2m601w5lozf4237eo.webp"
+  ],
+  "totalImages": 5,
+  "url": "https://svintermed.com.br/veiculos/gwm-haval-h6-hev2/",
+  "warnings": [
+    "Imagens fora da galeria principal foram ignoradas."
+  ],
+  "errors": []
+}

@@ -1,0 +1,31 @@
+{
+  "collectedAt": "2026-03-30T00:53:33.902Z",
+  "description": "GWM Haval H6 Phev19 - FR Liberado! com IPVA TOTAL 2026 PG, nas cores: Cinza, Preto e Branco",
+  "extractionMode": "playwright",
+  "folderName": "GWM Haval H6 Phev19__gwm-haval-h6-phev19",
+  "name": "GWM Haval H6 Phev19",
+  "pageTitle": "GWM Haval H6 Phev19 - R$ 225.990, - Sinal Verde Intermediações - atendendo lojistas de todo Brasil",
+  "price": "R$ 225.990,",
+  "savedFiles": [
+    "01.webp",
+    "02.webp",
+    "03.webp",
+    "04.webp",
+    "05.webp",
+    "06.webp"
+  ],
+  "sourceImageUrls": [
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/5d87ff62-7f0b-4bb0-b0c6-d6af4dfe2cb7-rhxk52kho02ikdvq5rcfxt9eidvmip89c3rcvy9we8.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/0f403680-6ef1-4363-b7d4-202f70784f28-1-rhxk52kho02ikdvq5rcfxt9eidvmip89c3rcvy9we8.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/f5806b87-4a43-4a4b-96af-6582fbf30b98-rhxk52kho02ikdvq5rcfxt9eidvmip89c3rcvy9we8.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_8747-1-rhxk51mnh6188rx3b8xtdbhxx009b04izz3veobakg.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/0e7b7cbd-173a-48b5-bd90-e44933ed6c91-rhxk51mnh6188rx3b8xtdbhxx009b04izz3veobakg.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/d413577f-c08c-44fb-bcf9-323c8b240f6d-rhxk51mnh6188rx3b8xtdbhxx009b04izz3veobakg.webp"
+  ],
+  "totalImages": 6,
+  "url": "https://svintermed.com.br/veiculos/gwm-haval-h6-phev19/",
+  "warnings": [
+    "Imagens fora da galeria principal foram ignoradas."
+  ],
+  "errors": []
+}

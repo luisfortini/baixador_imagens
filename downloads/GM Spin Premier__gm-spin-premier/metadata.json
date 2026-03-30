@@ -1,0 +1,27 @@
+{
+  "collectedAt": "2026-03-30T00:54:04.088Z",
+  "description": "GM Spin Premier - Oferta para faturar PF/PJ",
+  "extractionMode": "playwright",
+  "folderName": "GM Spin Premier__gm-spin-premier",
+  "name": "GM Spin Premier",
+  "pageTitle": "GM Spin Premier - R$ 147.990, - Sinal Verde Intermediações - atendendo lojistas de todo Brasil",
+  "price": "R$ 147.990,",
+  "savedFiles": [
+    "01.webp",
+    "02.webp",
+    "03.webp",
+    "04.webp"
+  ],
+  "sourceImageUrls": [
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_8703-rhu96i47ptk1uqjtclgdoi54n640nnqb7cyyb82xj4.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_8704-rhu96j21wnlc6cig73v08zwl8jzdvcu1jhmfsi1jcw.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_8702-rhu96j21wnlc6cig73v08zwl8jzdvcu1jhmfsi1jcw.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_8705-1-rhu96i47ptk1uqjtclgdoi54n640nnqb7cyyb82xj4.webp"
+  ],
+  "totalImages": 4,
+  "url": "https://svintermed.com.br/veiculos/gm-spin-premier/",
+  "warnings": [
+    "Imagens fora da galeria principal foram ignoradas."
+  ],
+  "errors": []
+}

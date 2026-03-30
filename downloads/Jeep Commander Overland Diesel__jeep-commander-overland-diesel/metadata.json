@@ -1,0 +1,17 @@
+{
+  "collectedAt": "2026-03-30T00:57:01.258Z",
+  "description": "Jeep Commander Overland Diesel - 26/26 Oferta válida para Refaturamento em CNPJ, disponível nas cores: Branca",
+  "extractionMode": "playwright",
+  "folderName": "Jeep Commander Overland Diesel__jeep-commander-overland-diesel",
+  "name": "Jeep Commander Overland Diesel",
+  "pageTitle": "Jeep Commander Overland Diesel - R$ 267.990, - Sinal Verde Intermediações - atendendo lojistas de todo Brasil",
+  "price": "R$ 267.990,",
+  "savedFiles": [],
+  "sourceImageUrls": [],
+  "totalImages": 0,
+  "url": "https://svintermed.com.br/veiculos/jeep-commander-overland-diesel/",
+  "warnings": [
+    "Galeria principal ausente; imagens de veiculos relacionados foram ignoradas."
+  ],
+  "errors": []
+}

@@ -1,0 +1,31 @@
+{
+  "collectedAt": "2026-03-30T00:51:11.925Z",
+  "description": "GWM H6 Phev35 - FR Liberado nas cores cinza e preta, com Ipva Total Pago!",
+  "extractionMode": "playwright",
+  "folderName": "GWM H6 Phev35__gwm-h6-phev35",
+  "name": "GWM H6 Phev35",
+  "pageTitle": "GWM H6 Phev35 - R$ 268.990, - Sinal Verde Intermediações - atendendo lojistas de todo Brasil",
+  "price": "R$ 268.990,",
+  "savedFiles": [
+    "01.webp",
+    "02.webp",
+    "03.webp",
+    "04.webp",
+    "05.webp",
+    "06.webp"
+  ],
+  "sourceImageUrls": [
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_9742-rk9xrcxrafugo4ocx92vr50bjaifjb67tkrukfkyf4.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_9738-rk9xrdvlh9vqzqmzrrhibmrs4odsr09y5pfc1pjk8w.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_9741-rk9xrdvlh9vqzqmzrrhibmrs4odsr09y5pfc1pjk8w.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_9745-1-rk9xrcxrafugo4ocx92vr50bjaifjb67tkrukfkyf4.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_9743-rk9xrcxrafugo4ocx92vr50bjaifjb67tkrukfkyf4.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_9740-rk9xrcxrafugo4ocx92vr50bjaifjb67tkrukfkyf4.webp"
+  ],
+  "totalImages": 6,
+  "url": "https://svintermed.com.br/veiculos/gwm-h6-phev35/",
+  "warnings": [
+    "Imagens fora da galeria principal foram ignoradas."
+  ],
+  "errors": []
+}

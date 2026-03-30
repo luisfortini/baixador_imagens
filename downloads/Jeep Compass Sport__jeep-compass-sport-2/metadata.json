@@ -1,0 +1,17 @@
+{
+  "collectedAt": "2026-03-30T00:49:47.952Z",
+  "description": "Jeep Compass Sport - 26/26 A Faturar CPF área livre com Rodas escura e couro disponível nas cores Branca, Prata e Cinza",
+  "extractionMode": "playwright",
+  "folderName": "Jeep Compass Sport__jeep-compass-sport-2",
+  "name": "Jeep Compass Sport",
+  "pageTitle": "Jeep Compass Sport - R$ 149.990, - Sinal Verde Intermediações - atendendo lojistas de todo Brasil",
+  "price": "R$ 149.990,",
+  "savedFiles": [],
+  "sourceImageUrls": [],
+  "totalImages": 0,
+  "url": "https://svintermed.com.br/veiculos/jeep-compass-sport-2/",
+  "warnings": [
+    "Galeria principal ausente; imagens de veiculos relacionados foram ignoradas."
+  ],
+  "errors": []
+}

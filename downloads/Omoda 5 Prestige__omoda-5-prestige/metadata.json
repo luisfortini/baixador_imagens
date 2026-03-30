@@ -1,0 +1,39 @@
+{
+  "collectedAt": "2026-03-30T00:50:48.444Z",
+  "description": "Omoda 5 Prestige - 25/26 A Faturar CPF nas cores Preto, Cinza, Branco e Prata",
+  "extractionMode": "playwright",
+  "folderName": "Omoda 5 Prestige__omoda-5-prestige",
+  "name": "Omoda 5 Prestige",
+  "pageTitle": "Omoda 5 Prestige - R$ 173.690, - Sinal Verde Intermediações - atendendo lojistas de todo Brasil",
+  "price": "R$ 173.690,",
+  "savedFiles": [
+    "01.webp",
+    "02.webp",
+    "03.webp",
+    "04.webp",
+    "05.webp",
+    "06.webp",
+    "07.webp",
+    "08.webp",
+    "09.webp",
+    "10.webp"
+  ],
+  "sourceImageUrls": [
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_9868-rkf944kejq1s7acvcyjzes6br0njif3o9t67ohjd4w.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_9867-rkf944kejq1s7acvcyjzes6br0njif3o9t67ohjd4w.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_9865-rkf944kejq1s7acvcyjzes6br0njif3o9t67ohjd4w.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_9874-1-rkf942oq61z7k2flnxqq9snek8wt30w7ljv8pxm5hc.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_9873-rkf942oq61z7k2flnxqq9snek8wt30w7ljv8pxm5hc.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_9872-rkf942oq61z7k2flnxqq9snek8wt30w7ljv8pxm5hc.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_9870-rkf943mkcw0hvoe8ig5cuaev5ms6apzxxoiq77krb4.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_9869-rkf943mkcw0hvoe8ig5cuaev5ms6apzxxoiq77krb4.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_9871-rkf943mkcw0hvoe8ig5cuaev5ms6apzxxoiq77krb4.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_9866-rkf943mkcw0hvoe8ig5cuaev5ms6apzxxoiq77krb4.webp"
+  ],
+  "totalImages": 10,
+  "url": "https://svintermed.com.br/veiculos/omoda-5-prestige/",
+  "warnings": [
+    "Imagens fora da galeria principal foram ignoradas."
+  ],
+  "errors": []
+}

@@ -1,0 +1,41 @@
+{
+  "collectedAt": "2026-03-30T00:58:37.065Z",
+  "description": "Toyota Corolla Cross XRX - Oferta válida para faturamento CPF nas cores: azul, prata, branco, cinza e preto",
+  "extractionMode": "playwright",
+  "folderName": "Toyota Corolla Cross XRX__toyota-corolla-cross-xrx",
+  "name": "Toyota Corolla Cross XRX",
+  "pageTitle": "Toyota Corolla Cross XRX - R$ 207.990, - Sinal Verde Intermediações - atendendo lojistas de todo Brasil",
+  "price": "R$ 207.990,",
+  "savedFiles": [
+    "01.webp",
+    "02.webp",
+    "03.webp",
+    "04.webp",
+    "05.webp",
+    "06.webp",
+    "07.webp",
+    "08.webp",
+    "09.webp",
+    "10.webp",
+    "11.webp"
+  ],
+  "sourceImageUrls": [
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_8272-rhgon1l3s1ng01bdrbiovmyvlggjbcqj5ipat96khs.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_8269-rhgon1l3s1ng01bdrbiovmyvlggjbcqj5ipat96khs.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_8271-rhgon2ixyvoqbna0ltxbg4qc6ubwj1u9hncsaj56bk.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_8274-1-rhgon1l3s1ng01bdrbiovmyvlggjbcqj5ipat96khs.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_1014-r9n0745jjplswnf4zdwrvqa5acnyth06afjitz8vuo.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_1011-r9n0737pcvkil1gi4vi5b8iooysllrwfyaw1cpaa0w.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_8270-rhgon2ixyvoqbna0ltxbg4qc6ubwj1u9hncsaj56bk.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_1015-r9n0745jjplswnf4zdwrvqa5acnyth06afjitz8vuo.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_1013-r9n0745jjplswnf4zdwrvqa5acnyth06afjitz8vuo.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_1012-r9n0745jjplswnf4zdwrvqa5acnyth06afjitz8vuo.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_8273-rhgon1l3s1ng01bdrbiovmyvlggjbcqj5ipat96khs.webp"
+  ],
+  "totalImages": 11,
+  "url": "https://svintermed.com.br/veiculos/toyota-corolla-cross-xrx/",
+  "warnings": [
+    "Imagens fora da galeria principal foram ignoradas."
+  ],
+  "errors": []
+}

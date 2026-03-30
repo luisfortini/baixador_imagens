@@ -1,0 +1,17 @@
+{
+  "collectedAt": "2026-03-30T00:55:06.277Z",
+  "description": "Fiat Toro Freedom - Oferta válida para Refaturamento em CNPJ, disponível na cor Branca",
+  "extractionMode": "playwright",
+  "folderName": "Fiat Toro Freedom__fiat-toro-freedom",
+  "name": "Fiat Toro Freedom",
+  "pageTitle": "Fiat Toro Freedom - R$ 146.990, - Sinal Verde Intermediações - atendendo lojistas de todo Brasil",
+  "price": "R$ 146.990,",
+  "savedFiles": [],
+  "sourceImageUrls": [],
+  "totalImages": 0,
+  "url": "https://svintermed.com.br/veiculos/fiat-toro-freedom/",
+  "warnings": [
+    "Galeria principal ausente; imagens de veiculos relacionados foram ignoradas."
+  ],
+  "errors": []
+}

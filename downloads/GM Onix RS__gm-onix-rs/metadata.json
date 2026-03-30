@@ -1,0 +1,41 @@
+{
+  "collectedAt": "2026-03-30T00:55:01.961Z",
+  "description": "GM Onix RS - Oferta válida para faturar PF/PJ, fatura fora consultar condições, cores: Branco, Vermelho e Cinza",
+  "extractionMode": "playwright",
+  "folderName": "GM Onix RS__gm-onix-rs",
+  "name": "GM Onix RS",
+  "pageTitle": "GM Onix RS - R$ 113.990, - Sinal Verde Intermediações - atendendo lojistas de todo Brasil",
+  "price": "R$ 113.990,",
+  "savedFiles": [
+    "01.webp",
+    "02.webp",
+    "03.webp",
+    "04.webp",
+    "05.webp",
+    "06.webp",
+    "07.webp",
+    "08.webp",
+    "09.webp",
+    "10.webp",
+    "11.webp"
+  ],
+  "sourceImageUrls": [
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_8539-rhmebie2m3t39fwxvfw60na0mis9cayg686tlgi7gg.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_8540-rhmebjbwsxudl1vkpyasl51h7wnmk026icub2qgta8.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_8535-rhmebjbwsxudl1vkpyasl51h7wnmk026icub2qgta8.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_8542-1-rhmebgie8fqim7zo6f2wvnr3fr1iwwqzhyvumwkzsw.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_8532-rhmebhg8f9rsxtyb0xhjg5ik14ww4lupu3jc46jlmo.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_8537-rhmebhg8f9rsxtyb0xhjg5ik14ww4lupu3jc46jlmo.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_8531-rhmebhg8f9rsxtyb0xhjg5ik14ww4lupu3jc46jlmo.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_8534-rhmebhg8f9rsxtyb0xhjg5ik14ww4lupu3jc46jlmo.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_8536-rhmebhg8f9rsxtyb0xhjg5ik14ww4lupu3jc46jlmo.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_8538-rhmebie2m3t39fwxvfw60na0mis9cayg686tlgi7gg.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_8533-rhmebie2m3t39fwxvfw60na0mis9cayg686tlgi7gg.webp"
+  ],
+  "totalImages": 11,
+  "url": "https://svintermed.com.br/veiculos/gm-onix-rs/",
+  "warnings": [
+    "Imagens fora da galeria principal foram ignoradas."
+  ],
+  "errors": []
+}

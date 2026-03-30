@@ -1,0 +1,17 @@
+{
+  "collectedAt": "2026-03-30T00:51:36.552Z",
+  "description": "Fiat Toro Volcano Diesel - 26/26 Refaturamento para CNPJ com Pacote Teck na cor Cinza Sting <<<",
+  "extractionMode": "playwright",
+  "folderName": "Fiat Toro Volcano Diesel__fiat-toro-volcano-diesel-3",
+  "name": "Fiat Toro Volcano Diesel",
+  "pageTitle": "Fiat Toro Volcano Diesel - R$ 180.790, - Sinal Verde Intermediações - atendendo lojistas de todo Brasil",
+  "price": "R$ 180.790,",
+  "savedFiles": [],
+  "sourceImageUrls": [],
+  "totalImages": 0,
+  "url": "https://svintermed.com.br/veiculos/fiat-toro-volcano-diesel-3/",
+  "warnings": [
+    "Galeria principal ausente; imagens de veiculos relacionados foram ignoradas."
+  ],
+  "errors": []
+}

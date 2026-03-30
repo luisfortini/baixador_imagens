@@ -1,0 +1,33 @@
+{
+  "collectedAt": "2026-03-30T00:54:12.115Z",
+  "description": "GM Tracker LTZ - A Faturar PF/PJ",
+  "extractionMode": "playwright",
+  "folderName": "GM Tracker LTZ__gm-tracker-ltz",
+  "name": "GM Tracker LTZ",
+  "pageTitle": "GM Tracker LTZ - R$ 141.890, - Sinal Verde Intermediações - atendendo lojistas de todo Brasil",
+  "price": "R$ 141.890,",
+  "savedFiles": [
+    "01.webp",
+    "02.webp",
+    "03.webp",
+    "04.webp",
+    "05.webp",
+    "06.webp",
+    "07.webp"
+  ],
+  "sourceImageUrls": [
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_8717-rhu9lwozq2n84o69e969jm734i6kt2vxzlvfgh8nk0.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_8714-rhu9lxmtwwoiga4w8rkw43yjpw1y0rzobqiwxr79ds.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_8713-rhu9lxmtwwoiga4w8rkw43yjpw1y0rzobqiwxr79ds.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_8719-1-rhu9lvr5j8lxt27mjqrmz4fmj4b7lds7nh7xz7a1q8.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_8716-rhu9lwozq2n84o69e969jm734i6kt2vxzlvfgh8nk0.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_8718-rhu9lwozq2n84o69e969jm734i6kt2vxzlvfgh8nk0.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_8715-rhu9lwozq2n84o69e969jm734i6kt2vxzlvfgh8nk0.webp"
+  ],
+  "totalImages": 7,
+  "url": "https://svintermed.com.br/veiculos/gm-tracker-ltz/",
+  "warnings": [
+    "Imagens fora da galeria principal foram ignoradas."
+  ],
+  "errors": []
+}

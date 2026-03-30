@@ -1,0 +1,39 @@
+{
+  "collectedAt": "2026-03-30T00:57:22.453Z",
+  "description": "Fiat Pulse Audace Hybrid - Faturamento CNPJ/MEI/RURAL nas cores: Prata e Cinza Silverstone",
+  "extractionMode": "playwright",
+  "folderName": "Fiat Pulse Audace Hybrid__fiat-pulse-audace-hybrid-3",
+  "name": "Fiat Pulse Audace Hybrid",
+  "pageTitle": "Fiat Pulse Audace Hybrid - R$ 114.490, - Sinal Verde Intermediações - atendendo lojistas de todo Brasil",
+  "price": "R$ 114.490,",
+  "savedFiles": [
+    "01.webp",
+    "02.webp",
+    "03.webp",
+    "04.webp",
+    "05.webp",
+    "06.webp",
+    "07.webp",
+    "08.webp",
+    "09.webp",
+    "10.webp"
+  ],
+  "sourceImageUrls": [
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_7349-rg5qw1e63wl9phqu3s7314owx0qpgnv1nzwt3nx4xs.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_7343-1-rg5qw1e63wl9phqu3s7314owx0qpgnv1nzwt3nx4xs.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_8311-1-rhh06y89s0zv4n6s5liyn6oa04ia60uw02eo9uihc0.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_7350-rg5qvzihq8ip29tkerdtw55zq8zz19nkzqlu53zxa8.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_7351-rg5qvzihq8ip29tkerdtw55zq8zz19nkzqlu53zxa8.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_7352-rg5qvzihq8ip29tkerdtw55zq8zz19nkzqlu53zxa8.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_7353-rg5qvzihq8ip29tkerdtw55zq8zz19nkzqlu53zxa8.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_7358-1-rg5qw0gbx2jzdvs799sggmxgbmvc8yrbbv9bmdyj40.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_7347-rg5qw0gbx2jzdvs799sggmxgbmvc8yrbbv9bmdyj40.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_7348-rg5qw0gbx2jzdvs799sggmxgbmvc8yrbbv9bmdyj40.webp"
+  ],
+  "totalImages": 10,
+  "url": "https://svintermed.com.br/veiculos/fiat-pulse-audace-hybrid-3/",
+  "warnings": [
+    "Imagens fora da galeria principal foram ignoradas."
+  ],
+  "errors": []
+}

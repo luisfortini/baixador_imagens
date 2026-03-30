@@ -1,0 +1,33 @@
+{
+  "collectedAt": "2026-03-30T00:50:52.360Z",
+  "description": "RAM Rampage RT - 25/26 Para Refaturar CNPJ na cor Branca",
+  "extractionMode": "playwright",
+  "folderName": "RAM Rampage RT__ram-rampage-rt",
+  "name": "RAM Rampage RT",
+  "pageTitle": "RAM Rampage RT - R$ 229.790, - Sinal Verde Intermediações - atendendo lojistas de todo Brasil",
+  "price": "R$ 229.790,",
+  "savedFiles": [
+    "01.webp",
+    "02.webp",
+    "03.webp",
+    "04.webp",
+    "05.webp",
+    "06.webp",
+    "07.webp"
+  ],
+  "sourceImageUrls": [
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_9234-rkblj27i0fd3pd7jhu520nxdhn1os2a3bigsc78cw0.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_9232-rkblj27i0fd3pd7jhu520nxdhn1os2a3bigsc78cw0.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_9231-rkblj35c79ee0z66ccjol5ou30x1zrdtnn49th6yps.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_9243-1-rkblj19ntlbtdr8wnbqfg65ww96bkd6czdtaux9r28.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_9241-rkblj27i0fd3pd7jhu520nxdhn1os2a3bigsc78cw0.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_9240-rkblj27i0fd3pd7jhu520nxdhn1os2a3bigsc78cw0.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_9235-rkblj27i0fd3pd7jhu520nxdhn1os2a3bigsc78cw0.webp"
+  ],
+  "totalImages": 7,
+  "url": "https://svintermed.com.br/veiculos/ram-rampage-rt/",
+  "warnings": [
+    "Imagens fora da galeria principal foram ignoradas."
+  ],
+  "errors": []
+}

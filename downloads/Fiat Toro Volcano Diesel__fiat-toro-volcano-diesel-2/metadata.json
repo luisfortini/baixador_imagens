@@ -1,0 +1,17 @@
+{
+  "collectedAt": "2026-03-30T00:53:29.765Z",
+  "description": "Fiat Toro Volcano Diesel - 26/26 Oferta válida para Refaturar CNPJ na cor Branca, itens de série",
+  "extractionMode": "playwright",
+  "folderName": "Fiat Toro Volcano Diesel__fiat-toro-volcano-diesel-2",
+  "name": "Fiat Toro Volcano Diesel",
+  "pageTitle": "Fiat Toro Volcano Diesel - R$ 175.890, - Sinal Verde Intermediações - atendendo lojistas de todo Brasil",
+  "price": "R$ 175.890,",
+  "savedFiles": [],
+  "sourceImageUrls": [],
+  "totalImages": 0,
+  "url": "https://svintermed.com.br/veiculos/fiat-toro-volcano-diesel-2/",
+  "warnings": [
+    "Galeria principal ausente; imagens de veiculos relacionados foram ignoradas."
+  ],
+  "errors": []
+}

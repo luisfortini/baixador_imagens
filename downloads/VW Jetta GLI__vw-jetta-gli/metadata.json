@@ -1,0 +1,17 @@
+{
+  "collectedAt": "2026-03-30T00:56:49.163Z",
+  "description": "VW Jetta GLI - A Faturar PF/PJ na cor: Branca",
+  "extractionMode": "playwright",
+  "folderName": "VW Jetta GLI__vw-jetta-gli",
+  "name": "VW Jetta GLI",
+  "pageTitle": "VW Jetta GLI - R$ 245.990, - Sinal Verde Intermediações - atendendo lojistas de todo Brasil",
+  "price": "R$ 245.990,",
+  "savedFiles": [],
+  "sourceImageUrls": [],
+  "totalImages": 0,
+  "url": "https://svintermed.com.br/veiculos/vw-jetta-gli/",
+  "warnings": [
+    "Galeria principal ausente; imagens de veiculos relacionados foram ignoradas."
+  ],
+  "errors": []
+}

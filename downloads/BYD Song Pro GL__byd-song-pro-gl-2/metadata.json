@@ -1,0 +1,45 @@
+{
+  "collectedAt": "2026-03-30T00:58:45.842Z",
+  "description": "BYD Song Pro GL - Oferta válida para faturamento CNPJ, disponível em todas as cores, consulte condições",
+  "extractionMode": "playwright",
+  "folderName": "BYD Song Pro GL__byd-song-pro-gl-2",
+  "name": "BYD Song Pro GL",
+  "pageTitle": "BYD Song Pro GL - R$ 155.990, - Sinal Verde Intermediações - atendendo lojistas de todo Brasil",
+  "price": "R$ 155.990,",
+  "savedFiles": [
+    "01.webp",
+    "02.webp",
+    "03.webp",
+    "04.webp",
+    "05.webp",
+    "06.webp",
+    "07.webp",
+    "08.webp",
+    "09.webp",
+    "10.webp",
+    "11.webp",
+    "12.webp",
+    "13.webp"
+  ],
+  "sourceImageUrls": [
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_0804-1-r9n0737pcvkil1gi4vi5b8iooysllrwfyaw1cpaa0w.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_0798-1-r9n0737pcvkil1gi4vi5b8iooysllrwfyaw1cpaa0w.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_0803-1-r9n0737pcvkil1gi4vi5b8iooysllrwfyaw1cpaa0w.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_8127-1-rhf5wey3m40bijriui68fx3ha9frvjh67t8o7f1xds.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_0799-1-r9n0737pcvkil1gi4vi5b8iooysllrwfyaw1cpaa0w.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_0801-1-r9n0737pcvkil1gi4vi5b8iooysllrwfyaw1cpaa0w.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_0797-1-r9n0737pcvkil1gi4vi5b8iooysllrwfyaw1cpaa0w.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_0800-r9n0737pcvkil1gi4vi5b8iooysllrwfyaw1cpaa0w.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_0796-1-r9n0737pcvkil1gi4vi5b8iooysllrwfyaw1cpaa0w.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_0802-1-r9n0737pcvkil1gi4vi5b8iooysllrwfyaw1cpaa0w.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_0793-1-r9n0737pcvkil1gi4vi5b8iooysllrwfyaw1cpaa0w.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_0805-1-r9n0737pcvkil1gi4vi5b8iooysllrwfyaw1cpaa0w.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_0795-1-r9n0737pcvkil1gi4vi5b8iooysllrwfyaw1cpaa0w.webp"
+  ],
+  "totalImages": 13,
+  "url": "https://svintermed.com.br/veiculos/byd-song-pro-gl-2/",
+  "warnings": [
+    "Imagens fora da galeria principal foram ignoradas."
+  ],
+  "errors": []
+}

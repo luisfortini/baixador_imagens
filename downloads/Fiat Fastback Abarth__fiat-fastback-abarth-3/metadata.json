@@ -1,0 +1,37 @@
+{
+  "collectedAt": "2026-03-30T00:55:46.441Z",
+  "description": "Fiat Fastback Abarth - 26/26 Faturamento em CPF Àrea Livre Brasil, válido para as cores: Vermelha e Branca",
+  "extractionMode": "playwright",
+  "folderName": "Fiat Fastback Abarth__fiat-fastback-abarth-3",
+  "name": "Fiat Fastback Abarth",
+  "pageTitle": "Fiat Fastback Abarth - R$ 158.590, - Sinal Verde Intermediações - atendendo lojistas de todo Brasil",
+  "price": "R$ 158.590,",
+  "savedFiles": [
+    "01.webp",
+    "02.webp",
+    "03.webp",
+    "04.webp",
+    "05.webp",
+    "06.webp",
+    "07.webp",
+    "08.webp",
+    "09.webp"
+  ],
+  "sourceImageUrls": [
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_8303-rhgxk2erw33v5p0g7l0py4n79w6f5y6bmfo6ab75fk.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_8301-rhgxk2erw33v5p0g7l0py4n79w6f5y6bmfo6ab75fk.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_8302-rhgxk2erw33v5p0g7l0py4n79w6f5y6bmfo6ab75fk.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_8300-1-rhgxg0psgrkf64w2uc1jpner764j0v3xeejwwf7680.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_8294-rhgxg0psgrkf64w2uc1jpner764j0v3xeejwwf7680.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_8299-rhgxg0psgrkf64w2uc1jpner764j0v3xeejwwf7680.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_8295-rhgxg0psgrkf64w2uc1jpner764j0v3xeejwwf7680.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_8298-rhgxg1nmnllphqupoug6a567sjzw8k7nqj7edp5s1s.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_8297-rhgxg1nmnllphqupoug6a567sjzw8k7nqj7edp5s1s.webp"
+  ],
+  "totalImages": 9,
+  "url": "https://svintermed.com.br/veiculos/fiat-fastback-abarth-3/",
+  "warnings": [
+    "Imagens fora da galeria principal foram ignoradas."
+  ],
+  "errors": []
+}

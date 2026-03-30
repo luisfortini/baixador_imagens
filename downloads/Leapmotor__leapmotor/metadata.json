@@ -1,0 +1,29 @@
+{
+  "collectedAt": "2026-03-30T00:51:22.609Z",
+  "description": "Leapmotor - Chão para Refaturar em CNPJ nas Cores Preta, Verde, Branca, Cinza Tundra e Cinza Cinza Noturno",
+  "extractionMode": "playwright",
+  "folderName": "Leapmotor__leapmotor",
+  "name": "Leapmotor",
+  "pageTitle": "Leapmotor - R$ 204.490, - Sinal Verde Intermediações - atendendo lojistas de todo Brasil",
+  "price": "R$ 204.490,",
+  "savedFiles": [
+    "01.webp",
+    "02.webp",
+    "03.webp",
+    "04.webp",
+    "05.webp"
+  ],
+  "sourceImageUrls": [
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/52094d69-c643-47c7-b227-511425e2e540-rk99no56g41nap1jm6sy23i6ij8m1uib6wzy924280.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/962d989e-ea58-4608-bd4a-f638c6b13ddf-rk99no56g41nap1jm6sy23i6ij8m1uib6wzy924280.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/bd6faffa-0237-44c0-a4d5-b488bc3cd188-rk99no56g41nap1jm6sy23i6ij8m1uib6wzy924280.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_9691-1-rk99nn7c9a0cz32wroebhlqpx5d8u5ekuscgrs5ge8.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/b56f3bec-3756-41ad-a874-4f8622e4fd6b-rk99nn7c9a0cz32wroebhlqpx5d8u5ekuscgrs5ge8.webp"
+  ],
+  "totalImages": 5,
+  "url": "https://svintermed.com.br/veiculos/leapmotor/",
+  "warnings": [
+    "Imagens fora da galeria principal foram ignoradas."
+  ],
+  "errors": []
+}
