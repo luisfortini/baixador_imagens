@@ -8,11 +8,12 @@ export default defineConfig(({ mode }) => {
   return {
     plugins: [react()],
     preview: {
-      host: '127.0.0.1',
-      port: 4173,
+      host: '0.0.0.0',
+      port: 3000,
+      allowedHosts: ['overtake-frontend-overtake.eh1kil.easypanel.host'],
     },
     server: {
-      host: '127.0.0.1',
+      host: '0.0.0.0',
       port: 5173,
       proxy: {
         '/api': {
