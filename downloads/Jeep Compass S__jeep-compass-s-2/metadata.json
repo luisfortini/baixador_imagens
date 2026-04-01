@@ -1,5 +1,5 @@
 {
-  "collectedAt": "2026-03-30T00:55:24.474Z",
+  "collectedAt": "2026-03-31T23:41:29.444Z",
   "description": "Jeep Compass S - Oferta válida para Refaturamento em CNPJ disponível nas cores Branca e Cinza Sting",
   "extractionMode": "playwright",
   "folderName": "Jeep Compass S__jeep-compass-s-2",
@@ -35,7 +35,8 @@
   "totalImages": 11,
   "url": "https://svintermed.com.br/veiculos/jeep-compass-s-2/",
   "warnings": [
-    "Imagens fora da galeria principal foram ignoradas."
+    "Imagens fora da galeria principal foram ignoradas.",
+    "Imagens reaproveitadas integralmente a partir de uma coleta anterior."
   ],
   "errors": []
 }

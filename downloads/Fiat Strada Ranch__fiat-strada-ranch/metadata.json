@@ -1,5 +1,5 @@
 {
-  "collectedAt": "2026-03-30T00:57:44.113Z",
+  "collectedAt": "2026-03-31T23:43:45.265Z",
   "description": "Fiat Strada Ranch - Oferta válida para faturar PF/PJ na cor: Preta",
   "extractionMode": "playwright",
   "folderName": "Fiat Strada Ranch__fiat-strada-ranch",
@@ -33,7 +33,8 @@
   "totalImages": 10,
   "url": "https://svintermed.com.br/veiculos/fiat-strada-ranch/",
   "warnings": [
-    "Imagens fora da galeria principal foram ignoradas."
+    "Imagens fora da galeria principal foram ignoradas.",
+    "Imagens reaproveitadas integralmente a partir de uma coleta anterior."
   ],
   "errors": []
 }

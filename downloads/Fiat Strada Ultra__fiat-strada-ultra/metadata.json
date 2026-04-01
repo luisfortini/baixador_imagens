@@ -1,5 +1,5 @@
 {
-  "collectedAt": "2026-03-30T00:58:06.261Z",
+  "collectedAt": "2026-03-31T23:44:04.071Z",
   "description": "Fiat Strada Ultra - Oferta válida para faturamento na física ou jurídica, temos todas as cores consultar valor",
   "extractionMode": "playwright",
   "folderName": "Fiat Strada Ultra__fiat-strada-ultra",
@@ -31,7 +31,8 @@
   "totalImages": 9,
   "url": "https://svintermed.com.br/veiculos/fiat-strada-ultra/",
   "warnings": [
-    "Imagens fora da galeria principal foram ignoradas."
+    "Imagens fora da galeria principal foram ignoradas.",
+    "Imagens reaproveitadas integralmente a partir de uma coleta anterior."
   ],
   "errors": []
 }

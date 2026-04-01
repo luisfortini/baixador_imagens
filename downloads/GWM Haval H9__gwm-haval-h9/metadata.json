@@ -1,5 +1,5 @@
 {
-  "collectedAt": "2026-03-30T00:51:06.110Z",
+  "collectedAt": "2026-03-31T23:37:30.158Z",
   "description": "GWM Haval H9 - A Faturar CPF na cor preta",
   "extractionMode": "playwright",
   "folderName": "GWM Haval H9__gwm-haval-h9",
@@ -51,7 +51,8 @@
   "totalImages": 19,
   "url": "https://svintermed.com.br/veiculos/gwm-haval-h9/",
   "warnings": [
-    "Imagens fora da galeria principal foram ignoradas."
+    "Imagens fora da galeria principal foram ignoradas.",
+    "Imagens reaproveitadas integralmente a partir de uma coleta anterior."
   ],
   "errors": []
 }

@@ -1,5 +1,5 @@
 {
-  "collectedAt": "2026-03-30T00:55:39.798Z",
+  "collectedAt": "2026-03-31T23:41:47.238Z",
   "description": "BYD King GS - FR Liberado! com IPVA Total 2026 PG, na cor: Cinza",
   "extractionMode": "playwright",
   "folderName": "BYD King GS__byd-king-gs",
@@ -41,7 +41,8 @@
   "totalImages": 14,
   "url": "https://svintermed.com.br/veiculos/byd-king-gs/",
   "warnings": [
-    "Imagens fora da galeria principal foram ignoradas."
+    "Imagens fora da galeria principal foram ignoradas.",
+    "Imagens reaproveitadas integralmente a partir de uma coleta anterior."
   ],
   "errors": []
 }

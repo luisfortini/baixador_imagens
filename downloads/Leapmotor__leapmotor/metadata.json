@@ -1,5 +1,5 @@
 {
-  "collectedAt": "2026-03-30T00:51:22.609Z",
+  "collectedAt": "2026-03-31T23:37:39.783Z",
   "description": "Leapmotor - Chão para Refaturar em CNPJ nas Cores Preta, Verde, Branca, Cinza Tundra e Cinza Cinza Noturno",
   "extractionMode": "playwright",
   "folderName": "Leapmotor__leapmotor",
@@ -23,7 +23,8 @@
   "totalImages": 5,
   "url": "https://svintermed.com.br/veiculos/leapmotor/",
   "warnings": [
-    "Imagens fora da galeria principal foram ignoradas."
+    "Imagens fora da galeria principal foram ignoradas.",
+    "Imagens reaproveitadas integralmente a partir de uma coleta anterior."
   ],
   "errors": []
 }

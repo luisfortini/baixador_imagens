@@ -1,5 +1,5 @@
 {
-  "collectedAt": "2026-03-30T00:57:22.453Z",
+  "collectedAt": "2026-03-31T23:43:23.352Z",
   "description": "Fiat Pulse Audace Hybrid - Faturamento CNPJ/MEI/RURAL nas cores: Prata e Cinza Silverstone",
   "extractionMode": "playwright",
   "folderName": "Fiat Pulse Audace Hybrid__fiat-pulse-audace-hybrid-3",
@@ -33,7 +33,8 @@
   "totalImages": 10,
   "url": "https://svintermed.com.br/veiculos/fiat-pulse-audace-hybrid-3/",
   "warnings": [
-    "Imagens fora da galeria principal foram ignoradas."
+    "Imagens fora da galeria principal foram ignoradas.",
+    "Imagens reaproveitadas integralmente a partir de uma coleta anterior."
   ],
   "errors": []
 }

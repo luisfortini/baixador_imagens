@@ -1,11 +1,11 @@
 {
-  "collectedAt": "2026-03-30T00:56:41.348Z",
+  "collectedAt": "2026-03-31T23:42:42.781Z",
   "description": "Toyota SW4 Diamond - Chão A Faturar PF/PJ válido para cor Preta",
   "extractionMode": "playwright",
   "folderName": "Toyota SW4 Diamond__toyota-sw4-diamond-2",
   "name": "Toyota SW4 Diamond",
   "pageTitle": "Toyota SW4 Diamond - R$ Consulte! - Sinal Verde Intermediações - atendendo lojistas de todo Brasil",
-  "price": "R$ 240.990,",
+  "price": "R$ 289.790,",
   "savedFiles": [
     "01.webp",
     "02.webp",
@@ -33,7 +33,8 @@
   "totalImages": 10,
   "url": "https://svintermed.com.br/veiculos/toyota-sw4-diamond-2/",
   "warnings": [
-    "Imagens fora da galeria principal foram ignoradas."
+    "Imagens fora da galeria principal foram ignoradas.",
+    "Imagens reaproveitadas integralmente a partir de uma coleta anterior."
   ],
   "errors": []
 }

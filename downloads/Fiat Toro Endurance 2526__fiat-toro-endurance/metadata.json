@@ -1,5 +1,5 @@
 {
-  "collectedAt": "2026-03-30T00:53:23.900Z",
+  "collectedAt": "2026-03-31T23:39:32.532Z",
   "description": "Fiat Toro Endurance 25/26 - 25/26 Oferta válida para Refaturar CNPJ, na cor Branca <<<",
   "extractionMode": "playwright",
   "folderName": "Fiat Toro Endurance 2526__fiat-toro-endurance",
@@ -23,7 +23,8 @@
   "totalImages": 5,
   "url": "https://svintermed.com.br/veiculos/fiat-toro-endurance/",
   "warnings": [
-    "Imagens fora da galeria principal foram ignoradas."
+    "Imagens fora da galeria principal foram ignoradas.",
+    "Imagens reaproveitadas integralmente a partir de uma coleta anterior."
   ],
   "errors": []
 }

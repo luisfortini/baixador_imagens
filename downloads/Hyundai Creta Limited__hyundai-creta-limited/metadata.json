@@ -1,5 +1,5 @@
 {
-  "collectedAt": "2026-03-30T00:53:20.349Z",
+  "collectedAt": "2026-03-31T23:39:23.989Z",
   "description": "Hyundai Creta Limited - 25/26 A Faturar PF/PJ, válido para as cores Branca, Prata e Cinza",
   "extractionMode": "playwright",
   "folderName": "Hyundai Creta Limited__hyundai-creta-limited",
@@ -29,7 +29,8 @@
   "totalImages": 8,
   "url": "https://svintermed.com.br/veiculos/hyundai-creta-limited/",
   "warnings": [
-    "Imagens fora da galeria principal foram ignoradas."
+    "Imagens fora da galeria principal foram ignoradas.",
+    "Imagens reaproveitadas integralmente a partir de uma coleta anterior."
   ],
   "errors": []
 }

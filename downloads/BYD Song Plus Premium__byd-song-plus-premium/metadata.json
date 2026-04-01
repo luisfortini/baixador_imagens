@@ -1,5 +1,5 @@
 {
-  "collectedAt": "2026-03-30T00:51:02.302Z",
+  "collectedAt": "2026-03-31T23:37:20.872Z",
   "description": "BYD Song Plus Premium - 25/26 FR Liberado, Doc e Ipva Total PG na cor Cinza Smoke com Interno Claro",
   "extractionMode": "playwright",
   "folderName": "BYD Song Plus Premium__byd-song-plus-premium",
@@ -27,7 +27,8 @@
   "totalImages": 7,
   "url": "https://svintermed.com.br/veiculos/byd-song-plus-premium/",
   "warnings": [
-    "Imagens fora da galeria principal foram ignoradas."
+    "Imagens fora da galeria principal foram ignoradas.",
+    "Imagens reaproveitadas integralmente a partir de uma coleta anterior."
   ],
   "errors": []
 }

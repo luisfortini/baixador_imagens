@@ -1,5 +1,5 @@
 {
-  "collectedAt": "2026-03-30T00:56:45.023Z",
+  "collectedAt": "2026-03-31T23:42:44.751Z",
   "description": "VW Saveiro Extreme - A Faturar PF/PJ na Cor: Cinza Oliver com PTA",
   "extractionMode": "playwright",
   "folderName": "VW Saveiro Extreme__vw-saveiro-extreme",
@@ -27,7 +27,8 @@
   "totalImages": 7,
   "url": "https://svintermed.com.br/veiculos/vw-saveiro-extreme/",
   "warnings": [
-    "Imagens fora da galeria principal foram ignoradas."
+    "Imagens fora da galeria principal foram ignoradas.",
+    "Imagens reaproveitadas integralmente a partir de uma coleta anterior."
   ],
   "errors": []
 }

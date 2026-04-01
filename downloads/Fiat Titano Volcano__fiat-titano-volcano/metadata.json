@@ -1,5 +1,5 @@
 {
-  "collectedAt": "2026-03-30T00:53:49.725Z",
+  "collectedAt": "2026-03-31T23:39:55.138Z",
   "description": "Fiat Titano Volcano - Valido para Refaturamento em CNPJ ou Produtor Rural, na cor cinza",
   "extractionMode": "playwright",
   "folderName": "Fiat Titano Volcano__fiat-titano-volcano",
@@ -15,7 +15,8 @@
   "totalImages": 1,
   "url": "https://svintermed.com.br/veiculos/fiat-titano-volcano/",
   "warnings": [
-    "Imagens fora da galeria principal foram ignoradas."
+    "Imagens fora da galeria principal foram ignoradas.",
+    "Imagens reaproveitadas integralmente a partir de uma coleta anterior."
   ],
   "errors": []
 }

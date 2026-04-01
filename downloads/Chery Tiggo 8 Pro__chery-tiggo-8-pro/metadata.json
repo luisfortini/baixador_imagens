@@ -1,5 +1,5 @@
 {
-  "collectedAt": "2026-03-30T00:54:30.125Z",
+  "collectedAt": "2026-03-31T23:40:36.017Z",
   "description": "Chery Tiggo 8 Pro - A Faturar CPF, válido para a cor Branca <<<<",
   "extractionMode": "playwright",
   "folderName": "Chery Tiggo 8 Pro__chery-tiggo-8-pro",
@@ -27,7 +27,8 @@
   "totalImages": 7,
   "url": "https://svintermed.com.br/veiculos/chery-tiggo-8-pro/",
   "warnings": [
-    "Imagens fora da galeria principal foram ignoradas."
+    "Imagens fora da galeria principal foram ignoradas.",
+    "Imagens reaproveitadas integralmente a partir de uma coleta anterior."
   ],
   "errors": []
 }

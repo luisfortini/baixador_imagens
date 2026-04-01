@@ -1,5 +1,5 @@
 {
-  "collectedAt": "2026-03-30T00:55:37.461Z",
+  "collectedAt": "2026-03-31T23:41:46.228Z",
   "description": "BYD Dolphin GS 2027 - FR Liberado nas Cores Branca e Cinza, consulte condições.",
   "extractionMode": "playwright",
   "folderName": "BYD Dolphin GS 2027__byd-dolphin-gs",
@@ -27,7 +27,8 @@
   "totalImages": 7,
   "url": "https://svintermed.com.br/veiculos/byd-dolphin-gs/",
   "warnings": [
-    "Imagens fora da galeria principal foram ignoradas."
+    "Imagens fora da galeria principal foram ignoradas.",
+    "Imagens reaproveitadas integralmente a partir de uma coleta anterior."
   ],
   "errors": []
 }

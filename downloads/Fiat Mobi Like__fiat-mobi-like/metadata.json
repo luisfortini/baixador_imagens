@@ -1,5 +1,5 @@
 {
-  "collectedAt": "2026-03-30T00:57:20.709Z",
+  "collectedAt": "2026-03-31T23:43:17.060Z",
   "description": "Fiat Mobi Like - Oferta válida para refaturamento em CPF na cor: branca",
   "extractionMode": "playwright",
   "folderName": "Fiat Mobi Like__fiat-mobi-like",
@@ -25,7 +25,8 @@
   "totalImages": 6,
   "url": "https://svintermed.com.br/veiculos/fiat-mobi-like/",
   "warnings": [
-    "Imagens fora da galeria principal foram ignoradas."
+    "Imagens fora da galeria principal foram ignoradas.",
+    "Imagens reaproveitadas integralmente a partir de uma coleta anterior."
   ],
   "errors": []
 }

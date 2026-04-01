@@ -1,5 +1,5 @@
 {
-  "collectedAt": "2026-03-30T00:56:03.772Z",
+  "collectedAt": "2026-03-31T23:42:06.458Z",
   "description": "RAM Rampage RT - Oferta válida para Refaturamento no CNPJ ou Produtor Rural, Taxa Zero em 12x com 70% ou Taxa 0,79% com 60% em 18x Fatura área livre Brasil. Disponível nas cores Maximum e Cinza Sting.",
   "extractionMode": "playwright",
   "folderName": "RAM Rampage RT__ram-rampage-rt-4",
@@ -43,7 +43,8 @@
   "totalImages": 15,
   "url": "https://svintermed.com.br/veiculos/ram-rampage-rt-4/",
   "warnings": [
-    "Imagens fora da galeria principal foram ignoradas."
+    "Imagens fora da galeria principal foram ignoradas.",
+    "Imagens reaproveitadas integralmente a partir de uma coleta anterior."
   ],
   "errors": []
 }

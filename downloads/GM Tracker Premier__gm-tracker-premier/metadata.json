@@ -1,5 +1,5 @@
 {
-  "collectedAt": "2026-03-30T00:55:27.536Z",
+  "collectedAt": "2026-03-31T23:41:37.759Z",
   "description": "GM Tracker Premier - A Faturar PF/PJ nas cores: Cinza e Preta",
   "extractionMode": "playwright",
   "folderName": "GM Tracker Premier__gm-tracker-premier",
@@ -27,7 +27,8 @@
   "totalImages": 7,
   "url": "https://svintermed.com.br/veiculos/gm-tracker-premier/",
   "warnings": [
-    "Imagens fora da galeria principal foram ignoradas."
+    "Imagens fora da galeria principal foram ignoradas.",
+    "Imagens reaproveitadas integralmente a partir de uma coleta anterior."
   ],
   "errors": []
 }

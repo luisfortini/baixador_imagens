@@ -1,5 +1,5 @@
 {
-  "collectedAt": "2026-03-30T00:51:17.552Z",
+  "collectedAt": "2026-03-31T23:37:39.682Z",
   "description": "Toyota Yaris Cross XRX Hibrido - XRX Top de Linha, Hibrido com Teto Preto e IPVA PG 2026",
   "extractionMode": "playwright",
   "folderName": "Toyota Yaris Cross XRX Hibrido__toyota-yaris-cross-xrx-hibrido",
@@ -27,7 +27,8 @@
   "totalImages": 7,
   "url": "https://svintermed.com.br/veiculos/toyota-yaris-cross-xrx-hibrido/",
   "warnings": [
-    "Imagens fora da galeria principal foram ignoradas."
+    "Imagens fora da galeria principal foram ignoradas.",
+    "Imagens reaproveitadas integralmente a partir de uma coleta anterior."
   ],
   "errors": []
 }

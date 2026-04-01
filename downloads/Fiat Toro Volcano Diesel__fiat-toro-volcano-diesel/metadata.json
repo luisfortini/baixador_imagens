@@ -1,5 +1,5 @@
 {
-  "collectedAt": "2026-03-30T00:56:24.034Z",
+  "collectedAt": "2026-03-31T23:42:25.526Z",
   "description": "Fiat Toro Volcano Diesel - Oferta válida para Refaturamento CNPJ, Com Pach Tech 📌 na cor azul",
   "extractionMode": "playwright",
   "folderName": "Fiat Toro Volcano Diesel__fiat-toro-volcano-diesel",
@@ -25,7 +25,8 @@
   "totalImages": 6,
   "url": "https://svintermed.com.br/veiculos/fiat-toro-volcano-diesel/",
   "warnings": [
-    "Imagens fora da galeria principal foram ignoradas."
+    "Imagens fora da galeria principal foram ignoradas.",
+    "Imagens reaproveitadas integralmente a partir de uma coleta anterior."
   ],
   "errors": []
 }

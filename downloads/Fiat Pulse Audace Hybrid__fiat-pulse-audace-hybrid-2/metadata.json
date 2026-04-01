@@ -1,5 +1,5 @@
 {
-  "collectedAt": "2026-03-30T00:57:28.383Z",
+  "collectedAt": "2026-03-31T23:43:26.870Z",
   "description": "Fiat Pulse Audace Hybrid - Faturamento CNPJ/MEI/RURAL nas cores: Branca e Vermelha",
   "extractionMode": "playwright",
   "folderName": "Fiat Pulse Audace Hybrid__fiat-pulse-audace-hybrid-2",
@@ -27,7 +27,8 @@
   "totalImages": 7,
   "url": "https://svintermed.com.br/veiculos/fiat-pulse-audace-hybrid-2/",
   "warnings": [
-    "Imagens fora da galeria principal foram ignoradas."
+    "Imagens fora da galeria principal foram ignoradas.",
+    "Imagens reaproveitadas integralmente a partir de uma coleta anterior."
   ],
   "errors": []
 }

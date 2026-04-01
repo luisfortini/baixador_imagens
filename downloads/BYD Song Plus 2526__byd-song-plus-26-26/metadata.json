@@ -1,5 +1,5 @@
 {
-  "collectedAt": "2026-03-30T00:51:25.115Z",
+  "collectedAt": "2026-03-31T23:37:48.430Z",
   "description": "BYD Song Plus 25/26 - 25/26 FR Liberado na cor Cinza Time com Interno Claro (( Chão SP ))",
   "extractionMode": "playwright",
   "folderName": "BYD Song Plus 2526__byd-song-plus-26-26",
@@ -31,7 +31,8 @@
   "totalImages": 9,
   "url": "https://svintermed.com.br/veiculos/byd-song-plus-26-26/",
   "warnings": [
-    "Imagens fora da galeria principal foram ignoradas."
+    "Imagens fora da galeria principal foram ignoradas.",
+    "Imagens reaproveitadas integralmente a partir de uma coleta anterior."
   ],
   "errors": []
 }

@@ -1,5 +1,5 @@
 {
-  "collectedAt": "2026-03-30T00:52:27.864Z",
+  "collectedAt": "2026-03-31T23:38:44.511Z",
   "description": "Honda HRV EX 26-26 - 26-26 AF CNPJ, Pronto Faturamento, disponivel nas cores Cinza Basalto, Prata, Azul e Preta",
   "extractionMode": "playwright",
   "folderName": "Honda HRV EX 26-26__honda-hrv-ex-26-26",
@@ -33,7 +33,8 @@
   "totalImages": 10,
   "url": "https://svintermed.com.br/veiculos/honda-hrv-ex-26-26/",
   "warnings": [
-    "Imagens fora da galeria principal foram ignoradas."
+    "Imagens fora da galeria principal foram ignoradas.",
+    "Imagens reaproveitadas integralmente a partir de uma coleta anterior."
   ],
   "errors": []
 }

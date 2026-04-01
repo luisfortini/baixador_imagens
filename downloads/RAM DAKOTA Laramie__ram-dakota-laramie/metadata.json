@@ -1,5 +1,5 @@
 {
-  "collectedAt": "2026-03-30T00:53:11.902Z",
+  "collectedAt": "2026-03-31T23:39:22.562Z",
   "description": "RAM DAKOTA Laramie - Faturamento CNPJ",
   "extractionMode": "playwright",
   "folderName": "RAM DAKOTA Laramie__ram-dakota-laramie",
@@ -23,7 +23,8 @@
   "totalImages": 5,
   "url": "https://svintermed.com.br/veiculos/ram-dakota-laramie/",
   "warnings": [
-    "Imagens fora da galeria principal foram ignoradas."
+    "Imagens fora da galeria principal foram ignoradas.",
+    "Imagens reaproveitadas integralmente a partir de uma coleta anterior."
   ],
   "errors": []
 }

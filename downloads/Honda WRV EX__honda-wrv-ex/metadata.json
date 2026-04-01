@@ -1,5 +1,5 @@
 {
-  "collectedAt": "2026-03-30T00:52:38.340Z",
+  "collectedAt": "2026-03-31T23:38:54.132Z",
   "description": "Honda WRV EX - 26-26 AF CNPJ Pronto Faturamento! Oferta valida para cor Cinza Basalto",
   "extractionMode": "playwright",
   "folderName": "Honda WRV EX__honda-wrv-ex",
@@ -29,7 +29,8 @@
   "totalImages": 8,
   "url": "https://svintermed.com.br/veiculos/honda-wrv-ex/",
   "warnings": [
-    "Imagens fora da galeria principal foram ignoradas."
+    "Imagens fora da galeria principal foram ignoradas.",
+    "Imagens reaproveitadas integralmente a partir de uma coleta anterior."
   ],
   "errors": []
 }

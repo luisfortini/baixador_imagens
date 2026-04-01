@@ -1,5 +1,5 @@
 {
-  "collectedAt": "2026-03-30T00:53:52.152Z",
+  "collectedAt": "2026-03-31T23:40:05.830Z",
   "description": "Fiat Titano Ranch - Valido para Refaturamento em CNPJ ou Produtor Rural, nas cores cinza e Branca",
   "extractionMode": "playwright",
   "folderName": "Fiat Titano Ranch__fiat-titano-ranch",
@@ -31,7 +31,8 @@
   "totalImages": 9,
   "url": "https://svintermed.com.br/veiculos/fiat-titano-ranch/",
   "warnings": [
-    "Imagens fora da galeria principal foram ignoradas."
+    "Imagens fora da galeria principal foram ignoradas.",
+    "Imagens reaproveitadas integralmente a partir de uma coleta anterior."
   ],
   "errors": []
 }

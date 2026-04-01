@@ -1,5 +1,5 @@
 {
-  "collectedAt": "2026-03-30T00:54:42.337Z",
+  "collectedAt": "2026-03-31T23:40:57.876Z",
   "description": "Ford Ranger Raptor - A Faturar CPF com IPVA ISENTO 2026 na cor Azul",
   "extractionMode": "playwright",
   "folderName": "Ford Ranger Raptor__ford-ranger-raptor-3",
@@ -25,7 +25,8 @@
   "totalImages": 6,
   "url": "https://svintermed.com.br/veiculos/ford-ranger-raptor-3/",
   "warnings": [
-    "Imagens fora da galeria principal foram ignoradas."
+    "Imagens fora da galeria principal foram ignoradas.",
+    "Imagens reaproveitadas integralmente a partir de uma coleta anterior."
   ],
   "errors": []
 }

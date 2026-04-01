@@ -1,5 +1,5 @@
 {
-  "collectedAt": "2026-03-30T00:58:45.842Z",
+  "collectedAt": "2026-03-31T23:44:25.687Z",
   "description": "BYD Song Pro GL - Oferta válida para faturamento CNPJ, disponível em todas as cores, consulte condições",
   "extractionMode": "playwright",
   "folderName": "BYD Song Pro GL__byd-song-pro-gl-2",
@@ -39,7 +39,8 @@
   "totalImages": 13,
   "url": "https://svintermed.com.br/veiculos/byd-song-pro-gl-2/",
   "warnings": [
-    "Imagens fora da galeria principal foram ignoradas."
+    "Imagens fora da galeria principal foram ignoradas.",
+    "Imagens reaproveitadas integralmente a partir de uma coleta anterior."
   ],
   "errors": []
 }

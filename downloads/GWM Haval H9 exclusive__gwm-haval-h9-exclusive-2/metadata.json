@@ -1,5 +1,5 @@
 {
-  "collectedAt": "2026-03-30T00:51:35.756Z",
+  "collectedAt": "2026-03-31T23:37:57.896Z",
   "description": "GWM Haval H9 exclusive - 25/26 A Faturar CPF na cor Cinza Fosco",
   "extractionMode": "playwright",
   "folderName": "GWM Haval H9 exclusive__gwm-haval-h9-exclusive-2",
@@ -39,7 +39,8 @@
   "totalImages": 13,
   "url": "https://svintermed.com.br/veiculos/gwm-haval-h9-exclusive-2/",
   "warnings": [
-    "Imagens fora da galeria principal foram ignoradas."
+    "Imagens fora da galeria principal foram ignoradas.",
+    "Imagens reaproveitadas integralmente a partir de uma coleta anterior."
   ],
   "errors": []
 }

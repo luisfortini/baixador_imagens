@@ -1,5 +1,5 @@
 {
-  "collectedAt": "2026-03-30T00:58:16.635Z",
+  "collectedAt": "2026-03-31T23:44:14.771Z",
   "description": "Nissan Kicks Platinum - A Faturar, válido para coe: branca",
   "extractionMode": "playwright",
   "folderName": "Nissan Kicks Platinum__nissan-kicks-platinum",
@@ -47,7 +47,8 @@
   "totalImages": 17,
   "url": "https://svintermed.com.br/veiculos/nissan-kicks-platinum/",
   "warnings": [
-    "Imagens fora da galeria principal foram ignoradas."
+    "Imagens fora da galeria principal foram ignoradas.",
+    "Imagens reaproveitadas integralmente a partir de uma coleta anterior."
   ],
   "errors": []
 }

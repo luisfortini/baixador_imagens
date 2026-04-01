@@ -1,5 +1,5 @@
 {
-  "collectedAt": "2026-03-30T00:57:10.512Z",
+  "collectedAt": "2026-03-31T23:43:05.817Z",
   "description": "Toyota Hilux SRV - A Faturar com IPVA ISENTO 2026, economia de R$ 11.600,00 Disponível nas Cores: Prata, Preta, Cinza e Branca",
   "extractionMode": "playwright",
   "folderName": "Toyota Hilux SRV__toyota-hilux-srv",
@@ -31,7 +31,8 @@
   "totalImages": 9,
   "url": "https://svintermed.com.br/veiculos/toyota-hilux-srv/",
   "warnings": [
-    "Imagens fora da galeria principal foram ignoradas."
+    "Imagens fora da galeria principal foram ignoradas.",
+    "Imagens reaproveitadas integralmente a partir de uma coleta anterior."
   ],
   "errors": []
 }

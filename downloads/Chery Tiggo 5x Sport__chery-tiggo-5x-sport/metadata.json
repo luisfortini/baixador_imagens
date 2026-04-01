@@ -1,5 +1,5 @@
 {
-  "collectedAt": "2026-03-30T00:55:17.253Z",
+  "collectedAt": "2026-03-31T23:41:28.134Z",
   "description": "Chery Tiggo 5x Sport - A Faturar na Origem, disponível na cor Cinza",
   "extractionMode": "playwright",
   "folderName": "Chery Tiggo 5x Sport__chery-tiggo-5x-sport",
@@ -29,7 +29,8 @@
   "totalImages": 8,
   "url": "https://svintermed.com.br/veiculos/chery-tiggo-5x-sport/",
   "warnings": [
-    "Imagens fora da galeria principal foram ignoradas."
+    "Imagens fora da galeria principal foram ignoradas.",
+    "Imagens reaproveitadas integralmente a partir de uma coleta anterior."
   ],
   "errors": []
 }

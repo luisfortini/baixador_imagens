@@ -1,5 +1,5 @@
 {
-  "collectedAt": "2026-03-30T00:51:47.219Z",
+  "collectedAt": "2026-03-31T23:38:08.608Z",
   "description": "Fiat Toro Volcano 25/26 - 25/26 Oferta válida para Refaturar CNPJ com Pack Tech, na cor Azul",
   "extractionMode": "playwright",
   "folderName": "Fiat Toro Volcano 2526__fiat-toro-volcano-25-26",
@@ -31,7 +31,8 @@
   "totalImages": 9,
   "url": "https://svintermed.com.br/veiculos/fiat-toro-volcano-25-26/",
   "warnings": [
-    "Imagens fora da galeria principal foram ignoradas."
+    "Imagens fora da galeria principal foram ignoradas.",
+    "Imagens reaproveitadas integralmente a partir de uma coleta anterior."
   ],
   "errors": []
 }

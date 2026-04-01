@@ -1,5 +1,5 @@
 {
-  "collectedAt": "2026-03-30T00:51:44.418Z",
+  "collectedAt": "2026-03-31T23:37:59.045Z",
   "description": "BYD Song Plus 2027 - 2027 Motor Novo 1.5T fatura PF/PJ SP",
   "extractionMode": "playwright",
   "folderName": "BYD Song Plus 2027__byd-song-plus-2027",
@@ -33,7 +33,8 @@
   "totalImages": 10,
   "url": "https://svintermed.com.br/veiculos/byd-song-plus-2027/",
   "warnings": [
-    "Imagens fora da galeria principal foram ignoradas."
+    "Imagens fora da galeria principal foram ignoradas.",
+    "Imagens reaproveitadas integralmente a partir de uma coleta anterior."
   ],
   "errors": []
 }

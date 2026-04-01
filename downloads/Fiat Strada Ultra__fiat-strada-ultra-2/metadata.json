@@ -1,5 +1,5 @@
 {
-  "collectedAt": "2026-03-30T00:57:39.304Z",
+  "collectedAt": "2026-03-31T23:43:37.870Z",
   "description": "Fiat Strada Ultra - Oferta para faturar PF/PJ nas cores: prata e cinza",
   "extractionMode": "playwright",
   "folderName": "Fiat Strada Ultra__fiat-strada-ultra-2",
@@ -31,7 +31,8 @@
   "totalImages": 9,
   "url": "https://svintermed.com.br/veiculos/fiat-strada-ultra-2/",
   "warnings": [
-    "Imagens fora da galeria principal foram ignoradas."
+    "Imagens fora da galeria principal foram ignoradas.",
+    "Imagens reaproveitadas integralmente a partir de uma coleta anterior."
   ],
   "errors": []
 }

@@ -1,5 +1,5 @@
 {
-  "collectedAt": "2026-03-30T00:53:59.848Z",
+  "collectedAt": "2026-03-31T23:40:05.024Z",
   "description": "VW Tera High - 25/26 A Faturar PF/PJ",
   "extractionMode": "playwright",
   "folderName": "VW Tera High__vw-tera-high",
@@ -23,7 +23,8 @@
   "totalImages": 5,
   "url": "https://svintermed.com.br/veiculos/vw-tera-high/",
   "warnings": [
-    "Imagens fora da galeria principal foram ignoradas."
+    "Imagens fora da galeria principal foram ignoradas.",
+    "Imagens reaproveitadas integralmente a partir de uma coleta anterior."
   ],
   "errors": []
 }

@@ -1,5 +1,5 @@
 {
-  "collectedAt": "2026-03-30T00:55:57.283Z",
+  "collectedAt": "2026-03-31T23:41:57.373Z",
   "description": "GM Montana Premier - Oferta para Veículo 26/26 VENDA DIRETA CNPJ ou RURAL FAT ÁREA LIVRE, na cor branca",
   "extractionMode": "playwright",
   "folderName": "GM Montana Premier__gm-montana-premier-2",
@@ -31,7 +31,8 @@
   "totalImages": 9,
   "url": "https://svintermed.com.br/veiculos/gm-montana-premier-2/",
   "warnings": [
-    "Imagens fora da galeria principal foram ignoradas."
+    "Imagens fora da galeria principal foram ignoradas.",
+    "Imagens reaproveitadas integralmente a partir de uma coleta anterior."
   ],
   "errors": []
 }

@@ -1,5 +1,5 @@
 {
-  "collectedAt": "2026-03-30T00:52:08.786Z",
+  "collectedAt": "2026-03-31T23:38:26.754Z",
   "description": "RAM Rampage RT 26/26 - 26/26 FR Liberado, válido para as cores Cinza Sting e Branca",
   "extractionMode": "playwright",
   "folderName": "RAM Rampage RT 2626__ram-rampage-26-26",
@@ -35,7 +35,8 @@
   "totalImages": 11,
   "url": "https://svintermed.com.br/veiculos/ram-rampage-26-26/",
   "warnings": [
-    "Imagens fora da galeria principal foram ignoradas."
+    "Imagens fora da galeria principal foram ignoradas.",
+    "Imagens reaproveitadas integralmente a partir de uma coleta anterior."
   ],
   "errors": []
 }

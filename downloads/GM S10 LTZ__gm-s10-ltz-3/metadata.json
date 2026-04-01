@@ -1,5 +1,5 @@
 {
-  "collectedAt": "2026-03-30T00:57:50.077Z",
+  "collectedAt": "2026-03-31T23:43:49.546Z",
   "description": "GM S10 LTZ - Oferta para Veículo 26/26 VENDA DIRETA CNPJ ou RURAL FAT ÁREA LIVRE, na cor vermelha",
   "extractionMode": "playwright",
   "folderName": "GM S10 LTZ__gm-s10-ltz-3",
@@ -31,7 +31,8 @@
   "totalImages": 9,
   "url": "https://svintermed.com.br/veiculos/gm-s10-ltz-3/",
   "warnings": [
-    "Imagens fora da galeria principal foram ignoradas."
+    "Imagens fora da galeria principal foram ignoradas.",
+    "Imagens reaproveitadas integralmente a partir de uma coleta anterior."
   ],
   "errors": []
 }

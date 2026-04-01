@@ -1,5 +1,5 @@
 {
-  "collectedAt": "2026-03-30T00:55:34.994Z",
+  "collectedAt": "2026-03-31T23:41:38.726Z",
   "description": "GM S10 WT Automática - Oferta para Veículo 26/26 VENDA DIRETA CNPJ ou RURAL FAT ÁREA LIVRE, na cor branca",
   "extractionMode": "playwright",
   "folderName": "GM S10 WT Automática__gm-s10-wt-automatica",
@@ -29,7 +29,8 @@
   "totalImages": 8,
   "url": "https://svintermed.com.br/veiculos/gm-s10-wt-automatica/",
   "warnings": [
-    "Imagens fora da galeria principal foram ignoradas."
+    "Imagens fora da galeria principal foram ignoradas.",
+    "Imagens reaproveitadas integralmente a partir de uma coleta anterior."
   ],
   "errors": []
 }

@@ -1,5 +1,5 @@
 {
-  "collectedAt": "2026-03-30T00:58:14.277Z",
+  "collectedAt": "2026-03-31T23:44:11.178Z",
   "description": "FIAT Fiorino 26/26 - 26/26 Oferta válida para CNPJ, Fatura área livre Brasil",
   "extractionMode": "playwright",
   "folderName": "FIAT Fiorino 2626__fiat-fiorino",
@@ -23,7 +23,8 @@
   "totalImages": 5,
   "url": "https://svintermed.com.br/veiculos/fiat-fiorino/",
   "warnings": [
-    "Imagens fora da galeria principal foram ignoradas."
+    "Imagens fora da galeria principal foram ignoradas.",
+    "Imagens reaproveitadas integralmente a partir de uma coleta anterior."
   ],
   "errors": []
 }

@@ -1,5 +1,5 @@
 {
-  "collectedAt": "2026-03-30T00:58:12.594Z",
+  "collectedAt": "2026-03-31T23:44:09.694Z",
   "description": "Fiat Fastback Audace Hybrid - Oferta válida para CNPJ ou Produtor Rural",
   "extractionMode": "playwright",
   "folderName": "Fiat Fastback Audace Hybrid__fiat-fastback-audace-hybrid",
@@ -31,7 +31,8 @@
   "totalImages": 9,
   "url": "https://svintermed.com.br/veiculos/fiat-fastback-audace-hybrid/",
   "warnings": [
-    "Imagens fora da galeria principal foram ignoradas."
+    "Imagens fora da galeria principal foram ignoradas.",
+    "Imagens reaproveitadas integralmente a partir de uma coleta anterior."
   ],
   "errors": []
 }

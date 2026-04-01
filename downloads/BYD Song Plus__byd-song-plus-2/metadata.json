@@ -1,0 +1,37 @@
+{
+  "collectedAt": "2026-03-31T23:36:04.385Z",
+  "description": "BYD Song Plus - 2027 FR Liberado, com IPVA TOTAL PG << Nas cores Cinza Time, Cinza Smoke e Preto.",
+  "extractionMode": "playwright",
+  "folderName": "BYD Song Plus__byd-song-plus-2",
+  "name": "BYD Song Plus",
+  "pageTitle": "BYD Song Plus - R$ 220.990, - Sinal Verde Intermediações - atendendo lojistas de todo Brasil",
+  "price": "R$ 220.990,",
+  "savedFiles": [
+    "01.webp",
+    "02.webp",
+    "03.webp",
+    "04.webp",
+    "05.webp",
+    "06.webp",
+    "07.webp",
+    "08.webp",
+    "09.webp"
+  ],
+  "sourceImageUrls": [
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_0541-rlapxhvm54o4qp54sxiz3quvqmh1b6b9uulej2lef4.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_0542-rlapxhvm54o4qp54sxiz3quvqmh1b6b9uulej2lef4.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_0539-rlapxhvm54o4qp54sxiz3quvqmh1b6b9uulej2lef4.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_0547-1-rlapxfzxrglk3h7v3wppyrbyjuqavs3t6lafkio6rk.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_0545-rlapxfzxrglk3h7v3wppyrbyjuqavs3t6lafkio6rk.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_0543-rlapxgxryamuf36hyf4cj93f58lo3h7jipxx1smslc.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_0546-rlapxgxryamuf36hyf4cj93f58lo3h7jipxx1smslc.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_0540-rlapxgxryamuf36hyf4cj93f58lo3h7jipxx1smslc.webp",
+    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_0544-rlapxgxryamuf36hyf4cj93f58lo3h7jipxx1smslc.webp"
+  ],
+  "totalImages": 9,
+  "url": "https://svintermed.com.br/veiculos/byd-song-plus-2/",
+  "warnings": [
+    "Imagens fora da galeria principal foram ignoradas."
+  ],
+  "errors": []
+}

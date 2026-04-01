@@ -1,5 +1,5 @@
 {
-  "collectedAt": "2026-03-30T00:55:58.693Z",
+  "collectedAt": "2026-03-31T23:42:04.915Z",
   "description": "GM Montana LTZ - Oferta para Veículo 26/26 VENDA DIRETA CNPJ ou RURAL FAT ÁREA LIVRE, na cor branca",
   "extractionMode": "playwright",
   "folderName": "GM Montana LTZ__gm-montana-ltz-2",
@@ -21,7 +21,8 @@
   "totalImages": 4,
   "url": "https://svintermed.com.br/veiculos/gm-montana-ltz-2/",
   "warnings": [
-    "Imagens fora da galeria principal foram ignoradas."
+    "Imagens fora da galeria principal foram ignoradas.",
+    "Imagens reaproveitadas integralmente a partir de uma coleta anterior."
   ],
   "errors": []
 }

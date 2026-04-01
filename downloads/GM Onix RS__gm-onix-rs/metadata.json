@@ -1,5 +1,5 @@
 {
-  "collectedAt": "2026-03-30T00:55:01.961Z",
+  "collectedAt": "2026-03-31T23:41:10.418Z",
   "description": "GM Onix RS - Oferta válida para faturar PF/PJ, fatura fora consultar condições, cores: Branco, Vermelho e Cinza",
   "extractionMode": "playwright",
   "folderName": "GM Onix RS__gm-onix-rs",
@@ -35,7 +35,8 @@
   "totalImages": 11,
   "url": "https://svintermed.com.br/veiculos/gm-onix-rs/",
   "warnings": [
-    "Imagens fora da galeria principal foram ignoradas."
+    "Imagens fora da galeria principal foram ignoradas.",
+    "Imagens reaproveitadas integralmente a partir de uma coleta anterior."
   ],
   "errors": []
 }

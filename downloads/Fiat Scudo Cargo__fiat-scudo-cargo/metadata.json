@@ -1,5 +1,5 @@
 {
-  "collectedAt": "2026-03-30T00:54:09.701Z",
+  "collectedAt": "2026-03-31T23:40:15.816Z",
   "description": "Fiat Scudo Cargo - Oferta válida para refaturar CNPJ, na cor Branca",
   "extractionMode": "playwright",
   "folderName": "Fiat Scudo Cargo__fiat-scudo-cargo",
@@ -23,7 +23,8 @@
   "totalImages": 5,
   "url": "https://svintermed.com.br/veiculos/fiat-scudo-cargo/",
   "warnings": [
-    "Imagens fora da galeria principal foram ignoradas."
+    "Imagens fora da galeria principal foram ignoradas.",
+    "Imagens reaproveitadas integralmente a partir de uma coleta anterior."
   ],
   "errors": []
 }

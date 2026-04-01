@@ -1,5 +1,5 @@
 {
-  "collectedAt": "2026-03-30T00:53:02.905Z",
+  "collectedAt": "2026-03-31T23:39:14.000Z",
   "description": "Jeep Compass Sport - 26/26 .. A Faturar CPF área livre, com Couro + Rodas 18 Escurecidas",
   "extractionMode": "playwright",
   "folderName": "Jeep Compass Sport__jeep-compass-sport",
@@ -27,7 +27,8 @@
   "totalImages": 7,
   "url": "https://svintermed.com.br/veiculos/jeep-compass-sport/",
   "warnings": [
-    "Imagens fora da galeria principal foram ignoradas."
+    "Imagens fora da galeria principal foram ignoradas.",
+    "Imagens reaproveitadas integralmente a partir de uma coleta anterior."
   ],
   "errors": []
 }

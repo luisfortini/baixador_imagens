@@ -1,5 +1,5 @@
 {
-  "collectedAt": "2026-03-30T00:58:24.543Z",
+  "collectedAt": "2026-03-31T23:44:24.071Z",
   "description": "BYD Song Plus Premium - 25/26 A Faturar PF/PJ com Taxa Zero! Nas cores Branca e Cinza Time",
   "extractionMode": "playwright",
   "folderName": "BYD Song Plus Premium__byd-song-premium",
@@ -33,7 +33,8 @@
   "totalImages": 10,
   "url": "https://svintermed.com.br/veiculos/byd-song-premium/",
   "warnings": [
-    "Imagens fora da galeria principal foram ignoradas."
+    "Imagens fora da galeria principal foram ignoradas.",
+    "Imagens reaproveitadas integralmente a partir de uma coleta anterior."
   ],
   "errors": []
 }

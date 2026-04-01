@@ -1,5 +1,5 @@
 {
-  "collectedAt": "2026-03-30T00:52:19.554Z",
+  "collectedAt": "2026-03-31T23:38:36.283Z",
   "description": "Chery Tiggo 8 Pro 26/27 - 2027 A Faturar CPF, nas cores Preta, Branca, Azul e Cinza.",
   "extractionMode": "playwright",
   "folderName": "Chery Tiggo 8 Pro 2627__chery-tiggo-8-pro-25-26",
@@ -33,7 +33,8 @@
   "totalImages": 10,
   "url": "https://svintermed.com.br/veiculos/chery-tiggo-8-pro-25-26/",
   "warnings": [
-    "Imagens fora da galeria principal foram ignoradas."
+    "Imagens fora da galeria principal foram ignoradas.",
+    "Imagens reaproveitadas integralmente a partir de uma coleta anterior."
   ],
   "errors": []
 }

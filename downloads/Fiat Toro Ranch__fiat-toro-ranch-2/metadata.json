@@ -1,5 +1,5 @@
 {
-  "collectedAt": "2026-03-30T00:50:27.367Z",
+  "collectedAt": "2026-03-31T23:36:58.882Z",
   "description": "Fiat Toro Ranch - 26/26 FR Liberado, chão nas cores Sting, Granite e Branca",
   "extractionMode": "playwright",
   "folderName": "Fiat Toro Ranch__fiat-toro-ranch-2",
@@ -33,7 +33,8 @@
   "totalImages": 10,
   "url": "https://svintermed.com.br/veiculos/fiat-toro-ranch-2/",
   "warnings": [
-    "Imagens fora da galeria principal foram ignoradas."
+    "Imagens fora da galeria principal foram ignoradas.",
+    "Imagens reaproveitadas integralmente a partir de uma coleta anterior."
   ],
   "errors": []
 }

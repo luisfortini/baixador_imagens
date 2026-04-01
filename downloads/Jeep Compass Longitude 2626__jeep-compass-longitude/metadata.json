@@ -1,5 +1,5 @@
 {
-  "collectedAt": "2026-03-30T00:55:13.364Z",
+  "collectedAt": "2026-03-31T23:41:19.987Z",
   "description": "Jeep Compass Longitude 26/26 - 26/26 Oferta válida para refaturar em CNPJ Com itens de série nas cores Branca, Azul Preto e Cinza",
   "extractionMode": "playwright",
   "folderName": "Jeep Compass Longitude 2626__jeep-compass-longitude",
@@ -23,7 +23,8 @@
   "totalImages": 5,
   "url": "https://svintermed.com.br/veiculos/jeep-compass-longitude/",
   "warnings": [
-    "Imagens fora da galeria principal foram ignoradas."
+    "Imagens fora da galeria principal foram ignoradas.",
+    "Imagens reaproveitadas integralmente a partir de uma coleta anterior."
   ],
   "errors": []
 }

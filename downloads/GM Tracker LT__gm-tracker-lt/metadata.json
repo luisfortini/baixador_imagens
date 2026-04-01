@@ -1,5 +1,5 @@
 {
-  "collectedAt": "2026-03-30T00:54:56.165Z",
+  "collectedAt": "2026-03-31T23:41:08.986Z",
   "description": "GM Tracker LT - Oferta válida para faturar PF/PJ na cor Branca",
   "extractionMode": "playwright",
   "folderName": "GM Tracker LT__gm-tracker-lt",
@@ -37,7 +37,8 @@
   "totalImages": 12,
   "url": "https://svintermed.com.br/veiculos/gm-tracker-lt/",
   "warnings": [
-    "Imagens fora da galeria principal foram ignoradas."
+    "Imagens fora da galeria principal foram ignoradas.",
+    "Imagens reaproveitadas integralmente a partir de uma coleta anterior."
   ],
   "errors": []
 }

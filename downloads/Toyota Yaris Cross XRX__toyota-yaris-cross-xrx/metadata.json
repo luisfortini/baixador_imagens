@@ -1,5 +1,5 @@
 {
-  "collectedAt": "2026-03-30T00:51:14.133Z",
+  "collectedAt": "2026-03-31T23:37:38.721Z",
   "description": "Toyota Yaris Cross XRX - A Faturar CPF com IPVA TOTAL PG na cor Vermelha <<<",
   "extractionMode": "playwright",
   "folderName": "Toyota Yaris Cross XRX__toyota-yaris-cross-xrx",
@@ -25,7 +25,8 @@
   "totalImages": 6,
   "url": "https://svintermed.com.br/veiculos/toyota-yaris-cross-xrx/",
   "warnings": [
-    "Imagens fora da galeria principal foram ignoradas."
+    "Imagens fora da galeria principal foram ignoradas.",
+    "Imagens reaproveitadas integralmente a partir de uma coleta anterior."
   ],
   "errors": []
 }

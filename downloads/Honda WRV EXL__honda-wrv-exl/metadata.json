@@ -1,5 +1,5 @@
 {
-  "collectedAt": "2026-03-30T00:52:40.348Z",
+  "collectedAt": "2026-03-31T23:38:55.503Z",
   "description": "Honda WRV EXL - 26-26 AF CNPJ, Pronto Faturamento! nas cores Azul Aurora, Prata, Preta, Basalto e Branco Topazio",
   "extractionMode": "playwright",
   "folderName": "Honda WRV EXL__honda-wrv-exl",
@@ -27,7 +27,8 @@
   "totalImages": 7,
   "url": "https://svintermed.com.br/veiculos/honda-wrv-exl/",
   "warnings": [
-    "Imagens fora da galeria principal foram ignoradas."
+    "Imagens fora da galeria principal foram ignoradas.",
+    "Imagens reaproveitadas integralmente a partir de uma coleta anterior."
   ],
   "errors": []
 }

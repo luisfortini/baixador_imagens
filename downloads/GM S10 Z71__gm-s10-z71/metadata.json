@@ -1,5 +1,5 @@
 {
-  "collectedAt": "2026-03-30T00:54:44.058Z",
+  "collectedAt": "2026-03-31T23:40:57.876Z",
   "description": "GM S10 Z71 - Venda Direta CNPJ, fatura área livre",
   "extractionMode": "playwright",
   "folderName": "GM S10 Z71__gm-s10-z71",
@@ -19,7 +19,8 @@
   "totalImages": 3,
   "url": "https://svintermed.com.br/veiculos/gm-s10-z71/",
   "warnings": [
-    "Imagens fora da galeria principal foram ignoradas."
+    "Imagens fora da galeria principal foram ignoradas.",
+    "Imagens reaproveitadas integralmente a partir de uma coleta anterior."
   ],
   "errors": []
 }

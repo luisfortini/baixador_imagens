@@ -1,0 +1,22 @@
+:root {
+  --bg: #07090d;
+  --bg-elevated: #0c1016;
+  --panel: rgba(18, 22, 29, 0.86);
+  --panel-strong: rgba(25, 30, 39, 0.96);
+  --panel-border: rgba(212, 219, 226, 0.12);
+  --ink: #f5f7fa;
+  --muted: #9ea7b3;
+  --muted-strong: #c0c7d0;
+  --accent: #d22630;
+  --accent-soft: rgba(210, 38, 48, 0.18);
+  --accent-glow: rgba(210, 38, 48, 0.34);
+  --silver: #d4dbe2;
+  --silver-soft: rgba(212, 219, 226, 0.22);
+  --shadow-lg: 0 22px 60px rgba(0, 0, 0, 0.4);
+  --shadow-md: 0 16px 40px rgba(0, 0, 0, 0.28);
+  --radius-lg: 28px;
+  --radius-md: 20px;
+  --radius-sm: 14px;
+  --font-display: 'Bahnschrift', 'Trebuchet MS', sans-serif;
+  --font-body: 'Segoe UI Variable Text', 'Bahnschrift', 'Trebuchet MS', sans-serif;
+}

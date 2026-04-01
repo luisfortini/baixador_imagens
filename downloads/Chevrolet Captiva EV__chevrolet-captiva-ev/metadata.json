@@ -1,5 +1,5 @@
 {
-  "collectedAt": "2026-03-30T00:56:59.894Z",
+  "collectedAt": "2026-03-31T23:42:54.836Z",
   "description": "Chevrolet Captiva EV - oderta válida para Venda Direta CNPJ, válido para todas as cores, faturamento área livre",
   "extractionMode": "playwright",
   "folderName": "Chevrolet Captiva EV__chevrolet-captiva-ev",
@@ -33,7 +33,8 @@
   "totalImages": 10,
   "url": "https://svintermed.com.br/veiculos/chevrolet-captiva-ev/",
   "warnings": [
-    "Imagens fora da galeria principal foram ignoradas."
+    "Imagens fora da galeria principal foram ignoradas.",
+    "Imagens reaproveitadas integralmente a partir de uma coleta anterior."
   ],
   "errors": []
 }

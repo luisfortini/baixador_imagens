@@ -1,5 +1,5 @@
 {
-  "collectedAt": "2026-03-30T00:57:17.068Z",
+  "collectedAt": "2026-03-31T23:43:18.055Z",
   "description": "Toyota Hilux SRX 2026 - 25/26 A Faturar PF/PJ na cor Preta",
   "extractionMode": "playwright",
   "folderName": "Toyota Hilux SRX 2026__toyota-hilux-srx",
@@ -33,7 +33,8 @@
   "totalImages": 10,
   "url": "https://svintermed.com.br/veiculos/toyota-hilux-srx/",
   "warnings": [
-    "Imagens fora da galeria principal foram ignoradas."
+    "Imagens fora da galeria principal foram ignoradas.",
+    "Imagens reaproveitadas integralmente a partir de uma coleta anterior."
   ],
   "errors": []
 }

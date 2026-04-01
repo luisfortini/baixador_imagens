@@ -1,5 +1,5 @@
 {
-  "collectedAt": "2026-03-30T00:52:06.974Z",
+  "collectedAt": "2026-03-31T23:38:25.111Z",
   "description": "Fiat Strada Freedom Cab Plus 25/26 - 25/26 Válido para Refaturar CNPJ na cor Cinza com Sensor de Estacionamento",
   "extractionMode": "playwright",
   "folderName": "Fiat Strada Freedom Cab Plus 2526__fiat-strada-freedom-cab-plus-25-26",
@@ -25,7 +25,8 @@
   "totalImages": 6,
   "url": "https://svintermed.com.br/veiculos/fiat-strada-freedom-cab-plus-25-26/",
   "warnings": [
-    "Imagens fora da galeria principal foram ignoradas."
+    "Imagens fora da galeria principal foram ignoradas.",
+    "Imagens reaproveitadas integralmente a partir de uma coleta anterior."
   ],
   "errors": []
 }

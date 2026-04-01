@@ -1,5 +1,5 @@
 {
-  "collectedAt": "2026-03-30T00:57:53.107Z",
+  "collectedAt": "2026-03-31T23:43:50.762Z",
   "description": "BYD Song Plus - A Faturar PF/PJ, válido para as cores: Preta, Cinza Time e Branco",
   "extractionMode": "playwright",
   "folderName": "BYD Song Plus__byd-song-plus",
@@ -25,7 +25,8 @@
   "totalImages": 6,
   "url": "https://svintermed.com.br/veiculos/byd-song-plus/",
   "warnings": [
-    "Imagens fora da galeria principal foram ignoradas."
+    "Imagens fora da galeria principal foram ignoradas.",
+    "Imagens reaproveitadas integralmente a partir de uma coleta anterior."
   ],
   "errors": []
 }

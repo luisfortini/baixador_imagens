@@ -1,5 +1,5 @@
 {
-  "collectedAt": "2026-03-30T00:55:04.877Z",
+  "collectedAt": "2026-03-31T23:41:18.431Z",
   "description": "GM Silverado - A Faturar com IPVA ISENTO 2026 nas cores: Prata, Vermelha e Branca Economia de R$ 18.000,00",
   "extractionMode": "playwright",
   "folderName": "GM Silverado__gm-silverado",
@@ -29,7 +29,8 @@
   "totalImages": 8,
   "url": "https://svintermed.com.br/veiculos/gm-silverado/",
   "warnings": [
-    "Imagens fora da galeria principal foram ignoradas."
+    "Imagens fora da galeria principal foram ignoradas.",
+    "Imagens reaproveitadas integralmente a partir de uma coleta anterior."
   ],
   "errors": []
 }

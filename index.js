@@ -1,47 +1,38 @@
-import path from 'node:path';
-
-import { runScraper } from './src/scraper.js';
-import {
-  DEFAULT_USER_AGENT,
-  DEFAULT_VIEWPORT,
-  createLogger,
-  parsePositiveInteger,
-} from './src/utils.js';
-
-const logger = createLogger();
-
-function buildConfig() {
-  return {
-    baseUrl: process.env.BASE_URL || 'https://svintermed.com.br/',
-    archiveUrl: process.env.ARCHIVE_URL || 'https://svintermed.com.br/veiculos/',
-    outputDir: path.resolve(process.cwd(), process.env.OUTPUT_DIR || 'downloads'),
-    userAgent: process.env.USER_AGENT || DEFAULT_USER_AGENT,
-    viewport: DEFAULT_VIEWPORT,
-    headless: process.env.HEADLESS !== 'false',
-    concurrency: parsePositiveInteger(process.env.CONCURRENCY) ?? 3,
-    timeoutMs: parsePositiveInteger(process.env.TIMEOUT_MS) ?? 45_000,
-    renderWaitMs: parsePositiveInteger(process.env.RENDER_WAIT_MS) ?? 1_500,
-    maxPages: parsePositiveInteger(process.env.MAX_PAGES) ?? null,
-    maxVehicles: parsePositiveInteger(process.env.MAX_VEHICLES) ?? null,
-    logger,
-  };
-}
+import { createAppConfig } from './src/config/appConfig.js';
+import { startServer } from './src/server/startServer.js';
+import { buildInventory } from './src/services/carInventoryService.js';
+import { refreshCars } from './src/services/refreshService.js';
+import { createLogger } from './src/utils/logger.js';
 
 async function main() {
-  const config = buildConfig();
+  const logger = createLogger();
+  const config = createAppConfig({ logger });
 
-  logger.info(`Arquivo de saida: ${config.outputDir}`);
-  logger.info(`Concorrencia: ${config.concurrency}`);
+  if (process.argv.includes('--refresh')) {
+    logger.info('Executando refresh completo de scraping e inventory.');
 
-  const summary = await runScraper(config);
+    const result = await refreshCars(config);
+    logger.info(`Refresh finalizado. Inventory atualizado em ${config.inventoryPath}.`);
+    logger.info(
+      `Resumo do lote: ${result.scraperSummary.totals.succeeded}/${result.scraperSummary.totals.processed} veiculos com sucesso.`,
+    );
+    return;
+  }
 
-  logger.info(
-    `Fim do lote. ${summary.totals.succeeded}/${summary.totals.processed} veiculos processados com sucesso.`,
-  );
-  logger.info(`Resumo consolidado salvo em ${path.join(config.outputDir, '_resumo.json')}`);
+  if (process.argv.includes('--inventory-only')) {
+    const inventory = await buildInventory({
+      downloadsDir: config.downloadsDir,
+      inventoryPath: config.inventoryPath,
+      logger,
+    });
+    logger.info(`Inventory gerado com ${inventory.totalCars} carros em ${config.inventoryPath}.`);
+    return;
+  }
+
+  await startServer(config);
 }
 
 main().catch((error) => {
-  logger.error(`Falha geral: ${error.message}`);
+  console.error(`[${new Date().toISOString()}] [ERROR]`, `Falha geral: ${error.message}`);
   process.exitCode = 1;
 });

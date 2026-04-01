@@ -1,5 +1,5 @@
 {
-  "collectedAt": "2026-03-30T00:53:13.207Z",
+  "collectedAt": "2026-03-31T23:39:23.513Z",
   "description": "Toyota Corolla XEI 26/26 - Oferta válida para faturar PF/PJ",
   "extractionMode": "playwright",
   "folderName": "Toyota Corolla XEI 2626__toyota-corolla-xei-26-26",
@@ -27,7 +27,8 @@
   "totalImages": 7,
   "url": "https://svintermed.com.br/veiculos/toyota-corolla-xei-26-26/",
   "warnings": [
-    "Imagens fora da galeria principal foram ignoradas."
+    "Imagens fora da galeria principal foram ignoradas.",
+    "Imagens reaproveitadas integralmente a partir de uma coleta anterior."
   ],
   "errors": []
 }

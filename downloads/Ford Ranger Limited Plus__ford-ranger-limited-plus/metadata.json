@@ -1,5 +1,5 @@
 {
-  "collectedAt": "2026-03-30T00:58:01.405Z",
+  "collectedAt": "2026-03-31T23:43:59.294Z",
   "description": "Ford Ranger Limited Plus - Oferta válida para faturar CPF na origem nas cores Prata, Branca, Cinza e Preta",
   "extractionMode": "playwright",
   "folderName": "Ford Ranger Limited Plus__ford-ranger-limited-plus",
@@ -33,7 +33,8 @@
   "totalImages": 10,
   "url": "https://svintermed.com.br/veiculos/ford-ranger-limited-plus/",
   "warnings": [
-    "Imagens fora da galeria principal foram ignoradas."
+    "Imagens fora da galeria principal foram ignoradas.",
+    "Imagens reaproveitadas integralmente a partir de uma coleta anterior."
   ],
   "errors": []
 }

@@ -1,5 +1,5 @@
 {
-  "collectedAt": "2026-03-30T00:54:32.418Z",
+  "collectedAt": "2026-03-31T23:40:45.129Z",
   "description": "BMW 320 MSport - A Faturar PF, com Ipva Pago 2026 nas Cores Preta, Branca e Skyscrapper, todos com Interior Mocha",
   "extractionMode": "playwright",
   "folderName": "BMW 320 MSport__bmw-320-msport",
@@ -41,7 +41,8 @@
   "totalImages": 14,
   "url": "https://svintermed.com.br/veiculos/bmw-320-msport/",
   "warnings": [
-    "Imagens fora da galeria principal foram ignoradas."
+    "Imagens fora da galeria principal foram ignoradas.",
+    "Imagens reaproveitadas integralmente a partir de uma coleta anterior."
   ],
   "errors": []
 }

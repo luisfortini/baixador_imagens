@@ -1,29 +1,17 @@
 {
-  "collectedAt": "2026-03-30T00:50:40.250Z",
-  "description": "BYD Song Plus 1.5T 2027 - 2027 Motor Novo, FR Liberado! Emplacamento Grátis, nas cores Preta e Cinza Time com interno marrom",
+  "collectedAt": "2026-03-31T23:37:09.004Z",
+  "description": "BYD Song Plus 1.5T 2027 - 2027 Última Unidade Motor Novo, FR Liberado! Emplacamento Grátis, nas cores Preta com interno marrom",
   "extractionMode": "playwright",
   "folderName": "BYD Song Plus 1.5T 2027__byd-song-plus-1-5t-2027-2",
   "name": "BYD Song Plus 1.5T 2027",
-  "pageTitle": "BYD Song Plus 1.5T 2027 - R$ 218.990, - Sinal Verde Intermediações - atendendo lojistas de todo Brasil",
-  "price": "R$ 218.990,",
-  "savedFiles": [
-    "01.webp",
-    "02.webp",
-    "03.webp",
-    "04.webp",
-    "05.webp"
-  ],
-  "sourceImageUrls": [
-    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_9575-1-rkqtsksipmja9vd69hjf7yyn2fcaw6unn5bsdi7xa8.webp",
-    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_9574-1-rkqtslqcwgkklhbt3zy1sgq3nt7o3vydz9z9us6j40.webp",
-    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_9571-1-rkqtslqcwgkklhbt3zy1sgq3nt7o3vydz9z9us6j40.webp",
-    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_9576-3-rkqtsksipmja9vd69hjf7yyn2fcaw6unn5bsdi7xa8.webp",
-    "https://svintermed.com.br/wp-content/uploads/elementor/thumbs/img_9573-1-rkqtsksipmja9vd69hjf7yyn2fcaw6unn5bsdi7xa8.webp"
-  ],
-  "totalImages": 5,
+  "pageTitle": "BYD Song Plus 1.5T 2027 - R$ 219.990, - Sinal Verde Intermediações - atendendo lojistas de todo Brasil",
+  "price": "R$ 219.990,",
+  "savedFiles": [],
+  "sourceImageUrls": [],
+  "totalImages": 0,
   "url": "https://svintermed.com.br/veiculos/byd-song-plus-1-5t-2027-2/",
   "warnings": [
-    "Imagens fora da galeria principal foram ignoradas."
+    "Galeria principal ausente; imagens de veiculos relacionados foram ignoradas."
   ],
   "errors": []
 }

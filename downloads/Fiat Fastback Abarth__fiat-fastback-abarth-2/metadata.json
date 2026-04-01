@@ -1,5 +1,5 @@
 {
-  "collectedAt": "2026-03-30T00:57:31.491Z",
+  "collectedAt": "2026-03-31T23:43:28.124Z",
   "description": "Fiat Fastback Abarth - 26/26 Faturamento em CPF Área Livre Brasil, válido para cor: Cinza Strato",
   "extractionMode": "playwright",
   "folderName": "Fiat Fastback Abarth__fiat-fastback-abarth-2",
@@ -33,7 +33,8 @@
   "totalImages": 10,
   "url": "https://svintermed.com.br/veiculos/fiat-fastback-abarth-2/",
   "warnings": [
-    "Imagens fora da galeria principal foram ignoradas."
+    "Imagens fora da galeria principal foram ignoradas.",
+    "Imagens reaproveitadas integralmente a partir de uma coleta anterior."
   ],
   "errors": []
 }

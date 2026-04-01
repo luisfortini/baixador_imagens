@@ -1,5 +1,5 @@
 {
-  "collectedAt": "2026-03-30T00:55:46.441Z",
+  "collectedAt": "2026-03-31T23:41:47.930Z",
   "description": "Fiat Fastback Abarth - 26/26 Faturamento em CPF Àrea Livre Brasil, válido para as cores: Vermelha e Branca",
   "extractionMode": "playwright",
   "folderName": "Fiat Fastback Abarth__fiat-fastback-abarth-3",
@@ -31,7 +31,8 @@
   "totalImages": 9,
   "url": "https://svintermed.com.br/veiculos/fiat-fastback-abarth-3/",
   "warnings": [
-    "Imagens fora da galeria principal foram ignoradas."
+    "Imagens fora da galeria principal foram ignoradas.",
+    "Imagens reaproveitadas integralmente a partir de uma coleta anterior."
   ],
   "errors": []
 }

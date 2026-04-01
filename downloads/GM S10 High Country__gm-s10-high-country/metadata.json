@@ -1,5 +1,5 @@
 {
-  "collectedAt": "2026-03-30T00:58:04.016Z",
+  "collectedAt": "2026-03-31T23:44:00.496Z",
   "description": "GM S10 High Country - Chão, A Faturar na Origem",
   "extractionMode": "playwright",
   "folderName": "GM S10 High Country__gm-s10-high-country",
@@ -31,7 +31,8 @@
   "totalImages": 9,
   "url": "https://svintermed.com.br/veiculos/gm-s10-high-country/",
   "warnings": [
-    "Imagens fora da galeria principal foram ignoradas."
+    "Imagens fora da galeria principal foram ignoradas.",
+    "Imagens reaproveitadas integralmente a partir de uma coleta anterior."
   ],
   "errors": []
 }

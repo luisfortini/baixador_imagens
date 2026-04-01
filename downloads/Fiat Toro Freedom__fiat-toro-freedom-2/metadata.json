@@ -1,5 +1,5 @@
 {
-  "collectedAt": "2026-03-30T00:52:16.020Z",
+  "collectedAt": "2026-03-31T23:38:27.315Z",
   "description": "Fiat Toro Freedom - 25/26 Oferta válida para Refaturar CNPJ nas cores cinza e preta",
   "extractionMode": "playwright",
   "folderName": "Fiat Toro Freedom__fiat-toro-freedom-2",
@@ -27,7 +27,8 @@
   "totalImages": 7,
   "url": "https://svintermed.com.br/veiculos/fiat-toro-freedom-2/",
   "warnings": [
-    "Imagens fora da galeria principal foram ignoradas."
+    "Imagens fora da galeria principal foram ignoradas.",
+    "Imagens reaproveitadas integralmente a partir de uma coleta anterior."
   ],
   "errors": []
 }

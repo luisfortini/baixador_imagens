@@ -1,5 +1,5 @@
 {
-  "collectedAt": "2026-03-30T00:50:50.336Z",
+  "collectedAt": "2026-03-31T23:37:19.734Z",
   "description": "DENZA B5 - 25/26 Pedido Montadora, válido para todas as cores AF PF/PJ Consultar Condições!",
   "extractionMode": "playwright",
   "folderName": "DENZA B5__denza-b5",
@@ -45,7 +45,8 @@
   "totalImages": 16,
   "url": "https://svintermed.com.br/veiculos/denza-b5/",
   "warnings": [
-    "Imagens fora da galeria principal foram ignoradas."
+    "Imagens fora da galeria principal foram ignoradas.",
+    "Imagens reaproveitadas integralmente a partir de uma coleta anterior."
   ],
   "errors": []
 }

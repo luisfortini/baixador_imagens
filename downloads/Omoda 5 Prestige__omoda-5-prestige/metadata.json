@@ -1,5 +1,5 @@
 {
-  "collectedAt": "2026-03-30T00:50:48.444Z",
+  "collectedAt": "2026-03-31T23:37:10.317Z",
   "description": "Omoda 5 Prestige - 25/26 A Faturar CPF nas cores Preto, Cinza, Branco e Prata",
   "extractionMode": "playwright",
   "folderName": "Omoda 5 Prestige__omoda-5-prestige",
@@ -33,7 +33,8 @@
   "totalImages": 10,
   "url": "https://svintermed.com.br/veiculos/omoda-5-prestige/",
   "warnings": [
-    "Imagens fora da galeria principal foram ignoradas."
+    "Imagens fora da galeria principal foram ignoradas.",
+    "Imagens reaproveitadas integralmente a partir de uma coleta anterior."
   ],
   "errors": []
 }

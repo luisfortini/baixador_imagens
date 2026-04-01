@@ -1,5 +1,5 @@
 {
-  "collectedAt": "2026-03-30T00:56:35.001Z",
+  "collectedAt": "2026-03-31T23:42:34.942Z",
   "description": "VW Nivus GTS - A Faturar PF/PJ válido para cor branca com rodas 18",
   "extractionMode": "playwright",
   "folderName": "VW Nivus GTS__vw-nivus-gts",
@@ -29,7 +29,8 @@
   "totalImages": 8,
   "url": "https://svintermed.com.br/veiculos/vw-nivus-gts/",
   "warnings": [
-    "Imagens fora da galeria principal foram ignoradas."
+    "Imagens fora da galeria principal foram ignoradas.",
+    "Imagens reaproveitadas integralmente a partir de uma coleta anterior."
   ],
   "errors": []
 }

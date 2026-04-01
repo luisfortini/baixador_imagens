@@ -1,5 +1,5 @@
 {
-  "collectedAt": "2026-03-30T00:52:26.755Z",
+  "collectedAt": "2026-03-31T23:38:36.964Z",
   "description": "Jeep Renegade Altitude - 25/26 Refaturamento CPF área livre válido na cor preta",
   "extractionMode": "playwright",
   "folderName": "Jeep Renegade Altitude__jeep-renegade-altitude",
@@ -25,7 +25,8 @@
   "totalImages": 6,
   "url": "https://svintermed.com.br/veiculos/jeep-renegade-altitude/",
   "warnings": [
-    "Imagens fora da galeria principal foram ignoradas."
+    "Imagens fora da galeria principal foram ignoradas.",
+    "Imagens reaproveitadas integralmente a partir de uma coleta anterior."
   ],
   "errors": []
 }

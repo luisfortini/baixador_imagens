@@ -1,0 +1,17 @@
+{
+  "collectedAt": "2026-03-31T23:36:03.306Z",
+  "description": "RAM Rampage RT 2027 Flex - FR Liberado. NF + Boleto na mão! válido para cor branca <<<",
+  "extractionMode": "playwright",
+  "folderName": "RAM Rampage RT 2027 Flex__ram-rampage-rt-2027-flex",
+  "name": "RAM Rampage RT 2027 Flex",
+  "pageTitle": "RAM Rampage RT 2027 Flex - R$ 234.690, - Sinal Verde Intermediações - atendendo lojistas de todo Brasil",
+  "price": "R$ 234.690,",
+  "savedFiles": [],
+  "sourceImageUrls": [],
+  "totalImages": 0,
+  "url": "https://svintermed.com.br/veiculos/ram-rampage-rt-2027-flex/",
+  "warnings": [
+    "Galeria principal ausente; imagens de veiculos relacionados foram ignoradas."
+  ],
+  "errors": []
+}

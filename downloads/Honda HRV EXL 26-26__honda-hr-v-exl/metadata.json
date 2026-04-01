@@ -1,5 +1,5 @@
 {
-  "collectedAt": "2026-03-30T00:55:15.715Z",
+  "collectedAt": "2026-03-31T23:41:27.671Z",
   "description": "Honda HRV EXL 26-26 - Pronto Faturamento para CNPJ, nas cores: Basalto, Prata, Titanium, Azul, Preta e Vermelha Pronto Faturamento",
   "extractionMode": "playwright",
   "folderName": "Honda HRV EXL 26-26__honda-hr-v-exl",
@@ -27,7 +27,8 @@
   "totalImages": 7,
   "url": "https://svintermed.com.br/veiculos/honda-hr-v-exl/",
   "warnings": [
-    "Imagens fora da galeria principal foram ignoradas."
+    "Imagens fora da galeria principal foram ignoradas.",
+    "Imagens reaproveitadas integralmente a partir de uma coleta anterior."
   ],
   "errors": []
 }

@@ -1,5 +1,5 @@
 {
-  "collectedAt": "2026-03-30T00:51:11.925Z",
+  "collectedAt": "2026-03-31T23:37:30.642Z",
   "description": "GWM H6 Phev35 - FR Liberado nas cores cinza e preta, com Ipva Total Pago!",
   "extractionMode": "playwright",
   "folderName": "GWM H6 Phev35__gwm-h6-phev35",
@@ -25,7 +25,8 @@
   "totalImages": 6,
   "url": "https://svintermed.com.br/veiculos/gwm-h6-phev35/",
   "warnings": [
-    "Imagens fora da galeria principal foram ignoradas."
+    "Imagens fora da galeria principal foram ignoradas.",
+    "Imagens reaproveitadas integralmente a partir de uma coleta anterior."
   ],
   "errors": []
 }

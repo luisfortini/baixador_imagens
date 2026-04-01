@@ -1,5 +1,5 @@
 {
-  "collectedAt": "2026-03-30T00:54:22.372Z",
+  "collectedAt": "2026-03-31T23:40:34.999Z",
   "description": "Honda HR-V EXL - Oferta Válida para Faturar CNPJ, na cor: Branca",
   "extractionMode": "playwright",
   "folderName": "Honda HR-V EXL__honda-hr-v-exl-2",
@@ -23,7 +23,8 @@
   "totalImages": 5,
   "url": "https://svintermed.com.br/veiculos/honda-hr-v-exl-2/",
   "warnings": [
-    "Imagens fora da galeria principal foram ignoradas."
+    "Imagens fora da galeria principal foram ignoradas.",
+    "Imagens reaproveitadas integralmente a partir de uma coleta anterior."
   ],
   "errors": []
 }

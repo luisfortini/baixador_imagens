@@ -1,5 +1,5 @@
 {
-  "collectedAt": "2026-03-30T00:53:22.367Z",
+  "collectedAt": "2026-03-31T23:39:31.585Z",
   "description": "Fiat Toro Volcano Flex 26/26 - Oferta válida para Refaturar CNPJ área livre Brasil com Pacote Tech na cor Preta 📌",
   "extractionMode": "playwright",
   "folderName": "Fiat Toro Volcano Flex 2626__fiat-toro-volcano-flex-26-26",
@@ -33,7 +33,8 @@
   "totalImages": 10,
   "url": "https://svintermed.com.br/veiculos/fiat-toro-volcano-flex-26-26/",
   "warnings": [
-    "Imagens fora da galeria principal foram ignoradas."
+    "Imagens fora da galeria principal foram ignoradas.",
+    "Imagens reaproveitadas integralmente a partir de uma coleta anterior."
   ],
   "errors": []
 }

@@ -1,5 +1,5 @@
 {
-  "collectedAt": "2026-03-30T00:54:04.088Z",
+  "collectedAt": "2026-03-31T23:40:15.309Z",
   "description": "GM Spin Premier - Oferta para faturar PF/PJ",
   "extractionMode": "playwright",
   "folderName": "GM Spin Premier__gm-spin-premier",
@@ -21,7 +21,8 @@
   "totalImages": 4,
   "url": "https://svintermed.com.br/veiculos/gm-spin-premier/",
   "warnings": [
-    "Imagens fora da galeria principal foram ignoradas."
+    "Imagens fora da galeria principal foram ignoradas.",
+    "Imagens reaproveitadas integralmente a partir de uma coleta anterior."
   ],
   "errors": []
 }

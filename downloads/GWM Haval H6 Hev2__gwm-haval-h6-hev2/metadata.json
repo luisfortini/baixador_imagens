@@ -1,5 +1,5 @@
 {
-  "collectedAt": "2026-03-30T00:51:33.593Z",
+  "collectedAt": "2026-03-31T23:37:49.309Z",
   "description": "GWM Haval H6 Hev2 - 25/26 FR Liberado com Ipva Total PG 2026",
   "extractionMode": "playwright",
   "folderName": "GWM Haval H6 Hev2__gwm-haval-h6-hev2",
@@ -23,7 +23,8 @@
   "totalImages": 5,
   "url": "https://svintermed.com.br/veiculos/gwm-haval-h6-hev2/",
   "warnings": [
-    "Imagens fora da galeria principal foram ignoradas."
+    "Imagens fora da galeria principal foram ignoradas.",
+    "Imagens reaproveitadas integralmente a partir de uma coleta anterior."
   ],
   "errors": []
 }

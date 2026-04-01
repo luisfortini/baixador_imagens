@@ -1,5 +1,5 @@
 {
-  "collectedAt": "2026-03-30T00:53:44.416Z",
+  "collectedAt": "2026-03-31T23:39:55.138Z",
   "description": "BYD King GS - A Faturar PF/PJ com Taxa Zero! ( 60% em 24x ) disponível em todas as cores",
   "extractionMode": "playwright",
   "folderName": "BYD King GS__byd-king-gs-3",
@@ -31,7 +31,8 @@
   "totalImages": 9,
   "url": "https://svintermed.com.br/veiculos/byd-king-gs-3/",
   "warnings": [
-    "Imagens fora da galeria principal foram ignoradas."
+    "Imagens fora da galeria principal foram ignoradas.",
+    "Imagens reaproveitadas integralmente a partir de uma coleta anterior."
   ],
   "errors": []
 }

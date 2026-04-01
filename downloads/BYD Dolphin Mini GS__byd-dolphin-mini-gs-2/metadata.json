@@ -1,5 +1,5 @@
 {
-  "collectedAt": "2026-03-30T00:54:14.403Z",
+  "collectedAt": "2026-03-31T23:40:26.517Z",
   "description": "BYD Dolphin Mini GS - A Faturar CPf com IPVA ISENTO até 2028, disponível na cor Preta",
   "extractionMode": "playwright",
   "folderName": "BYD Dolphin Mini GS__byd-dolphin-mini-gs-2",
@@ -23,7 +23,8 @@
   "totalImages": 5,
   "url": "https://svintermed.com.br/veiculos/byd-dolphin-mini-gs-2/",
   "warnings": [
-    "Imagens fora da galeria principal foram ignoradas."
+    "Imagens fora da galeria principal foram ignoradas.",
+    "Imagens reaproveitadas integralmente a partir de uma coleta anterior."
   ],
   "errors": []
 }

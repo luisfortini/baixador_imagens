@@ -1,5 +1,5 @@
 {
-  "collectedAt": "2026-03-30T00:58:26.906Z",
+  "collectedAt": "2026-03-31T23:44:21.208Z",
   "description": "GM S10 LTZ - A Faturar com IPVA ISENTO 2026, ca cor Cinza Topazio",
   "extractionMode": "playwright",
   "folderName": "GM S10 LTZ__gm-s10-ltz",
@@ -25,7 +25,8 @@
   "totalImages": 6,
   "url": "https://svintermed.com.br/veiculos/gm-s10-ltz/",
   "warnings": [
-    "Imagens fora da galeria principal foram ignoradas."
+    "Imagens fora da galeria principal foram ignoradas.",
+    "Imagens reaproveitadas integralmente a partir de uma coleta anterior."
   ],
   "errors": []
 }

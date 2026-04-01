@@ -1,5 +1,5 @@
 {
-  "collectedAt": "2026-03-30T00:52:29.943Z",
+  "collectedAt": "2026-03-31T23:38:45.930Z",
   "description": "Honda HRV Touring 26-26 - 26-26 AF CNPJ, Pronto Faturamento, disponivel nas cores Cinza Basalto, Prata e Azul",
   "extractionMode": "playwright",
   "folderName": "Honda HRV Touring 26-26__honda-hrv-touring-26-26",
@@ -31,7 +31,8 @@
   "totalImages": 9,
   "url": "https://svintermed.com.br/veiculos/honda-hrv-touring-26-26/",
   "warnings": [
-    "Imagens fora da galeria principal foram ignoradas."
+    "Imagens fora da galeria principal foram ignoradas.",
+    "Imagens reaproveitadas integralmente a partir de uma coleta anterior."
   ],
   "errors": []
 }

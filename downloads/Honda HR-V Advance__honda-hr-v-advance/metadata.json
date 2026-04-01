@@ -1,5 +1,5 @@
 {
-  "collectedAt": "2026-03-30T00:53:42.229Z",
+  "collectedAt": "2026-03-31T23:39:55.145Z",
   "description": "Honda HR-V Advance - Válido para faturar CNPJ nas cores Basalto, Prata e Azul",
   "extractionMode": "playwright",
   "folderName": "Honda HR-V Advance__honda-hr-v-advance",
@@ -27,7 +27,8 @@
   "totalImages": 7,
   "url": "https://svintermed.com.br/veiculos/honda-hr-v-advance/",
   "warnings": [
-    "Imagens fora da galeria principal foram ignoradas."
+    "Imagens fora da galeria principal foram ignoradas.",
+    "Imagens reaproveitadas integralmente a partir de uma coleta anterior."
   ],
   "errors": []
 }

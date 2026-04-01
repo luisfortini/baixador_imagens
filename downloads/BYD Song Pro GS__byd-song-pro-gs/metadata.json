@@ -1,5 +1,5 @@
 {
-  "collectedAt": "2026-03-30T00:58:45.454Z",
+  "collectedAt": "2026-03-31T23:44:35.058Z",
   "description": "BYD Song Pro GS - Oferta válida para Faturar PF/PJ na cor Preta, Com TAXA ZERO em 36x com 60% de Entrada",
   "extractionMode": "playwright",
   "folderName": "BYD Song Pro GS__byd-song-pro-gs",
@@ -37,7 +37,8 @@
   "totalImages": 12,
   "url": "https://svintermed.com.br/veiculos/byd-song-pro-gs/",
   "warnings": [
-    "Imagens fora da galeria principal foram ignoradas."
+    "Imagens fora da galeria principal foram ignoradas.",
+    "Imagens reaproveitadas integralmente a partir de uma coleta anterior."
   ],
   "errors": []
 }

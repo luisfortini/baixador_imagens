@@ -1,5 +1,5 @@
 {
-  "collectedAt": "2026-03-30T00:58:37.065Z",
+  "collectedAt": "2026-03-31T23:44:33.444Z",
   "description": "Toyota Corolla Cross XRX - Oferta válida para faturamento CPF nas cores: azul, prata, branco, cinza e preto",
   "extractionMode": "playwright",
   "folderName": "Toyota Corolla Cross XRX__toyota-corolla-cross-xrx",
@@ -35,7 +35,8 @@
   "totalImages": 11,
   "url": "https://svintermed.com.br/veiculos/toyota-corolla-cross-xrx/",
   "warnings": [
-    "Imagens fora da galeria principal foram ignoradas."
+    "Imagens fora da galeria principal foram ignoradas.",
+    "Imagens reaproveitadas integralmente a partir de uma coleta anterior."
   ],
   "errors": []
 }

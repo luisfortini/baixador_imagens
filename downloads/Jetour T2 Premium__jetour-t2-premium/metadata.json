@@ -1,5 +1,5 @@
 {
-  "collectedAt": "2026-03-30T00:49:49.064Z",
+  "collectedAt": "2026-03-31T23:36:21.832Z",
   "description": "Jetour T2 Premium - A Faturar CPF na cor Preta",
   "extractionMode": "playwright",
   "folderName": "Jetour T2 Premium__jetour-t2-premium",
@@ -39,7 +39,8 @@
   "totalImages": 13,
   "url": "https://svintermed.com.br/veiculos/jetour-t2-premium/",
   "warnings": [
-    "Imagens fora da galeria principal foram ignoradas."
+    "Imagens fora da galeria principal foram ignoradas.",
+    "Imagens reaproveitadas integralmente a partir de uma coleta anterior."
   ],
   "errors": []
 }

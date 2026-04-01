@@ -1,5 +1,5 @@
 {
-  "collectedAt": "2026-03-30T00:52:51.828Z",
+  "collectedAt": "2026-03-31T23:39:04.671Z",
   "description": "FIAT Toro Ranch 26/26 - 26/26 Refaturar CNPJ nas Cores: Sting, Granite ou Branca.",
   "extractionMode": "playwright",
   "folderName": "FIAT Toro Ranch 2626__fiat-toro-ranch-26-26",
@@ -43,7 +43,8 @@
   "totalImages": 15,
   "url": "https://svintermed.com.br/veiculos/fiat-toro-ranch-26-26/",
   "warnings": [
-    "Imagens fora da galeria principal foram ignoradas."
+    "Imagens fora da galeria principal foram ignoradas.",
+    "Imagens reaproveitadas integralmente a partir de uma coleta anterior."
   ],
   "errors": []
 }

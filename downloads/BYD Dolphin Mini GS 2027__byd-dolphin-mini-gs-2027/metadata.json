@@ -1,5 +1,5 @@
 {
-  "collectedAt": "2026-03-30T00:52:59.529Z",
+  "collectedAt": "2026-03-31T23:39:05.811Z",
   "description": "BYD Dolphin Mini GS 2027 - 2027 A Faturar PF/PJ",
   "extractionMode": "playwright",
   "folderName": "BYD Dolphin Mini GS 2027__byd-dolphin-mini-gs-2027",
@@ -29,7 +29,8 @@
   "totalImages": 8,
   "url": "https://svintermed.com.br/veiculos/byd-dolphin-mini-gs-2027/",
   "warnings": [
-    "Imagens fora da galeria principal foram ignoradas."
+    "Imagens fora da galeria principal foram ignoradas.",
+    "Imagens reaproveitadas integralmente a partir de uma coleta anterior."
   ],
   "errors": []
 }

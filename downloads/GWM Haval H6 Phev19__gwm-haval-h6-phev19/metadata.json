@@ -1,5 +1,5 @@
 {
-  "collectedAt": "2026-03-30T00:53:33.902Z",
+  "collectedAt": "2026-03-31T23:39:44.684Z",
   "description": "GWM Haval H6 Phev19 - FR Liberado! com IPVA TOTAL 2026 PG, nas cores: Cinza, Preto e Branco",
   "extractionMode": "playwright",
   "folderName": "GWM Haval H6 Phev19__gwm-haval-h6-phev19",
@@ -25,7 +25,8 @@
   "totalImages": 6,
   "url": "https://svintermed.com.br/veiculos/gwm-haval-h6-phev19/",
   "warnings": [
-    "Imagens fora da galeria principal foram ignoradas."
+    "Imagens fora da galeria principal foram ignoradas.",
+    "Imagens reaproveitadas integralmente a partir de uma coleta anterior."
   ],
   "errors": []
 }

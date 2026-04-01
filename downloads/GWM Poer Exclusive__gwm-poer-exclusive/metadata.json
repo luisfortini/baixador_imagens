@@ -1,5 +1,5 @@
 {
-  "collectedAt": "2026-03-30T00:50:19.150Z",
+  "collectedAt": "2026-03-31T23:36:50.020Z",
   "description": "GWM Poer Exclusive - A Faturar CPF com Ipva Isento!",
   "extractionMode": "playwright",
   "folderName": "GWM Poer Exclusive__gwm-poer-exclusive",
@@ -35,7 +35,8 @@
   "totalImages": 11,
   "url": "https://svintermed.com.br/veiculos/gwm-poer-exclusive/",
   "warnings": [
-    "Imagens fora da galeria principal foram ignoradas."
+    "Imagens fora da galeria principal foram ignoradas.",
+    "Imagens reaproveitadas integralmente a partir de uma coleta anterior."
   ],
   "errors": []
 }

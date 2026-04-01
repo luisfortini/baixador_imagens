@@ -1,5 +1,5 @@
 {
-  "collectedAt": "2026-03-30T00:53:40.085Z",
+  "collectedAt": "2026-03-31T23:39:44.698Z",
   "description": "GWM Haval H9 Exclusive - FR Liberado! Retira SP Capital <<< Cores Preta e Cinza",
   "extractionMode": "playwright",
   "folderName": "GWM Haval H9 Exclusive__gwm-haval-h9-exclusive",
@@ -33,7 +33,8 @@
   "totalImages": 10,
   "url": "https://svintermed.com.br/veiculos/gwm-haval-h9-exclusive/",
   "warnings": [
-    "Imagens fora da galeria principal foram ignoradas."
+    "Imagens fora da galeria principal foram ignoradas.",
+    "Imagens reaproveitadas integralmente a partir de uma coleta anterior."
   ],
   "errors": []
 }

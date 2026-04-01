@@ -1,5 +1,5 @@
 {
-  "collectedAt": "2026-03-30T00:56:16.634Z",
+  "collectedAt": "2026-03-31T23:42:16.520Z",
   "description": "FIAT Fastback T200 - A Faturar PF/PJ válido para cor Prata",
   "extractionMode": "playwright",
   "folderName": "FIAT Fastback T200__fiat-fastback-t200",
@@ -25,7 +25,8 @@
   "totalImages": 6,
   "url": "https://svintermed.com.br/veiculos/fiat-fastback-t200/",
   "warnings": [
-    "Imagens fora da galeria principal foram ignoradas."
+    "Imagens fora da galeria principal foram ignoradas.",
+    "Imagens reaproveitadas integralmente a partir de uma coleta anterior."
   ],
   "errors": []
 }

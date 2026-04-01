@@ -1,5 +1,5 @@
 {
-  "collectedAt": "2026-03-30T00:54:12.115Z",
+  "collectedAt": "2026-03-31T23:40:25.764Z",
   "description": "GM Tracker LTZ - A Faturar PF/PJ",
   "extractionMode": "playwright",
   "folderName": "GM Tracker LTZ__gm-tracker-ltz",
@@ -27,7 +27,8 @@
   "totalImages": 7,
   "url": "https://svintermed.com.br/veiculos/gm-tracker-ltz/",
   "warnings": [
-    "Imagens fora da galeria principal foram ignoradas."
+    "Imagens fora da galeria principal foram ignoradas.",
+    "Imagens reaproveitadas integralmente a partir de uma coleta anterior."
   ],
   "errors": []
 }
