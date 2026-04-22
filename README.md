@@ -62,6 +62,7 @@ Instale as dependencias e suba o backend:
 
 ```bash
 npm install
+npx playwright install chromium
 npm start
 ```
 
@@ -77,6 +78,23 @@ Scripts disponiveis:
 - `npm run dev`: sobe a API em modo watch.
 - `npm run refresh`: executa scraping + atualiza `downloads/inventory.json`.
 - `npm run inventory`: somente rele a pasta `downloads/` e regenera o inventario consolidado.
+
+Observacao importante:
+
+- o refresh usa Playwright para renderizar as paginas do estoque;
+- no primeiro setup local, execute `npx playwright install chromium` depois do `npm install`;
+- em Docker, o browser ja fica instalado na imagem durante o build.
+
+## Como rodar com Docker
+
+Monte a imagem e suba o backend:
+
+```bash
+docker build -t baixador-imagens .
+docker run --rm -p 3000:3000 baixador-imagens
+```
+
+Se voce alterar o `Dockerfile`, dependencias ou a versao do Playwright, reconstrua a imagem antes de testar o refresh novamente.
 
 ## Como o inventory.json funciona
 
