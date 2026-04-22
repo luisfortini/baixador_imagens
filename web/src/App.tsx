@@ -9,6 +9,7 @@ import { BRAND } from './config/brand';
 import { fetchCars, refreshInventory } from './lib/api';
 import {
   buildStoryFileName,
+  buildStoryBatchFileName,
   createInitialStoryForm,
   filterCars,
   getPrimaryImage,
@@ -35,9 +36,12 @@ export default function App() {
   const [refreshingInventory, setRefreshingInventory] = useState(false);
   const [query, setQuery] = useState('');
   const [selectedCarId, setSelectedCarId] = useState<string | null>(null);
-  const [selectedImage, setSelectedImage] = useState<string | null>(null);
+  const [selectedImages, setSelectedImages] = useState<string[]>([]);
+  const [previewImage, setPreviewImage] = useState<string | null>(null);
+  const [exportImage, setExportImage] = useState<string | null>(null);
   const [form, setForm] = useState<StoryFormValues>(EMPTY_FORM);
   const previewRef = useRef<HTMLDivElement>(null);
+  const exportPreviewRef = useRef<HTMLDivElement>(null);
 
   const deferredQuery = useDeferredValue(query);
   const filteredCars = filterCars(cars, deferredQuery);
@@ -88,12 +92,18 @@ export default function App() {
   useEffect(() => {
     if (!selectedCar) {
       setForm(EMPTY_FORM);
-      setSelectedImage(null);
+      setSelectedImages([]);
+      setPreviewImage(null);
+      setExportImage(null);
       return;
     }
 
+    const primaryImage = getPrimaryImage(selectedCar);
+
     setForm(createInitialStoryForm(selectedCar));
-    setSelectedImage(getPrimaryImage(selectedCar));
+    setSelectedImages(primaryImage ? [primaryImage] : []);
+    setPreviewImage(primaryImage);
+    setExportImage(null);
   }, [selectedCar?.id]);
 
   function handleSelectCar(carId: string) {
@@ -114,8 +124,68 @@ export default function App() {
       return;
     }
 
+    const primaryImage = getPrimaryImage(selectedCar);
+
     setForm(createInitialStoryForm(selectedCar));
-    setSelectedImage(getPrimaryImage(selectedCar));
+    setSelectedImages(primaryImage ? [primaryImage] : []);
+    setPreviewImage(primaryImage);
+    setExportImage(null);
+  }
+
+  function handlePreviewImage(imageUrl: string) {
+    setPreviewImage(imageUrl);
+  }
+
+  function handleToggleImageSelection(imageUrl: string) {
+    if (!selectedCar) {
+      return;
+    }
+
+    const isSelected = selectedImages.includes(imageUrl);
+    const nextSelectedImages = isSelected
+      ? selectedImages.filter((currentImageUrl) => currentImageUrl !== imageUrl)
+      : selectedCar.images.filter(
+          (currentImageUrl) =>
+            currentImageUrl === imageUrl || selectedImages.includes(currentImageUrl),
+        );
+
+    setSelectedImages(nextSelectedImages);
+    setExportImage(null);
+
+    if (!isSelected) {
+      setPreviewImage(imageUrl);
+      return;
+    }
+
+    if (previewImage === imageUrl && nextSelectedImages.length) {
+      setPreviewImage(nextSelectedImages[0]);
+    }
+  }
+
+  function handleSelectAllImages() {
+    if (!selectedCar?.images.length) {
+      return;
+    }
+
+    setSelectedImages(selectedCar.images);
+    setExportImage(null);
+
+    if (!previewImage || !selectedCar.images.includes(previewImage)) {
+      setPreviewImage(selectedCar.images[0]);
+    }
+  }
+
+  function handleClearImageSelection() {
+    setSelectedImages([]);
+    setExportImage(null);
+  }
+
+  function handleSelectExportImage(imageUrl: string) {
+    setExportImage(imageUrl);
+  }
+
+  function handleFinishExport() {
+    setExportImage(null);
   }
 
   async function handleRefreshInventory() {
@@ -196,8 +266,12 @@ export default function App() {
         <div className="controls-column">
           <CarImagePicker
             car={selectedCar}
-            onSelectImage={setSelectedImage}
-            selectedImage={selectedImage}
+            onClearImageSelection={handleClearImageSelection}
+            onPreviewImage={handlePreviewImage}
+            onSelectAllImages={handleSelectAllImages}
+            onToggleImageSelection={handleToggleImageSelection}
+            previewImage={previewImage}
+            selectedImages={selectedImages}
           />
 
           <StoryForm
@@ -208,9 +282,15 @@ export default function App() {
           />
 
           <ExportButtons
-            disabled={!selectedCar || !selectedImage}
+            disabled={!selectedCar || !selectedImages.length}
             fileNameBase={buildStoryFileName(selectedCar)}
-            previewRef={previewRef}
+            onExportComplete={handleFinishExport}
+            onSelectExportImage={handleSelectExportImage}
+            previewRef={exportPreviewRef}
+            resolveFileName={(imageUrl) =>
+              buildStoryBatchFileName(selectedCar, imageUrl, selectedImages.length)
+            }
+            selectedImages={selectedImages}
           />
         </div>
 
@@ -229,11 +309,20 @@ export default function App() {
               car={selectedCar}
               form={form}
               ref={previewRef}
-              selectedImage={selectedImage}
+              selectedImage={previewImage}
             />
           </div>
         </div>
       </section>
+
+      <div aria-hidden="true" className="story-preview-export-stage">
+        <StoryPreview
+          car={selectedCar}
+          form={form}
+          ref={exportPreviewRef}
+          selectedImage={exportImage || previewImage}
+        />
+      </div>
     </main>
   );
 }

@@ -230,25 +230,53 @@
   gap: 12px;
 }
 
+.image-picker-toolbar {
+  display: grid;
+  gap: 12px;
+  margin-bottom: 16px;
+}
+
+.image-picker-toolbar .panel-feedback {
+  margin-top: 0;
+}
+
+.image-picker-toolbar__actions {
+  display: flex;
+  gap: 12px;
+}
+
+.image-picker-toolbar__actions .ghost-button {
+  flex: 1;
+}
+
 .image-thumb {
-  position: relative;
-  overflow: hidden;
-  padding: 0;
+  display: grid;
+  gap: 8px;
+  padding: 10px;
   border: 1px solid rgba(255, 255, 255, 0.08);
   border-radius: 18px;
   background: rgba(255, 255, 255, 0.03);
 }
 
-.image-thumb img {
+.image-thumb__preview-button {
+  position: relative;
+  overflow: hidden;
+  padding: 0;
+  border: none;
+  border-radius: 14px;
+  background: transparent;
+}
+
+.image-thumb__preview-button img {
+  display: block;
   width: 100%;
   aspect-ratio: 1 / 1;
   object-fit: cover;
 }
 
-.image-thumb span {
+.image-thumb__index,
+.image-thumb__preview-pill {
   position: absolute;
-  left: 10px;
-  bottom: 10px;
   padding: 4px 8px;
   border-radius: 999px;
   background: rgba(7, 9, 13, 0.76);
@@ -256,9 +284,43 @@
   font-size: 0.78rem;
 }
 
+.image-thumb__index {
+  left: 10px;
+  bottom: 10px;
+}
+
+.image-thumb__preview-pill {
+  top: 10px;
+  right: 10px;
+  background: rgba(255, 255, 255, 0.9);
+  color: #0c1016;
+  font-weight: 700;
+}
+
+.image-thumb__selection-toggle {
+  width: 100%;
+  padding: 10px 12px;
+  border: 1px solid rgba(255, 255, 255, 0.12);
+  border-radius: 12px;
+  background: rgba(255, 255, 255, 0.02);
+  color: var(--silver);
+  font-size: 0.84rem;
+  font-weight: 700;
+}
+
+.image-thumb__selection-toggle.is-active {
+  border-color: rgba(210, 38, 48, 0.6);
+  background: rgba(210, 38, 48, 0.14);
+  color: var(--ink);
+}
+
 .image-thumb.is-selected {
   border-color: rgba(210, 38, 48, 0.7);
   box-shadow: 0 0 0 3px rgba(210, 38, 48, 0.16);
+}
+
+.image-thumb.is-preview .image-thumb__preview-button {
+  box-shadow: 0 0 0 2px rgba(212, 219, 226, 0.28);
 }
 
 .story-form {
@@ -331,6 +393,15 @@
   border-radius: 38px;
   background: linear-gradient(180deg, rgba(255, 255, 255, 0.03), rgba(255, 255, 255, 0.01));
   border: 1px solid rgba(255, 255, 255, 0.08);
+}
+
+.story-preview-export-stage {
+  position: fixed;
+  top: 0;
+  left: -200vw;
+  width: 552px;
+  opacity: 0;
+  pointer-events: none;
 }
 
 .story-preview-shell__viewport {
@@ -611,7 +682,12 @@
 
   .checkbox-grid,
   .export-actions,
-  .image-picker-grid {
+  .image-picker-grid,
+  .image-picker-toolbar__actions {
     grid-template-columns: 1fr;
+  }
+
+  .image-picker-toolbar__actions {
+    display: grid;
   }
 }

@@ -56,3 +56,23 @@ export function buildStoryFileName(car: Car | null) {
     .replace(/^-+|-+$/g, '')
     .concat('-story');
 }
+
+export function buildStoryBatchFileName(
+  car: Car | null,
+  imageUrl: string | null,
+  selectedImagesCount: number,
+) {
+  const baseName = buildStoryFileName(car);
+
+  if (!car || !imageUrl || selectedImagesCount <= 1) {
+    return baseName;
+  }
+
+  const imageIndex = car.images.indexOf(imageUrl);
+
+  if (imageIndex === -1) {
+    return baseName;
+  }
+
+  return `${baseName}-foto-${String(imageIndex + 1).padStart(2, '0')}`;
+}
