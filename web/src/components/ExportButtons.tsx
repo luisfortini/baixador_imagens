@@ -48,8 +48,8 @@ export function ExportButtons({
 
         setMessage(
           selectedImages.length > 1
-            ? `${selectedImages.length} imagens originais baixadas com sucesso.`
-            : 'Imagem original baixada com sucesso.',
+            ? `${selectedImages.length} imagens originais em PNG baixadas com sucesso.`
+            : 'Imagem original em PNG baixada com sucesso.',
         );
         return;
       }
@@ -130,18 +130,18 @@ export function ExportButtons({
           onClick={() => handleExport('original')}
         >
           {exporting === 'original'
-            ? 'Baixando originais...'
+            ? 'Convertendo para PNG...'
             : selectedCount > 1
-              ? `Baixar ${selectedCount} originais`
-              : 'Baixar original'}
+              ? `Baixar ${selectedCount} originais em PNG`
+              : 'Baixar original em PNG'}
         </button>
       </div>
 
       <p className="panel-feedback">
         {message ||
           (selectedCount > 1
-            ? `Exporte ${selectedCount} stories em PNG/JPG ou baixe as imagens originais sem tarja.`
-            : 'Exporte o story em alta resolucao ou baixe a imagem original sem tarja.')}
+            ? `Exporte ${selectedCount} stories em PNG/JPG ou baixe as imagens originais sem tarja em PNG.`
+            : 'Exporte o story em alta resolucao ou baixe a imagem original sem tarja em PNG.')}
       </p>
     </section>
   );

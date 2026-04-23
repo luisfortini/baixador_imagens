@@ -35,28 +35,47 @@ function normalizePreviewUrl(url: string) {
   return new URL(url, window.location.href).href;
 }
 
-function getFileExtensionFromUrl(url: string) {
-  const pathname = new URL(url, window.location.href).pathname;
-  const match = pathname.match(/(\.[a-z0-9]+)$/i);
+async function loadImageFromBlob(blob: Blob): Promise<HTMLImageElement> {
+  const objectUrl = URL.createObjectURL(blob);
+  const image = new Image();
 
-  return match ? match[1].toLowerCase() : '';
+  try {
+    await new Promise<HTMLImageElement>((resolve, reject) => {
+      image.onload = () => resolve(image);
+      image.onerror = () => reject(new Error('Nao foi possivel processar a imagem original.'));
+      image.src = objectUrl;
+    });
+
+    return image;
+  } finally {
+    URL.revokeObjectURL(objectUrl);
+  }
 }
 
-function getFileExtensionFromMimeType(mimeType: string) {
-  switch (mimeType.split(';')[0]?.trim().toLowerCase()) {
-    case 'image/jpeg':
-      return '.jpg';
-    case 'image/png':
-      return '.png';
-    case 'image/webp':
-      return '.webp';
-    case 'image/gif':
-      return '.gif';
-    case 'image/avif':
-      return '.avif';
-    default:
-      return '';
+async function convertBlobToPng(blob: Blob) {
+  const image = await loadImageFromBlob(blob);
+  const canvas = document.createElement('canvas');
+  canvas.width = image.naturalWidth;
+  canvas.height = image.naturalHeight;
+
+  const context = canvas.getContext('2d');
+
+  if (!context) {
+    throw new Error('Nao foi possivel converter a imagem original para PNG.');
   }
+
+  context.drawImage(image, 0, 0);
+
+  return new Promise<Blob>((resolve, reject) => {
+    canvas.toBlob((pngBlob) => {
+      if (!pngBlob) {
+        reject(new Error('Nao foi possivel converter a imagem original para PNG.'));
+        return;
+      }
+
+      resolve(pngBlob);
+    }, 'image/png');
+  });
 }
 
 function waitForNextFrame() {
@@ -136,7 +155,7 @@ export async function downloadOriginalImage(imageUrl: string, fileNameBase: stri
   }
 
   const blob = await response.blob();
-  const extension = getFileExtensionFromUrl(imageUrl) || getFileExtensionFromMimeType(blob.type);
+  const pngBlob = await convertBlobToPng(blob);
 
-  downloadBlob(blob, `${fileNameBase}${extension}`);
+  downloadBlob(pngBlob, `${fileNameBase}.png`);
 }
