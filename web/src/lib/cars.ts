@@ -45,7 +45,7 @@ export function createInitialStoryForm(car: Car): StoryFormValues {
   };
 }
 
-export function buildStoryFileName(car: Car | null) {
+export function buildCarFileNameBase(car: Car | null) {
   const seed = car?.id || car?.name || 'overtake';
 
   return seed
@@ -53,8 +53,11 @@ export function buildStoryFileName(car: Car | null) {
     .replace(/[\u0300-\u036f]/g, '')
     .toLowerCase()
     .replace(/[^a-z0-9]+/g, '-')
-    .replace(/^-+|-+$/g, '')
-    .concat('-story');
+    .replace(/^-+|-+$/g, '');
+}
+
+export function buildStoryFileName(car: Car | null) {
+  return `${buildCarFileNameBase(car)}-story`;
 }
 
 export function buildStoryBatchFileName(
@@ -65,6 +68,22 @@ export function buildStoryBatchFileName(
   const baseName = buildStoryFileName(car);
 
   if (!car || !imageUrl || selectedImagesCount <= 1) {
+    return baseName;
+  }
+
+  const imageIndex = car.images.indexOf(imageUrl);
+
+  if (imageIndex === -1) {
+    return baseName;
+  }
+
+  return `${baseName}-foto-${String(imageIndex + 1).padStart(2, '0')}`;
+}
+
+export function buildOriginalImageFileName(car: Car | null, imageUrl: string | null) {
+  const baseName = buildCarFileNameBase(car);
+
+  if (!car || !imageUrl) {
     return baseName;
   }
 

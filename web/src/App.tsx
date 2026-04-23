@@ -8,6 +8,7 @@ import { StoryPreview } from './components/StoryPreview';
 import { BRAND } from './config/brand';
 import { fetchCars, refreshInventory } from './lib/api';
 import {
+  buildOriginalImageFileName,
   buildStoryFileName,
   buildStoryBatchFileName,
   createInitialStoryForm,
@@ -289,6 +290,9 @@ export default function App() {
             previewRef={exportPreviewRef}
             resolveFileName={(imageUrl) =>
               buildStoryBatchFileName(selectedCar, imageUrl, selectedImages.length)
+            }
+            resolveOriginalFileName={(imageUrl) =>
+              buildOriginalImageFileName(selectedCar, imageUrl)
             }
             selectedImages={selectedImages}
           />

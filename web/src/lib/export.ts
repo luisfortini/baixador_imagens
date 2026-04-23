@@ -19,8 +19,44 @@ function downloadDataUrl(dataUrl: string, fileName: string) {
   anchor.click();
 }
 
+function downloadBlob(blob: Blob, fileName: string) {
+  const objectUrl = URL.createObjectURL(blob);
+  const anchor = document.createElement('a');
+  anchor.download = fileName;
+  anchor.href = objectUrl;
+  anchor.click();
+
+  window.setTimeout(() => {
+    URL.revokeObjectURL(objectUrl);
+  }, 1000);
+}
+
 function normalizePreviewUrl(url: string) {
   return new URL(url, window.location.href).href;
+}
+
+function getFileExtensionFromUrl(url: string) {
+  const pathname = new URL(url, window.location.href).pathname;
+  const match = pathname.match(/(\.[a-z0-9]+)$/i);
+
+  return match ? match[1].toLowerCase() : '';
+}
+
+function getFileExtensionFromMimeType(mimeType: string) {
+  switch (mimeType.split(';')[0]?.trim().toLowerCase()) {
+    case 'image/jpeg':
+      return '.jpg';
+    case 'image/png':
+      return '.png';
+    case 'image/webp':
+      return '.webp';
+    case 'image/gif':
+      return '.gif';
+    case 'image/avif':
+      return '.avif';
+    default:
+      return '';
+  }
 }
 
 function waitForNextFrame() {
@@ -90,4 +126,17 @@ export async function downloadStory(
 
   const dataUrl = await toPng(previewNode, EXPORT_OPTIONS);
   downloadDataUrl(dataUrl, `${fileNameBase}.png`);
+}
+
+export async function downloadOriginalImage(imageUrl: string, fileNameBase: string) {
+  const response = await fetch(imageUrl);
+
+  if (!response.ok) {
+    throw new Error('Nao foi possivel baixar a imagem original.');
+  }
+
+  const blob = await response.blob();
+  const extension = getFileExtensionFromUrl(imageUrl) || getFileExtensionFromMimeType(blob.type);
+
+  downloadBlob(blob, `${fileNameBase}${extension}`);
 }

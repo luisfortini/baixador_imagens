@@ -1,6 +1,6 @@
 import { useState } from 'react';
 
-import { downloadStory } from '../lib/export';
+import { downloadOriginalImage, downloadStory } from '../lib/export';
 import type { ExportFormat } from '../types/story';
 
 interface ExportButtonsProps {
@@ -10,6 +10,7 @@ interface ExportButtonsProps {
   selectedImages: string[];
   onSelectExportImage: (imageUrl: string) => void;
   resolveFileName?: (imageUrl: string, exportIndex: number) => string;
+  resolveOriginalFileName?: (imageUrl: string, exportIndex: number) => string;
   onExportComplete?: () => void;
 }
 
@@ -20,20 +21,42 @@ export function ExportButtons({
   onSelectExportImage,
   previewRef,
   resolveFileName,
+  resolveOriginalFileName,
   selectedImages,
 }: ExportButtonsProps) {
-  const [exporting, setExporting] = useState<ExportFormat | null>(null);
+  const [exporting, setExporting] = useState<ExportFormat | 'original' | null>(null);
   const [message, setMessage] = useState<string | null>(null);
   const selectedCount = selectedImages.length;
 
-  async function handleExport(format: ExportFormat) {
-    if (!previewRef.current || disabled || !selectedImages.length) {
+  async function handleExport(format: ExportFormat | 'original') {
+    if (disabled || !selectedImages.length) {
       return;
     }
 
     try {
       setExporting(format);
       setMessage(null);
+
+      if (format === 'original') {
+        for (const [index, imageUrl] of selectedImages.entries()) {
+          await downloadOriginalImage(
+            imageUrl,
+            resolveOriginalFileName?.(imageUrl, index) ||
+              `${fileNameBase.replace(/-story$/i, '')}-foto-${String(index + 1).padStart(2, '0')}`,
+          );
+        }
+
+        setMessage(
+          selectedImages.length > 1
+            ? `${selectedImages.length} imagens originais baixadas com sucesso.`
+            : 'Imagem original baixada com sucesso.',
+        );
+        return;
+      }
+
+      if (!previewRef.current) {
+        return;
+      }
 
       for (const [index, imageUrl] of selectedImages.entries()) {
         onSelectExportImage(imageUrl);
@@ -69,7 +92,7 @@ export function ExportButtons({
       <div className="panel-header">
         <div>
           <span className="eyebrow">Exportacao</span>
-          <h2>Baixe as artes finais</h2>
+          <h2>Baixe as artes e originais</h2>
         </div>
       </div>
 
@@ -99,13 +122,26 @@ export function ExportButtons({
               ? `Baixar ${selectedCount} JPGs`
               : 'Baixar JPG'}
         </button>
+
+        <button
+          className="secondary-button"
+          disabled={disabled || exporting !== null}
+          type="button"
+          onClick={() => handleExport('original')}
+        >
+          {exporting === 'original'
+            ? 'Baixando originais...'
+            : selectedCount > 1
+              ? `Baixar ${selectedCount} originais`
+              : 'Baixar original'}
+        </button>
       </div>
 
       <p className="panel-feedback">
         {message ||
           (selectedCount > 1
-            ? `Exportacao em lote no formato 1080 x 1920 para ${selectedCount} imagens selecionadas.`
-            : 'Exportacao em alta resolucao no formato 1080 x 1920.')}
+            ? `Exporte ${selectedCount} stories em PNG/JPG ou baixe as imagens originais sem tarja.`
+            : 'Exporte o story em alta resolucao ou baixe a imagem original sem tarja.')}
       </p>
     </section>
   );
